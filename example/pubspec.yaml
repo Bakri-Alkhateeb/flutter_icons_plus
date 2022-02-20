@@ -19,5 +19,10 @@ dev_dependencies:
     path: ../
   flutter_lints: ^1.0.0
 
+flutter_icons:
+  includes:
+    - ant
+    - mco
+
 flutter:
   uses-material-design: true
