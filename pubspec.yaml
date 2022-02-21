@@ -1,7 +1,7 @@
 name: flutter_icons_plus
 description: Customizable Icons for Flutter with over 3K+ icons. It is the null safe version of the
   flutter_icons package
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/Bakri-Alkhateeb/flutter_icons_plus
 
 environment:

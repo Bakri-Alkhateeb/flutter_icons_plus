@@ -1,10 +1,14 @@
+## 1.0.3
+
+- Remove doc references from README.md file.
+
 ## 1.0.2
 
-- Minor improvements to get all pub points.
+- Remove some important entry points from .gitignore file.
 
 ## 1.0.1
 
-- Minor improvements to get all pub points.
+- Provide library level documentation.
 
 ## 1.0.0
 
