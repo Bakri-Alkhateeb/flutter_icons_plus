@@ -49,7 +49,7 @@ To use this plugin, add `flutter_icons_plus` as a dependency in your pubspec.yam
 ``` dart
 // First import the package
 import 'package:flutter_icons_plus/flutter_icons_plus.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 // Then you can use the IconData inside the Icon Widget
 Icon(FlutterIcons.stepForwardAnt)

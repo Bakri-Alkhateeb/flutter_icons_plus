@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 /// A class that is used to generate IconData under different icon sets
 class FlutterIconData extends IconData {
