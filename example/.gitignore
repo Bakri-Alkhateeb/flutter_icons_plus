@@ -27,10 +27,6 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
-/android
-/ios
-/web
-/windows
 .pub-cache/
 .pub/
 /build/
