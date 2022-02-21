@@ -1,3 +1,6 @@
+/// Support for doing something awesome.
+///
+/// More dart docs go here.
 library flutter_icons_plus;
 
 export 'src/ant_design.dart';
