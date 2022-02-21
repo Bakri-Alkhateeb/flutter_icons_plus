@@ -14,8 +14,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61443);
   static const IconData accessPointNetworkOff =
       FlutterIconData.materialCommunityIcons(64445);
-  static const IconData account =
-      FlutterIconData.materialCommunityIcons(61444);
+  static const IconData account = FlutterIconData.materialCommunityIcons(61444);
   static const IconData accountAlert =
       FlutterIconData.materialCommunityIcons(61445);
   static const IconData accountAlertOutline =
@@ -148,22 +147,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63561);
   static const IconData adChoices =
       FlutterIconData.materialCommunityIcons(64798);
-  static const IconData adjust =
-      FlutterIconData.materialCommunityIcons(61466);
-  static const IconData adobe =
-      FlutterIconData.materialCommunityIcons(63797);
+  static const IconData adjust = FlutterIconData.materialCommunityIcons(61466);
+  static const IconData adobe = FlutterIconData.materialCommunityIcons(63797);
   static const IconData adobeAcrobat =
       FlutterIconData.materialCommunityIcons(65469);
   static const IconData airConditioner =
       FlutterIconData.materialCommunityIcons(61467);
   static const IconData airFilter =
       FlutterIconData.materialCommunityIcons(64799);
-  static const IconData airHorn =
-      FlutterIconData.materialCommunityIcons(64904);
+  static const IconData airHorn = FlutterIconData.materialCommunityIcons(64904);
   static const IconData airPurifier =
       FlutterIconData.materialCommunityIcons(64800);
-  static const IconData airbag =
-      FlutterIconData.materialCommunityIcons(64453);
+  static const IconData airbag = FlutterIconData.materialCommunityIcons(64453);
   static const IconData airBalloon =
       FlutterIconData.materialCommunityIcons(61468);
   static const IconData airplane =
@@ -174,12 +169,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61470);
   static const IconData airplaneTakeoff =
       FlutterIconData.materialCommunityIcons(62933);
-  static const IconData airplay =
-      FlutterIconData.materialCommunityIcons(61471);
-  static const IconData airport =
-      FlutterIconData.materialCommunityIcons(63562);
-  static const IconData alarm =
-      FlutterIconData.materialCommunityIcons(61472);
+  static const IconData airplay = FlutterIconData.materialCommunityIcons(61471);
+  static const IconData airport = FlutterIconData.materialCommunityIcons(63562);
+  static const IconData alarm = FlutterIconData.materialCommunityIcons(61472);
   static const IconData alarmBell =
       FlutterIconData.materialCommunityIcons(63373);
   static const IconData alarmCheck =
@@ -200,10 +192,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61476);
   static const IconData alarmSnooze =
       FlutterIconData.materialCommunityIcons(63117);
-  static const IconData album =
-      FlutterIconData.materialCommunityIcons(61477);
-  static const IconData alert =
-      FlutterIconData.materialCommunityIcons(61478);
+  static const IconData album = FlutterIconData.materialCommunityIcons(61477);
+  static const IconData alert = FlutterIconData.materialCommunityIcons(61478);
   static const IconData alertBox =
       FlutterIconData.materialCommunityIcons(61479);
   static const IconData alertBoxOutline =
@@ -226,14 +216,11 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64707);
   static const IconData alertOutline =
       FlutterIconData.materialCommunityIcons(61482);
-  static const IconData alien =
-      FlutterIconData.materialCommunityIcons(63641);
+  static const IconData alien = FlutterIconData.materialCommunityIcons(63641);
   static const IconData allInclusive =
       FlutterIconData.materialCommunityIcons(63165);
-  static const IconData alpha =
-      FlutterIconData.materialCommunityIcons(61483);
-  static const IconData alphaA =
-      FlutterIconData.materialCommunityIcons(65);
+  static const IconData alpha = FlutterIconData.materialCommunityIcons(61483);
+  static const IconData alphaA = FlutterIconData.materialCommunityIcons(65);
   static const IconData alphaABox =
       FlutterIconData.materialCommunityIcons(64237);
   static const IconData alphaABoxOutline =
@@ -242,8 +229,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64456);
   static const IconData alphaACircleOutline =
       FlutterIconData.materialCommunityIcons(64457);
-  static const IconData alphaB =
-      FlutterIconData.materialCommunityIcons(66);
+  static const IconData alphaB = FlutterIconData.materialCommunityIcons(66);
   static const IconData alphaBBox =
       FlutterIconData.materialCommunityIcons(64238);
   static const IconData alphaBBoxOutline =
@@ -252,8 +238,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64459);
   static const IconData alphaBCircleOutline =
       FlutterIconData.materialCommunityIcons(64460);
-  static const IconData alphaC =
-      FlutterIconData.materialCommunityIcons(67);
+  static const IconData alphaC = FlutterIconData.materialCommunityIcons(67);
   static const IconData alphaCBox =
       FlutterIconData.materialCommunityIcons(64239);
   static const IconData alphaCBoxOutline =
@@ -262,8 +247,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64462);
   static const IconData alphaCCircleOutline =
       FlutterIconData.materialCommunityIcons(64463);
-  static const IconData alphaD =
-      FlutterIconData.materialCommunityIcons(68);
+  static const IconData alphaD = FlutterIconData.materialCommunityIcons(68);
   static const IconData alphaDBox =
       FlutterIconData.materialCommunityIcons(64240);
   static const IconData alphaDBoxOutline =
@@ -272,8 +256,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64465);
   static const IconData alphaDCircleOutline =
       FlutterIconData.materialCommunityIcons(64466);
-  static const IconData alphaE =
-      FlutterIconData.materialCommunityIcons(69);
+  static const IconData alphaE = FlutterIconData.materialCommunityIcons(69);
   static const IconData alphaEBox =
       FlutterIconData.materialCommunityIcons(64241);
   static const IconData alphaEBoxOutline =
@@ -282,8 +265,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64468);
   static const IconData alphaECircleOutline =
       FlutterIconData.materialCommunityIcons(64469);
-  static const IconData alphaF =
-      FlutterIconData.materialCommunityIcons(70);
+  static const IconData alphaF = FlutterIconData.materialCommunityIcons(70);
   static const IconData alphaFBox =
       FlutterIconData.materialCommunityIcons(64242);
   static const IconData alphaFBoxOutline =
@@ -292,8 +274,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64471);
   static const IconData alphaFCircleOutline =
       FlutterIconData.materialCommunityIcons(64472);
-  static const IconData alphaG =
-      FlutterIconData.materialCommunityIcons(71);
+  static const IconData alphaG = FlutterIconData.materialCommunityIcons(71);
   static const IconData alphaGBox =
       FlutterIconData.materialCommunityIcons(64243);
   static const IconData alphaGBoxOutline =
@@ -302,8 +283,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64474);
   static const IconData alphaGCircleOutline =
       FlutterIconData.materialCommunityIcons(64475);
-  static const IconData alphaH =
-      FlutterIconData.materialCommunityIcons(72);
+  static const IconData alphaH = FlutterIconData.materialCommunityIcons(72);
   static const IconData alphaHBox =
       FlutterIconData.materialCommunityIcons(64244);
   static const IconData alphaHBoxOutline =
@@ -312,8 +292,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64477);
   static const IconData alphaHCircleOutline =
       FlutterIconData.materialCommunityIcons(64478);
-  static const IconData alphaI =
-      FlutterIconData.materialCommunityIcons(73);
+  static const IconData alphaI = FlutterIconData.materialCommunityIcons(73);
   static const IconData alphaIBox =
       FlutterIconData.materialCommunityIcons(64245);
   static const IconData alphaIBoxOutline =
@@ -322,8 +301,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64480);
   static const IconData alphaICircleOutline =
       FlutterIconData.materialCommunityIcons(64481);
-  static const IconData alphaJ =
-      FlutterIconData.materialCommunityIcons(74);
+  static const IconData alphaJ = FlutterIconData.materialCommunityIcons(74);
   static const IconData alphaJBox =
       FlutterIconData.materialCommunityIcons(64246);
   static const IconData alphaJBoxOutline =
@@ -332,8 +310,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64483);
   static const IconData alphaJCircleOutline =
       FlutterIconData.materialCommunityIcons(64484);
-  static const IconData alphaK =
-      FlutterIconData.materialCommunityIcons(75);
+  static const IconData alphaK = FlutterIconData.materialCommunityIcons(75);
   static const IconData alphaKBox =
       FlutterIconData.materialCommunityIcons(64247);
   static const IconData alphaKBoxOutline =
@@ -342,8 +319,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64486);
   static const IconData alphaKCircleOutline =
       FlutterIconData.materialCommunityIcons(64487);
-  static const IconData alphaL =
-      FlutterIconData.materialCommunityIcons(76);
+  static const IconData alphaL = FlutterIconData.materialCommunityIcons(76);
   static const IconData alphaLBox =
       FlutterIconData.materialCommunityIcons(64248);
   static const IconData alphaLBoxOutline =
@@ -352,8 +328,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64489);
   static const IconData alphaLCircleOutline =
       FlutterIconData.materialCommunityIcons(64490);
-  static const IconData alphaM =
-      FlutterIconData.materialCommunityIcons(77);
+  static const IconData alphaM = FlutterIconData.materialCommunityIcons(77);
   static const IconData alphaMBox =
       FlutterIconData.materialCommunityIcons(64249);
   static const IconData alphaMBoxOutline =
@@ -362,8 +337,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64492);
   static const IconData alphaMCircleOutline =
       FlutterIconData.materialCommunityIcons(64493);
-  static const IconData alphaN =
-      FlutterIconData.materialCommunityIcons(78);
+  static const IconData alphaN = FlutterIconData.materialCommunityIcons(78);
   static const IconData alphaNBox =
       FlutterIconData.materialCommunityIcons(64250);
   static const IconData alphaNBoxOutline =
@@ -372,8 +346,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64495);
   static const IconData alphaNCircleOutline =
       FlutterIconData.materialCommunityIcons(64496);
-  static const IconData alphaO =
-      FlutterIconData.materialCommunityIcons(79);
+  static const IconData alphaO = FlutterIconData.materialCommunityIcons(79);
   static const IconData alphaOBox =
       FlutterIconData.materialCommunityIcons(64251);
   static const IconData alphaOBoxOutline =
@@ -382,8 +355,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64498);
   static const IconData alphaOCircleOutline =
       FlutterIconData.materialCommunityIcons(64499);
-  static const IconData alphaP =
-      FlutterIconData.materialCommunityIcons(80);
+  static const IconData alphaP = FlutterIconData.materialCommunityIcons(80);
   static const IconData alphaPBox =
       FlutterIconData.materialCommunityIcons(64252);
   static const IconData alphaPBoxOutline =
@@ -392,8 +364,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64501);
   static const IconData alphaPCircleOutline =
       FlutterIconData.materialCommunityIcons(64502);
-  static const IconData alphaQ =
-      FlutterIconData.materialCommunityIcons(81);
+  static const IconData alphaQ = FlutterIconData.materialCommunityIcons(81);
   static const IconData alphaQBox =
       FlutterIconData.materialCommunityIcons(64253);
   static const IconData alphaQBoxOutline =
@@ -402,8 +373,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64504);
   static const IconData alphaQCircleOutline =
       FlutterIconData.materialCommunityIcons(64505);
-  static const IconData alphaR =
-      FlutterIconData.materialCommunityIcons(82);
+  static const IconData alphaR = FlutterIconData.materialCommunityIcons(82);
   static const IconData alphaRBox =
       FlutterIconData.materialCommunityIcons(64254);
   static const IconData alphaRBoxOutline =
@@ -412,8 +382,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64507);
   static const IconData alphaRCircleOutline =
       FlutterIconData.materialCommunityIcons(64508);
-  static const IconData alphaS =
-      FlutterIconData.materialCommunityIcons(83);
+  static const IconData alphaS = FlutterIconData.materialCommunityIcons(83);
   static const IconData alphaSBox =
       FlutterIconData.materialCommunityIcons(64255);
   static const IconData alphaSBoxOutline =
@@ -422,8 +391,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64510);
   static const IconData alphaSCircleOutline =
       FlutterIconData.materialCommunityIcons(64511);
-  static const IconData alphaT =
-      FlutterIconData.materialCommunityIcons(84);
+  static const IconData alphaT = FlutterIconData.materialCommunityIcons(84);
   static const IconData alphaTBox =
       FlutterIconData.materialCommunityIcons(64256);
   static const IconData alphaTBoxOutline =
@@ -432,8 +400,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64513);
   static const IconData alphaTCircleOutline =
       FlutterIconData.materialCommunityIcons(64514);
-  static const IconData alphaU =
-      FlutterIconData.materialCommunityIcons(85);
+  static const IconData alphaU = FlutterIconData.materialCommunityIcons(85);
   static const IconData alphaUBox =
       FlutterIconData.materialCommunityIcons(64257);
   static const IconData alphaUBoxOutline =
@@ -442,8 +409,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64516);
   static const IconData alphaUCircleOutline =
       FlutterIconData.materialCommunityIcons(64517);
-  static const IconData alphaV =
-      FlutterIconData.materialCommunityIcons(86);
+  static const IconData alphaV = FlutterIconData.materialCommunityIcons(86);
   static const IconData alphaVBox =
       FlutterIconData.materialCommunityIcons(64258);
   static const IconData alphaVBoxOutline =
@@ -452,8 +418,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64519);
   static const IconData alphaVCircleOutline =
       FlutterIconData.materialCommunityIcons(64520);
-  static const IconData alphaW =
-      FlutterIconData.materialCommunityIcons(87);
+  static const IconData alphaW = FlutterIconData.materialCommunityIcons(87);
   static const IconData alphaWBox =
       FlutterIconData.materialCommunityIcons(64259);
   static const IconData alphaWBoxOutline =
@@ -462,8 +427,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64522);
   static const IconData alphaWCircleOutline =
       FlutterIconData.materialCommunityIcons(64523);
-  static const IconData alphaX =
-      FlutterIconData.materialCommunityIcons(88);
+  static const IconData alphaX = FlutterIconData.materialCommunityIcons(88);
   static const IconData alphaXBox =
       FlutterIconData.materialCommunityIcons(64260);
   static const IconData alphaXBoxOutline =
@@ -472,8 +436,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64525);
   static const IconData alphaXCircleOutline =
       FlutterIconData.materialCommunityIcons(64526);
-  static const IconData alphaY =
-      FlutterIconData.materialCommunityIcons(89);
+  static const IconData alphaY = FlutterIconData.materialCommunityIcons(89);
   static const IconData alphaYBox =
       FlutterIconData.materialCommunityIcons(64261);
   static const IconData alphaYBoxOutline =
@@ -482,8 +445,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64528);
   static const IconData alphaYCircleOutline =
       FlutterIconData.materialCommunityIcons(64529);
-  static const IconData alphaZ =
-      FlutterIconData.materialCommunityIcons(90);
+  static const IconData alphaZ = FlutterIconData.materialCommunityIcons(90);
   static const IconData alphaZBox =
       FlutterIconData.materialCommunityIcons(64262);
   static const IconData alphaZBoxOutline =
@@ -496,8 +458,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61484);
   static const IconData altimeter =
       FlutterIconData.materialCommunityIcons(62935);
-  static const IconData amazon =
-      FlutterIconData.materialCommunityIcons(61485);
+  static const IconData amazon = FlutterIconData.materialCommunityIcons(61485);
   static const IconData amazonAlexa =
       FlutterIconData.materialCommunityIcons(63685);
   static const IconData amazonDrive =
@@ -510,10 +471,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64140);
   static const IconData amplifier =
       FlutterIconData.materialCommunityIcons(61488);
-  static const IconData anchor =
-      FlutterIconData.materialCommunityIcons(61489);
-  static const IconData android =
-      FlutterIconData.materialCommunityIcons(61490);
+  static const IconData anchor = FlutterIconData.materialCommunityIcons(61489);
+  static const IconData android = FlutterIconData.materialCommunityIcons(61490);
   static const IconData androidAuto =
       FlutterIconData.materialCommunityIcons(64141);
   static const IconData androidDebugBridge =
@@ -530,8 +489,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63799);
   static const IconData angleRight =
       FlutterIconData.materialCommunityIcons(63800);
-  static const IconData angular =
-      FlutterIconData.materialCommunityIcons(63153);
+  static const IconData angular = FlutterIconData.materialCommunityIcons(63153);
   static const IconData angularjs =
       FlutterIconData.materialCommunityIcons(63166);
   static const IconData animation =
@@ -542,10 +500,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63801);
   static const IconData animationPlayOutline =
       FlutterIconData.materialCommunityIcons(64143);
-  static const IconData anvil =
-      FlutterIconData.materialCommunityIcons(63642);
-  static const IconData apple =
-      FlutterIconData.materialCommunityIcons(61493);
+  static const IconData anvil = FlutterIconData.materialCommunityIcons(63642);
+  static const IconData apple = FlutterIconData.materialCommunityIcons(61493);
   static const IconData appleFinder =
       FlutterIconData.materialCommunityIcons(61494);
   static const IconData appleIcloud =
@@ -574,14 +530,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65470);
   static const IconData approximatelyEqualBox =
       FlutterIconData.materialCommunityIcons(65471);
-  static const IconData apps =
-      FlutterIconData.materialCommunityIcons(61499);
-  static const IconData appsBox =
-      FlutterIconData.materialCommunityIcons(64802);
-  static const IconData arch =
-      FlutterIconData.materialCommunityIcons(63686);
-  static const IconData archive =
-      FlutterIconData.materialCommunityIcons(61500);
+  static const IconData apps = FlutterIconData.materialCommunityIcons(61499);
+  static const IconData appsBox = FlutterIconData.materialCommunityIcons(64802);
+  static const IconData arch = FlutterIconData.materialCommunityIcons(63686);
+  static const IconData archive = FlutterIconData.materialCommunityIcons(61500);
   static const IconData arrangeBringForward =
       FlutterIconData.materialCommunityIcons(61501);
   static const IconData arrangeBringToFront =
@@ -758,8 +710,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65173);
   static const IconData arrowTopRightThick =
       FlutterIconData.materialCommunityIcons(63941);
-  static const IconData arrowUp =
-      FlutterIconData.materialCommunityIcons(61533);
+  static const IconData arrowUp = FlutterIconData.materialCommunityIcons(61533);
   static const IconData arrowUpBold =
       FlutterIconData.materialCommunityIcons(63286);
   static const IconData arrowUpBoldBox =
@@ -792,8 +743,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61539);
   static const IconData arrowUpThick =
       FlutterIconData.materialCommunityIcons(61534);
-  static const IconData artist =
-      FlutterIconData.materialCommunityIcons(63490);
+  static const IconData artist = FlutterIconData.materialCommunityIcons(63490);
   static const IconData artistOutline =
       FlutterIconData.materialCommunityIcons(64709);
   static const IconData artStation =
@@ -804,14 +754,11 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61540);
   static const IconData asterisk =
       FlutterIconData.materialCommunityIcons(63171);
-  static const IconData at =
-      FlutterIconData.materialCommunityIcons(61541);
+  static const IconData at = FlutterIconData.materialCommunityIcons(61541);
   static const IconData atlassian =
       FlutterIconData.materialCommunityIcons(63491);
-  static const IconData atm =
-      FlutterIconData.materialCommunityIcons(64803);
-  static const IconData atom =
-      FlutterIconData.materialCommunityIcons(63335);
+  static const IconData atm = FlutterIconData.materialCommunityIcons(64803);
+  static const IconData atom = FlutterIconData.materialCommunityIcons(63335);
   static const IconData atomVariant =
       FlutterIconData.materialCommunityIcons(65176);
   static const IconData attachment =
@@ -822,20 +769,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61543);
   static const IconData augmentedReality =
       FlutterIconData.materialCommunityIcons(63567);
-  static const IconData autoFix =
-      FlutterIconData.materialCommunityIcons(61544);
+  static const IconData autoFix = FlutterIconData.materialCommunityIcons(61544);
   static const IconData autoUpload =
       FlutterIconData.materialCommunityIcons(61545);
   static const IconData autoRenew =
       FlutterIconData.materialCommunityIcons(61546);
-  static const IconData avTimer =
-      FlutterIconData.materialCommunityIcons(61547);
-  static const IconData aws =
-      FlutterIconData.materialCommunityIcons(65010);
-  static const IconData axe =
-      FlutterIconData.materialCommunityIcons(63687);
-  static const IconData axis =
-      FlutterIconData.materialCommunityIcons(64804);
+  static const IconData avTimer = FlutterIconData.materialCommunityIcons(61547);
+  static const IconData aws = FlutterIconData.materialCommunityIcons(65010);
+  static const IconData axe = FlutterIconData.materialCommunityIcons(63687);
+  static const IconData axis = FlutterIconData.materialCommunityIcons(64804);
   static const IconData axisArrow =
       FlutterIconData.materialCommunityIcons(64805);
   static const IconData axisArrowLock =
@@ -868,12 +810,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64819);
   static const IconData axisZRotateCounterclockwise =
       FlutterIconData.materialCommunityIcons(64820);
-  static const IconData azure =
-      FlutterIconData.materialCommunityIcons(63492);
-  static const IconData babel =
-      FlutterIconData.materialCommunityIcons(64036);
-  static const IconData baby =
-      FlutterIconData.materialCommunityIcons(61548);
+  static const IconData azure = FlutterIconData.materialCommunityIcons(63492);
+  static const IconData babel = FlutterIconData.materialCommunityIcons(64036);
+  static const IconData baby = FlutterIconData.materialCommunityIcons(61548);
   static const IconData babyBottle =
       FlutterIconData.materialCommunityIcons(65366);
   static const IconData babyBottleOutline =
@@ -922,22 +861,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65014);
   static const IconData baguette =
       FlutterIconData.materialCommunityIcons(65371);
-  static const IconData balloon =
-      FlutterIconData.materialCommunityIcons(64037);
-  static const IconData ballot =
-      FlutterIconData.materialCommunityIcons(63944);
+  static const IconData balloon = FlutterIconData.materialCommunityIcons(64037);
+  static const IconData ballot = FlutterIconData.materialCommunityIcons(63944);
   static const IconData ballotOutline =
       FlutterIconData.materialCommunityIcons(63945);
   static const IconData ballotRecount =
       FlutterIconData.materialCommunityIcons(64533);
   static const IconData ballotRecountOutline =
       FlutterIconData.materialCommunityIcons(64534);
-  static const IconData bandage =
-      FlutterIconData.materialCommunityIcons(64907);
+  static const IconData bandage = FlutterIconData.materialCommunityIcons(64907);
   static const IconData bandCamp =
       FlutterIconData.materialCommunityIcons(63092);
-  static const IconData bank =
-      FlutterIconData.materialCommunityIcons(61552);
+  static const IconData bank = FlutterIconData.materialCommunityIcons(61552);
   static const IconData bankMinus =
       FlutterIconData.materialCommunityIcons(64908);
   static const IconData bankOutline =
@@ -952,26 +887,21 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64039);
   static const IconData bankTransferOut =
       FlutterIconData.materialCommunityIcons(64040);
-  static const IconData barcode =
-      FlutterIconData.materialCommunityIcons(61553);
+  static const IconData barcode = FlutterIconData.materialCommunityIcons(61553);
   static const IconData barcodeScan =
       FlutterIconData.materialCommunityIcons(61554);
-  static const IconData barley =
-      FlutterIconData.materialCommunityIcons(61555);
+  static const IconData barley = FlutterIconData.materialCommunityIcons(61555);
   static const IconData barleyOff =
       FlutterIconData.materialCommunityIcons(64313);
-  static const IconData barn =
-      FlutterIconData.materialCommunityIcons(64314);
-  static const IconData barrel =
-      FlutterIconData.materialCommunityIcons(61556);
+  static const IconData barn = FlutterIconData.materialCommunityIcons(64314);
+  static const IconData barrel = FlutterIconData.materialCommunityIcons(61556);
   static const IconData baseball =
       FlutterIconData.materialCommunityIcons(63569);
   static const IconData baseballBat =
       FlutterIconData.materialCommunityIcons(63570);
   static const IconData basecamp =
       FlutterIconData.materialCommunityIcons(61557);
-  static const IconData basket =
-      FlutterIconData.materialCommunityIcons(61558);
+  static const IconData basket = FlutterIconData.materialCommunityIcons(61558);
   static const IconData basketFill =
       FlutterIconData.materialCommunityIcons(61559);
   static const IconData basketUnFill =
@@ -982,10 +912,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64535);
   static const IconData basketballHoopOutline =
       FlutterIconData.materialCommunityIcons(64536);
-  static const IconData bat =
-      FlutterIconData.materialCommunityIcons(64315);
-  static const IconData battery =
-      FlutterIconData.materialCommunityIcons(61561);
+  static const IconData bat = FlutterIconData.materialCommunityIcons(64315);
+  static const IconData battery = FlutterIconData.materialCommunityIcons(61561);
   static const IconData battery_10 =
       FlutterIconData.materialCommunityIcons(61562);
   static const IconData battery_10Bluetooth =
@@ -1094,26 +1022,19 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63817);
   static const IconData battleNet =
       FlutterIconData.materialCommunityIcons(64316);
-  static const IconData beach =
-      FlutterIconData.materialCommunityIcons(61586);
-  static const IconData beaker =
-      FlutterIconData.materialCommunityIcons(64710);
+  static const IconData beach = FlutterIconData.materialCommunityIcons(61586);
+  static const IconData beaker = FlutterIconData.materialCommunityIcons(64710);
   static const IconData beakerOutline =
       FlutterIconData.materialCommunityIcons(63119);
-  static const IconData beats =
-      FlutterIconData.materialCommunityIcons(61591);
+  static const IconData beats = FlutterIconData.materialCommunityIcons(61591);
   static const IconData bedEmpty =
       FlutterIconData.materialCommunityIcons(63647);
-  static const IconData bee =
-      FlutterIconData.materialCommunityIcons(65473);
+  static const IconData bee = FlutterIconData.materialCommunityIcons(65473);
   static const IconData beeFlower =
       FlutterIconData.materialCommunityIcons(65474);
-  static const IconData beer =
-      FlutterIconData.materialCommunityIcons(61592);
-  static const IconData behance =
-      FlutterIconData.materialCommunityIcons(61593);
-  static const IconData bell =
-      FlutterIconData.materialCommunityIcons(61594);
+  static const IconData beer = FlutterIconData.materialCommunityIcons(61592);
+  static const IconData behance = FlutterIconData.materialCommunityIcons(61593);
+  static const IconData bell = FlutterIconData.materialCommunityIcons(61594);
   static const IconData bellAlert =
       FlutterIconData.materialCommunityIcons(64821);
   static const IconData bellAlertOutline =
@@ -1122,8 +1043,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64822);
   static const IconData bellCircleOutline =
       FlutterIconData.materialCommunityIcons(64823);
-  static const IconData bellOff =
-      FlutterIconData.materialCommunityIcons(61595);
+  static const IconData bellOff = FlutterIconData.materialCommunityIcons(61595);
   static const IconData bellOffOutline =
       FlutterIconData.materialCommunityIcons(64144);
   static const IconData bellOutline =
@@ -1140,46 +1060,36 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61600);
   static const IconData bellSleepOutline =
       FlutterIconData.materialCommunityIcons(64146);
-  static const IconData beta =
-      FlutterIconData.materialCommunityIcons(61601);
-  static const IconData betaMax =
-      FlutterIconData.materialCommunityIcons(63946);
+  static const IconData beta = FlutterIconData.materialCommunityIcons(61601);
+  static const IconData betaMax = FlutterIconData.materialCommunityIcons(63946);
   static const IconData biathlon =
       FlutterIconData.materialCommunityIcons(65015);
-  static const IconData bible =
-      FlutterIconData.materialCommunityIcons(61602);
-  static const IconData bike =
-      FlutterIconData.materialCommunityIcons(61603);
+  static const IconData bible = FlutterIconData.materialCommunityIcons(61602);
+  static const IconData bike = FlutterIconData.materialCommunityIcons(61603);
   static const IconData billiards =
       FlutterIconData.materialCommunityIcons(64317);
   static const IconData billiardsRack =
       FlutterIconData.materialCommunityIcons(64318);
-  static const IconData bing =
-      FlutterIconData.materialCommunityIcons(61604);
+  static const IconData bing = FlutterIconData.materialCommunityIcons(61604);
   static const IconData binoculars =
       FlutterIconData.materialCommunityIcons(61605);
-  static const IconData bio =
-      FlutterIconData.materialCommunityIcons(61606);
+  static const IconData bio = FlutterIconData.materialCommunityIcons(61606);
   static const IconData biohazard =
       FlutterIconData.materialCommunityIcons(61607);
   static const IconData bitbucket =
       FlutterIconData.materialCommunityIcons(61608);
-  static const IconData bitcoin =
-      FlutterIconData.materialCommunityIcons(63506);
+  static const IconData bitcoin = FlutterIconData.materialCommunityIcons(63506);
   static const IconData blackMesa =
       FlutterIconData.materialCommunityIcons(61609);
   static const IconData blackberry =
       FlutterIconData.materialCommunityIcons(61610);
-  static const IconData blender =
-      FlutterIconData.materialCommunityIcons(64711);
+  static const IconData blender = FlutterIconData.materialCommunityIcons(64711);
   static const IconData blenderSoftware =
       FlutterIconData.materialCommunityIcons(61611);
-  static const IconData blinds =
-      FlutterIconData.materialCommunityIcons(61612);
+  static const IconData blinds = FlutterIconData.materialCommunityIcons(61612);
   static const IconData blockHelper =
       FlutterIconData.materialCommunityIcons(61613);
-  static const IconData blogger =
-      FlutterIconData.materialCommunityIcons(61614);
+  static const IconData blogger = FlutterIconData.materialCommunityIcons(61614);
   static const IconData bloodBag =
       FlutterIconData.materialCommunityIcons(64712);
   static const IconData bluetooth =
@@ -1194,26 +1104,19 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61619);
   static const IconData bluetoothTransfer =
       FlutterIconData.materialCommunityIcons(61620);
-  static const IconData blur =
-      FlutterIconData.materialCommunityIcons(61621);
+  static const IconData blur = FlutterIconData.materialCommunityIcons(61621);
   static const IconData blurLinear =
       FlutterIconData.materialCommunityIcons(61622);
-  static const IconData blurOff =
-      FlutterIconData.materialCommunityIcons(61623);
+  static const IconData blurOff = FlutterIconData.materialCommunityIcons(61623);
   static const IconData blurRadial =
       FlutterIconData.materialCommunityIcons(61624);
   static const IconData bolnisiCross =
       FlutterIconData.materialCommunityIcons(64713);
-  static const IconData bolt =
-      FlutterIconData.materialCommunityIcons(64911);
-  static const IconData bomb =
-      FlutterIconData.materialCommunityIcons(63120);
-  static const IconData bombOff =
-      FlutterIconData.materialCommunityIcons(63172);
-  static const IconData bone =
-      FlutterIconData.materialCommunityIcons(61625);
-  static const IconData book =
-      FlutterIconData.materialCommunityIcons(61626);
+  static const IconData bolt = FlutterIconData.materialCommunityIcons(64911);
+  static const IconData bomb = FlutterIconData.materialCommunityIcons(63120);
+  static const IconData bombOff = FlutterIconData.materialCommunityIcons(63172);
+  static const IconData bone = FlutterIconData.materialCommunityIcons(61625);
+  static const IconData book = FlutterIconData.materialCommunityIcons(61626);
   static const IconData bookLock =
       FlutterIconData.materialCommunityIcons(63385);
   static const IconData bookLockOpen =
@@ -1296,8 +1199,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65193);
   static const IconData boomGateUpOutline =
       FlutterIconData.materialCommunityIcons(65194);
-  static const IconData boombox =
-      FlutterIconData.materialCommunityIcons(62940);
+  static const IconData boombox = FlutterIconData.materialCommunityIcons(62940);
   static const IconData bootstrap =
       FlutterIconData.materialCommunityIcons(63173);
   static const IconData borderAll =
@@ -1338,30 +1240,23 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61650);
   static const IconData bottleWine =
       FlutterIconData.materialCommunityIcons(63571);
-  static const IconData bowTie =
-      FlutterIconData.materialCommunityIcons(63095);
-  static const IconData bowl =
-      FlutterIconData.materialCommunityIcons(62999);
-  static const IconData bowling =
-      FlutterIconData.materialCommunityIcons(61651);
-  static const IconData box =
-      FlutterIconData.materialCommunityIcons(61652);
+  static const IconData bowTie = FlutterIconData.materialCommunityIcons(63095);
+  static const IconData bowl = FlutterIconData.materialCommunityIcons(62999);
+  static const IconData bowling = FlutterIconData.materialCommunityIcons(61651);
+  static const IconData box = FlutterIconData.materialCommunityIcons(61652);
   static const IconData boxCutter =
       FlutterIconData.materialCommunityIcons(61653);
   static const IconData boxShadow =
       FlutterIconData.materialCommunityIcons(63031);
   static const IconData boxingGlove =
       FlutterIconData.materialCommunityIcons(64321);
-  static const IconData braille =
-      FlutterIconData.materialCommunityIcons(63951);
-  static const IconData brain =
-      FlutterIconData.materialCommunityIcons(63952);
+  static const IconData braille = FlutterIconData.materialCommunityIcons(63951);
+  static const IconData brain = FlutterIconData.materialCommunityIcons(63952);
   static const IconData breadSlice =
       FlutterIconData.materialCommunityIcons(64714);
   static const IconData breadSliceOutline =
       FlutterIconData.materialCommunityIcons(64715);
-  static const IconData bridge =
-      FlutterIconData.materialCommunityIcons(63000);
+  static const IconData bridge = FlutterIconData.materialCommunityIcons(63000);
   static const IconData briefcase =
       FlutterIconData.materialCommunityIcons(61654);
   static const IconData briefcaseAccount =
@@ -1418,28 +1313,22 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61665);
   static const IconData brightnessPercent =
       FlutterIconData.materialCommunityIcons(64718);
-  static const IconData broom =
-      FlutterIconData.materialCommunityIcons(61666);
-  static const IconData brush =
-      FlutterIconData.materialCommunityIcons(61667);
+  static const IconData broom = FlutterIconData.materialCommunityIcons(61666);
+  static const IconData brush = FlutterIconData.materialCommunityIcons(61667);
   static const IconData buddhism =
       FlutterIconData.materialCommunityIcons(63818);
-  static const IconData buffer =
-      FlutterIconData.materialCommunityIcons(63001);
-  static const IconData bug =
-      FlutterIconData.materialCommunityIcons(61668);
+  static const IconData buffer = FlutterIconData.materialCommunityIcons(63001);
+  static const IconData bug = FlutterIconData.materialCommunityIcons(61668);
   static const IconData bugCheck =
       FlutterIconData.materialCommunityIcons(64045);
   static const IconData bugCheckOutline =
       FlutterIconData.materialCommunityIcons(64046);
   static const IconData bugOutline =
       FlutterIconData.materialCommunityIcons(64047);
-  static const IconData bugle =
-      FlutterIconData.materialCommunityIcons(64912);
+  static const IconData bugle = FlutterIconData.materialCommunityIcons(64912);
   static const IconData bulldozer =
       FlutterIconData.materialCommunityIcons(64263);
-  static const IconData bullet =
-      FlutterIconData.materialCommunityIcons(64719);
+  static const IconData bullet = FlutterIconData.materialCommunityIcons(64719);
   static const IconData bulletinBoard =
       FlutterIconData.materialCommunityIcons(61669);
   static const IconData bullhorn =
@@ -1450,8 +1339,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62941);
   static const IconData bullseyeArrow =
       FlutterIconData.materialCommunityIcons(63688);
-  static const IconData bus =
-      FlutterIconData.materialCommunityIcons(61671);
+  static const IconData bus = FlutterIconData.materialCommunityIcons(61671);
   static const IconData busAlert =
       FlutterIconData.materialCommunityIcons(64152);
   static const IconData busArticulatedEnd =
@@ -1466,14 +1354,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65372);
   static const IconData busSchool =
       FlutterIconData.materialCommunityIcons(63390);
-  static const IconData busSide =
-      FlutterIconData.materialCommunityIcons(63391);
-  static const IconData cached =
-      FlutterIconData.materialCommunityIcons(61672);
-  static const IconData cactus =
-      FlutterIconData.materialCommunityIcons(64913);
-  static const IconData cake =
-      FlutterIconData.materialCommunityIcons(61673);
+  static const IconData busSide = FlutterIconData.materialCommunityIcons(63391);
+  static const IconData cached = FlutterIconData.materialCommunityIcons(61672);
+  static const IconData cactus = FlutterIconData.materialCommunityIcons(64913);
+  static const IconData cake = FlutterIconData.materialCommunityIcons(61673);
   static const IconData cakeLayered =
       FlutterIconData.materialCommunityIcons(61674);
   static const IconData cakeVariant =
@@ -1574,8 +1458,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61694);
   static const IconData camcorderOff =
       FlutterIconData.materialCommunityIcons(61695);
-  static const IconData camera =
-      FlutterIconData.materialCommunityIcons(61696);
+  static const IconData camera = FlutterIconData.materialCommunityIcons(61696);
   static const IconData cameraAccount =
       FlutterIconData.materialCommunityIcons(63690);
   static const IconData cameraBurst =
@@ -1632,20 +1515,16 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64915);
   static const IconData campfire =
       FlutterIconData.materialCommunityIcons(65274);
-  static const IconData cancel =
-      FlutterIconData.materialCommunityIcons(63289);
-  static const IconData candle =
-      FlutterIconData.materialCommunityIcons(62946);
+  static const IconData cancel = FlutterIconData.materialCommunityIcons(63289);
+  static const IconData candle = FlutterIconData.materialCommunityIcons(62946);
   static const IconData candyCane =
       FlutterIconData.materialCommunityIcons(61706);
   static const IconData cannabis =
       FlutterIconData.materialCommunityIcons(63397);
   static const IconData capsLock =
       FlutterIconData.materialCommunityIcons(64154);
-  static const IconData car =
-      FlutterIconData.materialCommunityIcons(61707);
-  static const IconData carBack =
-      FlutterIconData.materialCommunityIcons(65022);
+  static const IconData car = FlutterIconData.materialCommunityIcons(61707);
+  static const IconData carBack = FlutterIconData.materialCommunityIcons(65022);
   static const IconData carBattery =
       FlutterIconData.materialCommunityIcons(61708);
   static const IconData carBrakeAbs =
@@ -1668,18 +1547,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64829);
   static const IconData carDefrostRear =
       FlutterIconData.materialCommunityIcons(64830);
-  static const IconData carDoor =
-      FlutterIconData.materialCommunityIcons(64327);
+  static const IconData carDoor = FlutterIconData.materialCommunityIcons(64327);
   static const IconData carElectric =
       FlutterIconData.materialCommunityIcons(64328);
-  static const IconData carEsp =
-      FlutterIconData.materialCommunityIcons(64549);
+  static const IconData carEsp = FlutterIconData.materialCommunityIcons(64549);
   static const IconData carEstate =
       FlutterIconData.materialCommunityIcons(63399);
   static const IconData carHatchback =
       FlutterIconData.materialCommunityIcons(63400);
-  static const IconData carKey =
-      FlutterIconData.materialCommunityIcons(64329);
+  static const IconData carKey = FlutterIconData.materialCommunityIcons(64329);
   static const IconData carLightDimmed =
       FlutterIconData.materialCommunityIcons(64550);
   static const IconData carLightFog =
@@ -1690,34 +1566,28 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63692);
   static const IconData carMultiple =
       FlutterIconData.materialCommunityIcons(64330);
-  static const IconData carOff =
-      FlutterIconData.materialCommunityIcons(65023);
+  static const IconData carOff = FlutterIconData.materialCommunityIcons(65023);
   static const IconData carParkingLights =
       FlutterIconData.materialCommunityIcons(64831);
   static const IconData carPickup =
       FlutterIconData.materialCommunityIcons(63401);
-  static const IconData carSeat =
-      FlutterIconData.materialCommunityIcons(65476);
+  static const IconData carSeat = FlutterIconData.materialCommunityIcons(65476);
   static const IconData carSeatCooler =
       FlutterIconData.materialCommunityIcons(65477);
   static const IconData carSeatHeater =
       FlutterIconData.materialCommunityIcons(65478);
   static const IconData carShiftPattern =
       FlutterIconData.materialCommunityIcons(65373);
-  static const IconData carSide =
-      FlutterIconData.materialCommunityIcons(63402);
+  static const IconData carSide = FlutterIconData.materialCommunityIcons(63402);
   static const IconData carSports =
       FlutterIconData.materialCommunityIcons(63403);
   static const IconData carTireAlert =
       FlutterIconData.materialCommunityIcons(64553);
   static const IconData carTractionControl =
       FlutterIconData.materialCommunityIcons(64832);
-  static const IconData carWash =
-      FlutterIconData.materialCommunityIcons(61710);
-  static const IconData caravan =
-      FlutterIconData.materialCommunityIcons(63404);
-  static const IconData card =
-      FlutterIconData.materialCommunityIcons(64331);
+  static const IconData carWash = FlutterIconData.materialCommunityIcons(61710);
+  static const IconData caravan = FlutterIconData.materialCommunityIcons(63404);
+  static const IconData card = FlutterIconData.materialCommunityIcons(64331);
   static const IconData cardBulleted =
       FlutterIconData.materialCommunityIcons(64332);
   static const IconData cardBulletedOff =
@@ -1736,8 +1606,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64339);
   static const IconData cardTextOutline =
       FlutterIconData.materialCommunityIcons(64340);
-  static const IconData cards =
-      FlutterIconData.materialCommunityIcons(63032);
+  static const IconData cards = FlutterIconData.materialCommunityIcons(63032);
   static const IconData cardsClub =
       FlutterIconData.materialCommunityIcons(63693);
   static const IconData cardsDiamond =
@@ -1752,10 +1621,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63696);
   static const IconData cardsVariant =
       FlutterIconData.materialCommunityIcons(63174);
-  static const IconData carrot =
-      FlutterIconData.materialCommunityIcons(61711);
-  static const IconData cart =
-      FlutterIconData.materialCommunityIcons(61712);
+  static const IconData carrot = FlutterIconData.materialCommunityIcons(61711);
+  static const IconData cart = FlutterIconData.materialCommunityIcons(61712);
   static const IconData cartArrowDown =
       FlutterIconData.materialCommunityIcons(64834);
   static const IconData cartArrowRight =
@@ -1764,8 +1631,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64835);
   static const IconData cartMinus =
       FlutterIconData.materialCommunityIcons(64836);
-  static const IconData cartOff =
-      FlutterIconData.materialCommunityIcons(63083);
+  static const IconData cartOff = FlutterIconData.materialCommunityIcons(63083);
   static const IconData cartOutline =
       FlutterIconData.materialCommunityIcons(61713);
   static const IconData cartPlus =
@@ -1774,8 +1640,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64837);
   static const IconData caseSensitiveAlt =
       FlutterIconData.materialCommunityIcons(61715);
-  static const IconData cash =
-      FlutterIconData.materialCommunityIcons(61716);
+  static const IconData cash = FlutterIconData.materialCommunityIcons(61716);
   static const IconData cash_100 =
       FlutterIconData.materialCommunityIcons(61717);
   static const IconData cashMarker =
@@ -1786,24 +1651,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64155);
   static const IconData cashRegister =
       FlutterIconData.materialCommunityIcons(64720);
-  static const IconData cashUsd =
-      FlutterIconData.materialCommunityIcons(61719);
+  static const IconData cashUsd = FlutterIconData.materialCommunityIcons(61719);
   static const IconData cassette =
       FlutterIconData.materialCommunityIcons(63955);
-  static const IconData cast =
-      FlutterIconData.materialCommunityIcons(61720);
+  static const IconData cast = FlutterIconData.materialCommunityIcons(61720);
   static const IconData castConnected =
       FlutterIconData.materialCommunityIcons(61721);
   static const IconData castEducation =
       FlutterIconData.materialCommunityIcons(65133);
-  static const IconData castOff =
-      FlutterIconData.materialCommunityIcons(63369);
-  static const IconData castle =
-      FlutterIconData.materialCommunityIcons(61722);
-  static const IconData cat =
-      FlutterIconData.materialCommunityIcons(61723);
-  static const IconData cctv =
-      FlutterIconData.materialCommunityIcons(63405);
+  static const IconData castOff = FlutterIconData.materialCommunityIcons(63369);
+  static const IconData castle = FlutterIconData.materialCommunityIcons(61722);
+  static const IconData cat = FlutterIconData.materialCommunityIcons(61723);
+  static const IconData cctv = FlutterIconData.materialCommunityIcons(63405);
   static const IconData ceilingLight =
       FlutterIconData.materialCommunityIcons(63336);
   static const IconData cellphone =
@@ -1856,8 +1715,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65466);
   static const IconData chairSchool =
       FlutterIconData.materialCommunityIcons(61733);
-  static const IconData charity =
-      FlutterIconData.materialCommunityIcons(64555);
+  static const IconData charity = FlutterIconData.materialCommunityIcons(64555);
   static const IconData chartArc =
       FlutterIconData.materialCommunityIcons(61734);
   static const IconData chartAreaSpline =
@@ -1902,16 +1760,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65200);
   static const IconData chartTree =
       FlutterIconData.materialCommunityIcons(65201);
-  static const IconData chat =
-      FlutterIconData.materialCommunityIcons(64341);
+  static const IconData chat = FlutterIconData.materialCommunityIcons(64341);
   static const IconData chatAlert =
       FlutterIconData.materialCommunityIcons(64342);
   static const IconData chatOutline =
       FlutterIconData.materialCommunityIcons(65275);
   static const IconData chatProcessing =
       FlutterIconData.materialCommunityIcons(64343);
-  static const IconData check =
-      FlutterIconData.materialCommunityIcons(61740);
+  static const IconData check = FlutterIconData.materialCommunityIcons(61740);
   static const IconData checkAll =
       FlutterIconData.materialCommunityIcons(61741);
   static const IconData checkBold =
@@ -1976,8 +1832,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61753);
   static const IconData checkerboard =
       FlutterIconData.materialCommunityIcons(61754);
-  static const IconData chefHat =
-      FlutterIconData.materialCommunityIcons(64344);
+  static const IconData chefHat = FlutterIconData.materialCommunityIcons(64344);
   static const IconData chemicalWeapon =
       FlutterIconData.materialCommunityIcons(61755);
   static const IconData chessBishop =
@@ -2054,16 +1909,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63410);
   static const IconData chiliMild =
       FlutterIconData.materialCommunityIcons(63411);
-  static const IconData chip =
-      FlutterIconData.materialCommunityIcons(63002);
+  static const IconData chip = FlutterIconData.materialCommunityIcons(63002);
   static const IconData christianity =
       FlutterIconData.materialCommunityIcons(63826);
   static const IconData christianityOutline =
       FlutterIconData.materialCommunityIcons(64722);
-  static const IconData church =
-      FlutterIconData.materialCommunityIcons(61764);
-  static const IconData circle =
-      FlutterIconData.materialCommunityIcons(63332);
+  static const IconData church = FlutterIconData.materialCommunityIcons(61764);
+  static const IconData circle = FlutterIconData.materialCommunityIcons(63332);
   static const IconData circleDouble =
       FlutterIconData.materialCommunityIcons(65202);
   static const IconData circleEditOutline =
@@ -2096,8 +1948,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65139);
   static const IconData ciscoWebex =
       FlutterIconData.materialCommunityIcons(61765);
-  static const IconData city =
-      FlutterIconData.materialCommunityIcons(61766);
+  static const IconData city = FlutterIconData.materialCommunityIcons(61766);
   static const IconData cityVariant =
       FlutterIconData.materialCommunityIcons(64053);
   static const IconData cityVariantOutline =
@@ -2154,10 +2005,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64567);
   static const IconData clipboardTextPlayOutline =
       FlutterIconData.materialCommunityIcons(64568);
-  static const IconData clippy =
-      FlutterIconData.materialCommunityIcons(61775);
-  static const IconData clock =
-      FlutterIconData.materialCommunityIcons(63827);
+  static const IconData clippy = FlutterIconData.materialCommunityIcons(61775);
+  static const IconData clock = FlutterIconData.materialCommunityIcons(63827);
   static const IconData clockAlert =
       FlutterIconData.materialCommunityIcons(63828);
   static const IconData clockAlertOutline =
@@ -2172,16 +2021,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61777);
   static const IconData clockFast =
       FlutterIconData.materialCommunityIcons(61778);
-  static const IconData clockIn =
-      FlutterIconData.materialCommunityIcons(61779);
+  static const IconData clockIn = FlutterIconData.materialCommunityIcons(61779);
   static const IconData clockOut =
       FlutterIconData.materialCommunityIcons(61780);
   static const IconData clockOutline =
       FlutterIconData.materialCommunityIcons(61776);
   static const IconData clockStart =
       FlutterIconData.materialCommunityIcons(61781);
-  static const IconData close =
-      FlutterIconData.materialCommunityIcons(61782);
+  static const IconData close = FlutterIconData.materialCommunityIcons(61782);
   static const IconData closeBox =
       FlutterIconData.materialCommunityIcons(61783);
   static const IconData closeBoxMultiple =
@@ -2208,8 +2055,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61790);
   static const IconData closedCaptionOutline =
       FlutterIconData.materialCommunityIcons(64921);
-  static const IconData cloud =
-      FlutterIconData.materialCommunityIcons(61791);
+  static const IconData cloud = FlutterIconData.materialCommunityIcons(61791);
   static const IconData cloudAlert =
       FlutterIconData.materialCommunityIcons(63967);
   static const IconData cloudBraces =
@@ -2244,8 +2090,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61799);
   static const IconData cloudUploadOutline =
       FlutterIconData.materialCommunityIcons(64346);
-  static const IconData clover =
-      FlutterIconData.materialCommunityIcons(63509);
+  static const IconData clover = FlutterIconData.materialCommunityIcons(63509);
   static const IconData codeArray =
       FlutterIconData.materialCommunityIcons(61800);
   static const IconData codeBraces =
@@ -2274,10 +2119,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61812);
   static const IconData codeTagsCheck =
       FlutterIconData.materialCommunityIcons(63123);
-  static const IconData codepen =
-      FlutterIconData.materialCommunityIcons(61813);
-  static const IconData coffee =
-      FlutterIconData.materialCommunityIcons(61814);
+  static const IconData codepen = FlutterIconData.materialCommunityIcons(61813);
+  static const IconData coffee = FlutterIconData.materialCommunityIcons(61814);
   static const IconData coffeeOff =
       FlutterIconData.materialCommunityIcons(65482);
   static const IconData coffeeOffOutline =
@@ -2286,24 +2129,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63177);
   static const IconData coffeeToGo =
       FlutterIconData.materialCommunityIcons(61815);
-  static const IconData coffin =
-      FlutterIconData.materialCommunityIcons(64347);
-  static const IconData cogs =
-      FlutterIconData.materialCommunityIcons(63701);
-  static const IconData coin =
-      FlutterIconData.materialCommunityIcons(61816);
-  static const IconData coins =
-      FlutterIconData.materialCommunityIcons(63124);
-  static const IconData collage =
-      FlutterIconData.materialCommunityIcons(63040);
+  static const IconData coffin = FlutterIconData.materialCommunityIcons(64347);
+  static const IconData cogs = FlutterIconData.materialCommunityIcons(63701);
+  static const IconData coin = FlutterIconData.materialCommunityIcons(61816);
+  static const IconData coins = FlutterIconData.materialCommunityIcons(63124);
+  static const IconData collage = FlutterIconData.materialCommunityIcons(63040);
   static const IconData collapseAll =
       FlutterIconData.materialCommunityIcons(64165);
   static const IconData collapseAllOutline =
       FlutterIconData.materialCommunityIcons(64166);
   static const IconData colorHelper =
       FlutterIconData.materialCommunityIcons(61817);
-  static const IconData comma =
-      FlutterIconData.materialCommunityIcons(65140);
+  static const IconData comma = FlutterIconData.materialCommunityIcons(65140);
   static const IconData commaBox =
       FlutterIconData.materialCommunityIcons(65141);
   static const IconData commaBoxOutline =
@@ -2312,8 +2149,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65143);
   static const IconData commaCircleOutline =
       FlutterIconData.materialCommunityIcons(65144);
-  static const IconData comment =
-      FlutterIconData.materialCommunityIcons(61818);
+  static const IconData comment = FlutterIconData.materialCommunityIcons(61818);
   static const IconData commentAccount =
       FlutterIconData.materialCommunityIcons(61819);
   static const IconData commentAccountOutline =
@@ -2372,18 +2208,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63584);
   static const IconData commentTextOutline =
       FlutterIconData.materialCommunityIcons(61833);
-  static const IconData compare =
-      FlutterIconData.materialCommunityIcons(61834);
-  static const IconData compass =
-      FlutterIconData.materialCommunityIcons(61835);
+  static const IconData compare = FlutterIconData.materialCommunityIcons(61834);
+  static const IconData compass = FlutterIconData.materialCommunityIcons(61835);
   static const IconData compassOff =
       FlutterIconData.materialCommunityIcons(64348);
   static const IconData compassOffOutline =
       FlutterIconData.materialCommunityIcons(64349);
   static const IconData compassOutline =
       FlutterIconData.materialCommunityIcons(61836);
-  static const IconData console =
-      FlutterIconData.materialCommunityIcons(61837);
+  static const IconData console = FlutterIconData.materialCommunityIcons(61837);
   static const IconData consoleLine =
       FlutterIconData.materialCommunityIcons(63414);
   static const IconData consoleNetwork =
@@ -2402,8 +2235,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64838);
   static const IconData contacts =
       FlutterIconData.materialCommunityIcons(63178);
-  static const IconData contain =
-      FlutterIconData.materialCommunityIcons(64061);
+  static const IconData contain = FlutterIconData.materialCommunityIcons(64061);
   static const IconData containEnd =
       FlutterIconData.materialCommunityIcons(64062);
   static const IconData containStart =
@@ -2450,28 +2282,21 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64350);
   static const IconData controllerClassicOutline =
       FlutterIconData.materialCommunityIcons(64351);
-  static const IconData cookie =
-      FlutterIconData.materialCommunityIcons(61848);
+  static const IconData cookie = FlutterIconData.materialCommunityIcons(61848);
   static const IconData coolantTemperature =
       FlutterIconData.materialCommunityIcons(62408);
   static const IconData copyright =
       FlutterIconData.materialCommunityIcons(62950);
-  static const IconData cordova =
-      FlutterIconData.materialCommunityIcons(63831);
-  static const IconData corn =
-      FlutterIconData.materialCommunityIcons(63415);
-  static const IconData counter =
-      FlutterIconData.materialCommunityIcons(61849);
-  static const IconData cow =
-      FlutterIconData.materialCommunityIcons(61850);
-  static const IconData cowboy =
-      FlutterIconData.materialCommunityIcons(65208);
+  static const IconData cordova = FlutterIconData.materialCommunityIcons(63831);
+  static const IconData corn = FlutterIconData.materialCommunityIcons(63415);
+  static const IconData counter = FlutterIconData.materialCommunityIcons(61849);
+  static const IconData cow = FlutterIconData.materialCommunityIcons(61850);
+  static const IconData cowboy = FlutterIconData.materialCommunityIcons(65208);
   static const IconData cpu_32Bit =
       FlutterIconData.materialCommunityIcons(65276);
   static const IconData cpu_64Bit =
       FlutterIconData.materialCommunityIcons(65277);
-  static const IconData crane =
-      FlutterIconData.materialCommunityIcons(63585);
+  static const IconData crane = FlutterIconData.materialCommunityIcons(63585);
   static const IconData creation =
       FlutterIconData.materialCommunityIcons(61897);
   static const IconData creativeCommons =
@@ -2524,10 +2349,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63489);
   static const IconData creditCardWirelessOutline =
       FlutterIconData.materialCommunityIcons(64840);
-  static const IconData cricket =
-      FlutterIconData.materialCommunityIcons(64841);
-  static const IconData crop =
-      FlutterIconData.materialCommunityIcons(61854);
+  static const IconData cricket = FlutterIconData.materialCommunityIcons(64841);
+  static const IconData crop = FlutterIconData.materialCommunityIcons(61854);
   static const IconData cropFree =
       FlutterIconData.materialCommunityIcons(61855);
   static const IconData cropLandscape =
@@ -2544,14 +2367,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61860);
   static const IconData crosshairsOff =
       FlutterIconData.materialCommunityIcons(65378);
-  static const IconData crown =
-      FlutterIconData.materialCommunityIcons(61861);
+  static const IconData crown = FlutterIconData.materialCommunityIcons(61861);
   static const IconData cryengine =
       FlutterIconData.materialCommunityIcons(63832);
   static const IconData crystalBall =
       FlutterIconData.materialCommunityIcons(64276);
-  static const IconData cube =
-      FlutterIconData.materialCommunityIcons(61862);
+  static const IconData cube = FlutterIconData.materialCommunityIcons(61862);
   static const IconData cubeOutline =
       FlutterIconData.materialCommunityIcons(61863);
   static const IconData cubeScan =
@@ -2560,20 +2381,16 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61864);
   static const IconData cubeUnfolded =
       FlutterIconData.materialCommunityIcons(61865);
-  static const IconData cup =
-      FlutterIconData.materialCommunityIcons(61866);
-  static const IconData cupOff =
-      FlutterIconData.materialCommunityIcons(62949);
+  static const IconData cup = FlutterIconData.materialCommunityIcons(61866);
+  static const IconData cupOff = FlutterIconData.materialCommunityIcons(62949);
   static const IconData cupWater =
       FlutterIconData.materialCommunityIcons(61867);
   static const IconData cupboard =
       FlutterIconData.materialCommunityIcons(65379);
   static const IconData cupboardOutline =
       FlutterIconData.materialCommunityIcons(65380);
-  static const IconData cupcake =
-      FlutterIconData.materialCommunityIcons(63833);
-  static const IconData curling =
-      FlutterIconData.materialCommunityIcons(63586);
+  static const IconData cupcake = FlutterIconData.materialCommunityIcons(63833);
+  static const IconData curling = FlutterIconData.materialCommunityIcons(63586);
   static const IconData currencyBdt =
       FlutterIconData.materialCommunityIcons(63587);
   static const IconData currencyBrl =
@@ -2664,8 +2481,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63704);
   static const IconData deathlyHallows =
       FlutterIconData.materialCommunityIcons(64355);
-  static const IconData debian =
-      FlutterIconData.materialCommunityIcons(63705);
+  static const IconData debian = FlutterIconData.materialCommunityIcons(63705);
   static const IconData debugStepInto =
       FlutterIconData.materialCommunityIcons(61883);
   static const IconData debugStepOut =
@@ -2680,8 +2496,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61886);
   static const IconData decimalIncrease =
       FlutterIconData.materialCommunityIcons(61887);
-  static const IconData delete =
-      FlutterIconData.materialCommunityIcons(61888);
+  static const IconData delete = FlutterIconData.materialCommunityIcons(61888);
   static const IconData deleteCircle =
       FlutterIconData.materialCommunityIcons(63106);
   static const IconData deleteCircleOutline =
@@ -2704,8 +2519,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64574);
   static const IconData deleteVariant =
       FlutterIconData.materialCommunityIcons(61889);
-  static const IconData delta =
-      FlutterIconData.materialCommunityIcons(61890);
+  static const IconData delta = FlutterIconData.materialCommunityIcons(61890);
   static const IconData deskLamp =
       FlutterIconData.materialCommunityIcons(63838);
   static const IconData deskPhone =
@@ -2720,54 +2534,37 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61893);
   static const IconData desktopTowerMonitor =
       FlutterIconData.materialCommunityIcons(64170);
-  static const IconData details =
-      FlutterIconData.materialCommunityIcons(61894);
-  static const IconData devTo =
-      FlutterIconData.materialCommunityIcons(64842);
+  static const IconData details = FlutterIconData.materialCommunityIcons(61894);
+  static const IconData devTo = FlutterIconData.materialCommunityIcons(64842);
   static const IconData developerBoard =
       FlutterIconData.materialCommunityIcons(63126);
   static const IconData deviantArt =
       FlutterIconData.materialCommunityIcons(61895);
-  static const IconData devices =
-      FlutterIconData.materialCommunityIcons(65488);
-  static const IconData dialPad =
-      FlutterIconData.materialCommunityIcons(63004);
+  static const IconData devices = FlutterIconData.materialCommunityIcons(65488);
+  static const IconData dialPad = FlutterIconData.materialCommunityIcons(63004);
   static const IconData diameter =
       FlutterIconData.materialCommunityIcons(64575);
   static const IconData diameterOutline =
       FlutterIconData.materialCommunityIcons(64576);
   static const IconData diameterVariant =
       FlutterIconData.materialCommunityIcons(64577);
-  static const IconData diamond =
-      FlutterIconData.materialCommunityIcons(64358);
+  static const IconData diamond = FlutterIconData.materialCommunityIcons(64358);
   static const IconData diamondOutline =
       FlutterIconData.materialCommunityIcons(64359);
   static const IconData diamondStone =
       FlutterIconData.materialCommunityIcons(61896);
-  static const IconData dice_1 =
-      FlutterIconData.materialCommunityIcons(61898);
-  static const IconData dice_2 =
-      FlutterIconData.materialCommunityIcons(61899);
-  static const IconData dice_3 =
-      FlutterIconData.materialCommunityIcons(61900);
-  static const IconData dice_4 =
-      FlutterIconData.materialCommunityIcons(61901);
-  static const IconData dice_5 =
-      FlutterIconData.materialCommunityIcons(61902);
-  static const IconData dice_6 =
-      FlutterIconData.materialCommunityIcons(61903);
-  static const IconData diceD10 =
-      FlutterIconData.materialCommunityIcons(63342);
-  static const IconData diceD12 =
-      FlutterIconData.materialCommunityIcons(63590);
-  static const IconData diceD20 =
-      FlutterIconData.materialCommunityIcons(62954);
-  static const IconData diceD4 =
-      FlutterIconData.materialCommunityIcons(62955);
-  static const IconData diceD6 =
-      FlutterIconData.materialCommunityIcons(62956);
-  static const IconData diceD8 =
-      FlutterIconData.materialCommunityIcons(62957);
+  static const IconData dice_1 = FlutterIconData.materialCommunityIcons(61898);
+  static const IconData dice_2 = FlutterIconData.materialCommunityIcons(61899);
+  static const IconData dice_3 = FlutterIconData.materialCommunityIcons(61900);
+  static const IconData dice_4 = FlutterIconData.materialCommunityIcons(61901);
+  static const IconData dice_5 = FlutterIconData.materialCommunityIcons(61902);
+  static const IconData dice_6 = FlutterIconData.materialCommunityIcons(61903);
+  static const IconData diceD10 = FlutterIconData.materialCommunityIcons(63342);
+  static const IconData diceD12 = FlutterIconData.materialCommunityIcons(63590);
+  static const IconData diceD20 = FlutterIconData.materialCommunityIcons(62954);
+  static const IconData diceD4 = FlutterIconData.materialCommunityIcons(62955);
+  static const IconData diceD6 = FlutterIconData.materialCommunityIcons(62956);
+  static const IconData diceD8 = FlutterIconData.materialCommunityIcons(62957);
   static const IconData diceMultiple =
       FlutterIconData.materialCommunityIcons(63341);
   static const IconData dictionary =
@@ -2778,18 +2575,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61904);
   static const IconData directionsFork =
       FlutterIconData.materialCommunityIcons(63041);
-  static const IconData disc =
-      FlutterIconData.materialCommunityIcons(62958);
+  static const IconData disc = FlutterIconData.materialCommunityIcons(62958);
   static const IconData discAlert =
       FlutterIconData.materialCommunityIcons(61905);
   static const IconData discPlayer =
       FlutterIconData.materialCommunityIcons(63839);
-  static const IconData discord =
-      FlutterIconData.materialCommunityIcons(63087);
+  static const IconData discord = FlutterIconData.materialCommunityIcons(63087);
   static const IconData dishwasher =
       FlutterIconData.materialCommunityIcons(64171);
-  static const IconData disqus =
-      FlutterIconData.materialCommunityIcons(61906);
+  static const IconData disqus = FlutterIconData.materialCommunityIcons(61906);
   static const IconData disqusOutline =
       FlutterIconData.materialCommunityIcons(61907);
   static const IconData divingFlippers =
@@ -2810,48 +2604,35 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61908);
   static const IconData divisionBox =
       FlutterIconData.materialCommunityIcons(61909);
-  static const IconData dlna =
-      FlutterIconData.materialCommunityIcons(64064);
-  static const IconData dna =
-      FlutterIconData.materialCommunityIcons(63107);
-  static const IconData dns =
-      FlutterIconData.materialCommunityIcons(61910);
+  static const IconData dlna = FlutterIconData.materialCommunityIcons(64064);
+  static const IconData dna = FlutterIconData.materialCommunityIcons(63107);
+  static const IconData dns = FlutterIconData.materialCommunityIcons(61910);
   static const IconData dnsOutline =
       FlutterIconData.materialCommunityIcons(64360);
   static const IconData doNotDisturb =
       FlutterIconData.materialCommunityIcons(63127);
   static const IconData doNotDisturbOff =
       FlutterIconData.materialCommunityIcons(63128);
-  static const IconData docker =
-      FlutterIconData.materialCommunityIcons(63591);
-  static const IconData doctor =
-      FlutterIconData.materialCommunityIcons(64065);
-  static const IconData dog =
-      FlutterIconData.materialCommunityIcons(64066);
+  static const IconData docker = FlutterIconData.materialCommunityIcons(63591);
+  static const IconData doctor = FlutterIconData.materialCommunityIcons(64065);
+  static const IconData dog = FlutterIconData.materialCommunityIcons(64066);
   static const IconData dogService =
       FlutterIconData.materialCommunityIcons(64172);
-  static const IconData dogSide =
-      FlutterIconData.materialCommunityIcons(64067);
-  static const IconData dolby =
-      FlutterIconData.materialCommunityIcons(63154);
-  static const IconData dolly =
-      FlutterIconData.materialCommunityIcons(65211);
-  static const IconData domain =
-      FlutterIconData.materialCommunityIcons(61911);
+  static const IconData dogSide = FlutterIconData.materialCommunityIcons(64067);
+  static const IconData dolby = FlutterIconData.materialCommunityIcons(63154);
+  static const IconData dolly = FlutterIconData.materialCommunityIcons(65211);
+  static const IconData domain = FlutterIconData.materialCommunityIcons(61911);
   static const IconData domainOff =
       FlutterIconData.materialCommunityIcons(64843);
-  static const IconData donkey =
-      FlutterIconData.materialCommunityIcons(63425);
-  static const IconData door =
-      FlutterIconData.materialCommunityIcons(63513);
+  static const IconData donkey = FlutterIconData.materialCommunityIcons(63425);
+  static const IconData door = FlutterIconData.materialCommunityIcons(63513);
   static const IconData doorClosed =
       FlutterIconData.materialCommunityIcons(63514);
   static const IconData doorOpen =
       FlutterIconData.materialCommunityIcons(63515);
   static const IconData doorbellVideo =
       FlutterIconData.materialCommunityIcons(63592);
-  static const IconData dotNet =
-      FlutterIconData.materialCommunityIcons(64173);
+  static const IconData dotNet = FlutterIconData.materialCommunityIcons(64173);
   static const IconData dotsHorizontal =
       FlutterIconData.materialCommunityIcons(61912);
   static const IconData dotsHorizontalCircle =
@@ -2864,8 +2645,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63427);
   static const IconData dotsVerticalCircleOutline =
       FlutterIconData.materialCommunityIcons(64362);
-  static const IconData douBan =
-      FlutterIconData.materialCommunityIcons(63129);
+  static const IconData douBan = FlutterIconData.materialCommunityIcons(63129);
   static const IconData download =
       FlutterIconData.materialCommunityIcons(61914);
   static const IconData downloadMultiple =
@@ -2876,8 +2656,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64578);
   static const IconData downloadOutline =
       FlutterIconData.materialCommunityIcons(64363);
-  static const IconData drag =
-      FlutterIconData.materialCommunityIcons(61915);
+  static const IconData drag = FlutterIconData.materialCommunityIcons(61915);
   static const IconData dragHorizontal =
       FlutterIconData.materialCommunityIcons(61916);
   static const IconData dragVariant =
@@ -2886,28 +2665,21 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61917);
   static const IconData dramaMasks =
       FlutterIconData.materialCommunityIcons(64734);
-  static const IconData draw =
-      FlutterIconData.materialCommunityIcons(65382);
-  static const IconData drawing =
-      FlutterIconData.materialCommunityIcons(61918);
+  static const IconData draw = FlutterIconData.materialCommunityIcons(65382);
+  static const IconData drawing = FlutterIconData.materialCommunityIcons(61918);
   static const IconData drawingBox =
       FlutterIconData.materialCommunityIcons(61919);
-  static const IconData dresser =
-      FlutterIconData.materialCommunityIcons(65383);
+  static const IconData dresser = FlutterIconData.materialCommunityIcons(65383);
   static const IconData dresserOutline =
       FlutterIconData.materialCommunityIcons(65384);
   static const IconData dribbble =
       FlutterIconData.materialCommunityIcons(61920);
   static const IconData dribbbleBox =
       FlutterIconData.materialCommunityIcons(61921);
-  static const IconData drone =
-      FlutterIconData.materialCommunityIcons(61922);
-  static const IconData dropbox =
-      FlutterIconData.materialCommunityIcons(61923);
-  static const IconData drupal =
-      FlutterIconData.materialCommunityIcons(61924);
-  static const IconData duck =
-      FlutterIconData.materialCommunityIcons(61925);
+  static const IconData drone = FlutterIconData.materialCommunityIcons(61922);
+  static const IconData dropbox = FlutterIconData.materialCommunityIcons(61923);
+  static const IconData drupal = FlutterIconData.materialCommunityIcons(61924);
+  static const IconData duck = FlutterIconData.materialCommunityIcons(61925);
   static const IconData dumbbell =
       FlutterIconData.materialCommunityIcons(61926);
   static const IconData dumpTruck =
@@ -2916,24 +2688,20 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63428);
   static const IconData earHearingOff =
       FlutterIconData.materialCommunityIcons(64068);
-  static const IconData earth =
-      FlutterIconData.materialCommunityIcons(61927);
+  static const IconData earth = FlutterIconData.materialCommunityIcons(61927);
   static const IconData earthBox =
       FlutterIconData.materialCommunityIcons(63180);
   static const IconData earthBoxOff =
       FlutterIconData.materialCommunityIcons(63181);
   static const IconData earthOff =
       FlutterIconData.materialCommunityIcons(61928);
-  static const IconData edge =
-      FlutterIconData.materialCommunityIcons(61929);
-  static const IconData egg =
-      FlutterIconData.materialCommunityIcons(64174);
+  static const IconData edge = FlutterIconData.materialCommunityIcons(61929);
+  static const IconData egg = FlutterIconData.materialCommunityIcons(64174);
   static const IconData eggEaster =
       FlutterIconData.materialCommunityIcons(64175);
   static const IconData eightTrack =
       FlutterIconData.materialCommunityIcons(63977);
-  static const IconData eject =
-      FlutterIconData.materialCommunityIcons(61930);
+  static const IconData eject = FlutterIconData.materialCommunityIcons(61930);
   static const IconData ejectOutline =
       FlutterIconData.materialCommunityIcons(64365);
   static const IconData electricSwitch =
@@ -2946,12 +2714,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61932);
   static const IconData elevator =
       FlutterIconData.materialCommunityIcons(61933);
-  static const IconData ellipse =
-      FlutterIconData.materialCommunityIcons(65213);
+  static const IconData ellipse = FlutterIconData.materialCommunityIcons(65213);
   static const IconData ellipseOutline =
       FlutterIconData.materialCommunityIcons(65214);
-  static const IconData email =
-      FlutterIconData.materialCommunityIcons(61934);
+  static const IconData email = FlutterIconData.materialCommunityIcons(61934);
   static const IconData emailAlert =
       FlutterIconData.materialCommunityIcons(63182);
   static const IconData emailBox =
@@ -2998,10 +2764,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63841);
   static const IconData emailVariant =
       FlutterIconData.materialCommunityIcons(62960);
-  static const IconData ember =
-      FlutterIconData.materialCommunityIcons(64277);
-  static const IconData emby =
-      FlutterIconData.materialCommunityIcons(63155);
+  static const IconData ember = FlutterIconData.materialCommunityIcons(64277);
+  static const IconData emby = FlutterIconData.materialCommunityIcons(63155);
   static const IconData emoticon =
       FlutterIconData.materialCommunityIcons(64580);
   static const IconData emoticonAngry =
@@ -3062,32 +2826,27 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64596);
   static const IconData emoticonWinkOutline =
       FlutterIconData.materialCommunityIcons(64597);
-  static const IconData engine =
-      FlutterIconData.materialCommunityIcons(61946);
+  static const IconData engine = FlutterIconData.materialCommunityIcons(61946);
   static const IconData engineOff =
       FlutterIconData.materialCommunityIcons(64069);
   static const IconData engineOffOutline =
       FlutterIconData.materialCommunityIcons(64070);
   static const IconData engineOutline =
       FlutterIconData.materialCommunityIcons(61947);
-  static const IconData equal =
-      FlutterIconData.materialCommunityIcons(61948);
+  static const IconData equal = FlutterIconData.materialCommunityIcons(61948);
   static const IconData equalBox =
       FlutterIconData.materialCommunityIcons(61949);
   static const IconData equalizer =
       FlutterIconData.materialCommunityIcons(65215);
   static const IconData equalizerOutline =
       FlutterIconData.materialCommunityIcons(65216);
-  static const IconData eraser =
-      FlutterIconData.materialCommunityIcons(61950);
+  static const IconData eraser = FlutterIconData.materialCommunityIcons(61950);
   static const IconData eraserVariant =
       FlutterIconData.materialCommunityIcons(63042);
   static const IconData escalator =
       FlutterIconData.materialCommunityIcons(61951);
-  static const IconData esLint =
-      FlutterIconData.materialCommunityIcons(64598);
-  static const IconData et =
-      FlutterIconData.materialCommunityIcons(64178);
+  static const IconData esLint = FlutterIconData.materialCommunityIcons(64598);
+  static const IconData et = FlutterIconData.materialCommunityIcons(64178);
   static const IconData ethereum =
       FlutterIconData.materialCommunityIcons(63593);
   static const IconData ethernet =
@@ -3096,8 +2855,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61953);
   static const IconData ethernetCableOff =
       FlutterIconData.materialCommunityIcons(61954);
-  static const IconData etsy =
-      FlutterIconData.materialCommunityIcons(61955);
+  static const IconData etsy = FlutterIconData.materialCommunityIcons(61955);
   static const IconData evStation =
       FlutterIconData.materialCommunityIcons(62961);
   static const IconData eventbrite =
@@ -3106,8 +2864,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61956);
   static const IconData exclamation =
       FlutterIconData.materialCommunityIcons(61957);
-  static const IconData exitRun =
-      FlutterIconData.materialCommunityIcons(64071);
+  static const IconData exitRun = FlutterIconData.materialCommunityIcons(64071);
   static const IconData exitToApp =
       FlutterIconData.materialCommunityIcons(61958);
   static const IconData expandAll =
@@ -3122,12 +2879,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63842);
   static const IconData exponentBox =
       FlutterIconData.materialCommunityIcons(63843);
-  static const IconData export =
-      FlutterIconData.materialCommunityIcons(61959);
+  static const IconData export = FlutterIconData.materialCommunityIcons(61959);
   static const IconData exportVariant =
       FlutterIconData.materialCommunityIcons(64367);
-  static const IconData eye =
-      FlutterIconData.materialCommunityIcons(61960);
+  static const IconData eye = FlutterIconData.materialCommunityIcons(61960);
   static const IconData eyeCheck =
       FlutterIconData.materialCommunityIcons(64736);
   static const IconData eyeCheckOutline =
@@ -3136,14 +2891,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64368);
   static const IconData eyeCircleOutline =
       FlutterIconData.materialCommunityIcons(64369);
-  static const IconData eyeOff =
-      FlutterIconData.materialCommunityIcons(61961);
+  static const IconData eyeOff = FlutterIconData.materialCommunityIcons(61961);
   static const IconData eyeOffOutline =
       FlutterIconData.materialCommunityIcons(63184);
   static const IconData eyeOutline =
       FlutterIconData.materialCommunityIcons(63183);
-  static const IconData eyePlus =
-      FlutterIconData.materialCommunityIcons(63594);
+  static const IconData eyePlus = FlutterIconData.materialCommunityIcons(63594);
   static const IconData eyePlusOutline =
       FlutterIconData.materialCommunityIcons(63595);
   static const IconData eyeSettings =
@@ -3154,8 +2907,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61962);
   static const IconData eyedropperVariant =
       FlutterIconData.materialCommunityIcons(61963);
-  static const IconData face =
-      FlutterIconData.materialCommunityIcons(63043);
+  static const IconData face = FlutterIconData.materialCommunityIcons(63043);
   static const IconData faceAgent =
       FlutterIconData.materialCommunityIcons(64844);
   static const IconData faceOutline =
@@ -3172,12 +2924,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61966);
   static const IconData facebookWorkplace =
       FlutterIconData.materialCommunityIcons(64278);
-  static const IconData factory =
-      FlutterIconData.materialCommunityIcons(61967);
-  static const IconData fan =
-      FlutterIconData.materialCommunityIcons(61968);
-  static const IconData fanOff =
-      FlutterIconData.materialCommunityIcons(63516);
+  static const IconData factory = FlutterIconData.materialCommunityIcons(61967);
+  static const IconData fan = FlutterIconData.materialCommunityIcons(61968);
+  static const IconData fanOff = FlutterIconData.materialCommunityIcons(63516);
   static const IconData fastForward =
       FlutterIconData.materialCommunityIcons(61969);
   static const IconData fastForward_10 =
@@ -3186,22 +2935,17 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64738);
   static const IconData fastForwardOutline =
       FlutterIconData.materialCommunityIcons(63185);
-  static const IconData fax =
-      FlutterIconData.materialCommunityIcons(61970);
-  static const IconData feather =
-      FlutterIconData.materialCommunityIcons(63186);
+  static const IconData fax = FlutterIconData.materialCommunityIcons(61970);
+  static const IconData feather = FlutterIconData.materialCommunityIcons(63186);
   static const IconData featureSearch =
       FlutterIconData.materialCommunityIcons(64072);
   static const IconData featureSearchOutline =
       FlutterIconData.materialCommunityIcons(64073);
-  static const IconData fedora =
-      FlutterIconData.materialCommunityIcons(63706);
+  static const IconData fedora = FlutterIconData.materialCommunityIcons(63706);
   static const IconData ferrisWheel =
       FlutterIconData.materialCommunityIcons(65217);
-  static const IconData ferry =
-      FlutterIconData.materialCommunityIcons(61971);
-  static const IconData file =
-      FlutterIconData.materialCommunityIcons(61972);
+  static const IconData ferry = FlutterIconData.materialCommunityIcons(61971);
+  static const IconData file = FlutterIconData.materialCommunityIcons(61972);
   static const IconData fileAccount =
       FlutterIconData.materialCommunityIcons(63290);
   static const IconData fileAlert =
@@ -3210,8 +2954,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64075);
   static const IconData fileCabinet =
       FlutterIconData.materialCommunityIcons(64181);
-  static const IconData fileCad =
-      FlutterIconData.materialCommunityIcons(65288);
+  static const IconData fileCad = FlutterIconData.materialCommunityIcons(65288);
   static const IconData fileCadBox =
       FlutterIconData.materialCommunityIcons(65289);
   static const IconData fileCancel =
@@ -3280,8 +3023,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61980);
   static const IconData fileExport =
       FlutterIconData.materialCommunityIcons(61981);
-  static const IconData fileEye =
-      FlutterIconData.materialCommunityIcons(64934);
+  static const IconData fileEye = FlutterIconData.materialCommunityIcons(64934);
   static const IconData fileEyeOutline =
       FlutterIconData.materialCommunityIcons(64935);
   static const IconData fileFind =
@@ -3308,8 +3050,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65148);
   static const IconData fileOutline =
       FlutterIconData.materialCommunityIcons(61988);
-  static const IconData filePdf =
-      FlutterIconData.materialCommunityIcons(61989);
+  static const IconData filePdf = FlutterIconData.materialCommunityIcons(61989);
   static const IconData filePdfBox =
       FlutterIconData.materialCommunityIcons(61990);
   static const IconData filePdfBoxOutline =
@@ -3368,14 +3109,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(61996);
   static const IconData fileWordBox =
       FlutterIconData.materialCommunityIcons(61997);
-  static const IconData film =
-      FlutterIconData.materialCommunityIcons(61999);
+  static const IconData film = FlutterIconData.materialCommunityIcons(61999);
   static const IconData filmstrip =
       FlutterIconData.materialCommunityIcons(62000);
   static const IconData filmstripOff =
       FlutterIconData.materialCommunityIcons(62001);
-  static const IconData filter =
-      FlutterIconData.materialCommunityIcons(62002);
+  static const IconData filter = FlutterIconData.materialCommunityIcons(62002);
   static const IconData filterMinus =
       FlutterIconData.materialCommunityIcons(65291);
   static const IconData filterMinusOutline =
@@ -3392,32 +3131,28 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62005);
   static const IconData filterVariant =
       FlutterIconData.materialCommunityIcons(62006);
-  static const IconData finance =
-      FlutterIconData.materialCommunityIcons(63518);
+  static const IconData finance = FlutterIconData.materialCommunityIcons(63518);
   static const IconData findReplace =
       FlutterIconData.materialCommunityIcons(63187);
   static const IconData fingerprint =
       FlutterIconData.materialCommunityIcons(62007);
   static const IconData fingerprintOff =
       FlutterIconData.materialCommunityIcons(65230);
-  static const IconData fire =
-      FlutterIconData.materialCommunityIcons(62008);
+  static const IconData fire = FlutterIconData.materialCommunityIcons(62008);
   static const IconData fireExtinguisher =
       FlutterIconData.materialCommunityIcons(65295);
   static const IconData fireTruck =
       FlutterIconData.materialCommunityIcons(63658);
   static const IconData firebase =
       FlutterIconData.materialCommunityIcons(63846);
-  static const IconData firefox =
-      FlutterIconData.materialCommunityIcons(62009);
+  static const IconData firefox = FlutterIconData.materialCommunityIcons(62009);
   static const IconData fireplace =
       FlutterIconData.materialCommunityIcons(65041);
   static const IconData fireplaceOff =
       FlutterIconData.materialCommunityIcons(65042);
   static const IconData firework =
       FlutterIconData.materialCommunityIcons(65043);
-  static const IconData fish =
-      FlutterIconData.materialCommunityIcons(62010);
+  static const IconData fish = FlutterIconData.materialCommunityIcons(62010);
   static const IconData fishbowl =
       FlutterIconData.materialCommunityIcons(65296);
   static const IconData fishbowlOutline =
@@ -3426,8 +3161,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65298);
   static const IconData fitToPageOutline =
       FlutterIconData.materialCommunityIcons(65299);
-  static const IconData flag =
-      FlutterIconData.materialCommunityIcons(62011);
+  static const IconData flag = FlutterIconData.materialCommunityIcons(62011);
   static const IconData flagCheckered =
       FlutterIconData.materialCommunityIcons(62012);
   static const IconData flagMinus =
@@ -3444,10 +3178,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62016);
   static const IconData flagVariantOutline =
       FlutterIconData.materialCommunityIcons(62014);
-  static const IconData flare =
-      FlutterIconData.materialCommunityIcons(64846);
-  static const IconData flash =
-      FlutterIconData.materialCommunityIcons(62017);
+  static const IconData flare = FlutterIconData.materialCommunityIcons(64846);
+  static const IconData flash = FlutterIconData.materialCommunityIcons(62017);
   static const IconData flashAlert =
       FlutterIconData.materialCommunityIcons(65300);
   static const IconData flashAlertOutline =
@@ -3466,18 +3198,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62020);
   static const IconData flashlightOff =
       FlutterIconData.materialCommunityIcons(62021);
-  static const IconData flask =
-      FlutterIconData.materialCommunityIcons(61587);
+  static const IconData flask = FlutterIconData.materialCommunityIcons(61587);
   static const IconData flaskEmpty =
       FlutterIconData.materialCommunityIcons(61588);
   static const IconData flaskEmptyOutline =
       FlutterIconData.materialCommunityIcons(61589);
   static const IconData flaskOutline =
       FlutterIconData.materialCommunityIcons(61590);
-  static const IconData flattr =
-      FlutterIconData.materialCommunityIcons(62022);
-  static const IconData flickr =
-      FlutterIconData.materialCommunityIcons(64739);
+  static const IconData flattr = FlutterIconData.materialCommunityIcons(62022);
+  static const IconData flickr = FlutterIconData.materialCommunityIcons(64739);
   static const IconData flipToBack =
       FlutterIconData.materialCommunityIcons(62023);
   static const IconData flipToFront =
@@ -3486,12 +3215,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63708);
   static const IconData floorPlan =
       FlutterIconData.materialCommunityIcons(63520);
-  static const IconData floppy =
-      FlutterIconData.materialCommunityIcons(62025);
+  static const IconData floppy = FlutterIconData.materialCommunityIcons(62025);
   static const IconData floppyVariant =
       FlutterIconData.materialCommunityIcons(63982);
-  static const IconData flower =
-      FlutterIconData.materialCommunityIcons(62026);
+  static const IconData flower = FlutterIconData.materialCommunityIcons(62026);
   static const IconData flowerOutline =
       FlutterIconData.materialCommunityIcons(63983);
   static const IconData flowerPoppy =
@@ -3508,8 +3235,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65389);
   static const IconData focusFieldVertical =
       FlutterIconData.materialCommunityIcons(65390);
-  static const IconData folder =
-      FlutterIconData.materialCommunityIcons(62027);
+  static const IconData folder = FlutterIconData.materialCommunityIcons(62027);
   static const IconData folderAccount =
       FlutterIconData.materialCommunityIcons(62028);
   static const IconData folderAccountOutline =
@@ -3600,8 +3326,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63416);
   static const IconData fontAwesome =
       FlutterIconData.materialCommunityIcons(61498);
-  static const IconData food =
-      FlutterIconData.materialCommunityIcons(62042);
+  static const IconData food = FlutterIconData.materialCommunityIcons(62042);
   static const IconData foodApple =
       FlutterIconData.materialCommunityIcons(62043);
   static const IconData foodAppleOutline =
@@ -3610,8 +3335,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63431);
   static const IconData foodForkDrink =
       FlutterIconData.materialCommunityIcons(62962);
-  static const IconData foodOff =
-      FlutterIconData.materialCommunityIcons(62963);
+  static const IconData foodOff = FlutterIconData.materialCommunityIcons(62963);
   static const IconData foodVariant =
       FlutterIconData.materialCommunityIcons(62044);
   static const IconData footPrint =
@@ -3810,12 +3534,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62090);
   static const IconData formatWrapTopBottom =
       FlutterIconData.materialCommunityIcons(62091);
-  static const IconData forum =
-      FlutterIconData.materialCommunityIcons(62092);
+  static const IconData forum = FlutterIconData.materialCommunityIcons(62092);
   static const IconData forumOutline =
       FlutterIconData.materialCommunityIcons(63521);
-  static const IconData forward =
-      FlutterIconData.materialCommunityIcons(62093);
+  static const IconData forward = FlutterIconData.materialCommunityIcons(62093);
   static const IconData forwardBurger =
       FlutterIconData.materialCommunityIcons(64849);
   static const IconData fountain =
@@ -3826,20 +3548,17 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64751);
   static const IconData foursquare =
       FlutterIconData.materialCommunityIcons(62094);
-  static const IconData freebsd =
-      FlutterIconData.materialCommunityIcons(63711);
+  static const IconData freebsd = FlutterIconData.materialCommunityIcons(63711);
   static const IconData frequentlyAskedQuestions =
       FlutterIconData.materialCommunityIcons(65233);
-  static const IconData fridge =
-      FlutterIconData.materialCommunityIcons(62096);
+  static const IconData fridge = FlutterIconData.materialCommunityIcons(62096);
   static const IconData fridgeBottom =
       FlutterIconData.materialCommunityIcons(62098);
   static const IconData fridgeOutline =
       FlutterIconData.materialCommunityIcons(62095);
   static const IconData fridgeTop =
       FlutterIconData.materialCommunityIcons(62097);
-  static const IconData fuel =
-      FlutterIconData.materialCommunityIcons(63433);
+  static const IconData fuel = FlutterIconData.materialCommunityIcons(63433);
   static const IconData fullscreen =
       FlutterIconData.materialCommunityIcons(62099);
   static const IconData fullscreenExit =
@@ -3848,12 +3567,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62101);
   static const IconData functionVariant =
       FlutterIconData.materialCommunityIcons(63600);
-  static const IconData fuse =
-      FlutterIconData.materialCommunityIcons(64609);
+  static const IconData fuse = FlutterIconData.materialCommunityIcons(64609);
   static const IconData fuseBlade =
       FlutterIconData.materialCommunityIcons(64610);
-  static const IconData gamePad =
-      FlutterIconData.materialCommunityIcons(62102);
+  static const IconData gamePad = FlutterIconData.materialCommunityIcons(62102);
   static const IconData gamePadCircle =
       FlutterIconData.materialCommunityIcons(65046);
   static const IconData gamePadCircleDown =
@@ -3896,8 +3613,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65236);
   static const IconData gantryCrane =
       FlutterIconData.materialCommunityIcons(64941);
-  static const IconData garage =
-      FlutterIconData.materialCommunityIcons(63192);
+  static const IconData garage = FlutterIconData.materialCommunityIcons(63192);
   static const IconData garageAlert =
       FlutterIconData.materialCommunityIcons(63601);
   static const IconData garageOpen =
@@ -3908,34 +3624,25 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62104);
   static const IconData gasStationOutline =
       FlutterIconData.materialCommunityIcons(65237);
-  static const IconData gate =
-      FlutterIconData.materialCommunityIcons(62105);
-  static const IconData gateAnd =
-      FlutterIconData.materialCommunityIcons(63712);
+  static const IconData gate = FlutterIconData.materialCommunityIcons(62105);
+  static const IconData gateAnd = FlutterIconData.materialCommunityIcons(63712);
   static const IconData gateNand =
       FlutterIconData.materialCommunityIcons(63713);
-  static const IconData gateNor =
-      FlutterIconData.materialCommunityIcons(63714);
-  static const IconData gateNot =
-      FlutterIconData.materialCommunityIcons(63715);
-  static const IconData gateOr =
-      FlutterIconData.materialCommunityIcons(63716);
+  static const IconData gateNor = FlutterIconData.materialCommunityIcons(63714);
+  static const IconData gateNot = FlutterIconData.materialCommunityIcons(63715);
+  static const IconData gateOr = FlutterIconData.materialCommunityIcons(63716);
   static const IconData gateXnor =
       FlutterIconData.materialCommunityIcons(63717);
-  static const IconData gateXor =
-      FlutterIconData.materialCommunityIcons(63718);
-  static const IconData gatsby =
-      FlutterIconData.materialCommunityIcons(65156);
-  static const IconData gauge =
-      FlutterIconData.materialCommunityIcons(62106);
+  static const IconData gateXor = FlutterIconData.materialCommunityIcons(63718);
+  static const IconData gatsby = FlutterIconData.materialCommunityIcons(65156);
+  static const IconData gauge = FlutterIconData.materialCommunityIcons(62106);
   static const IconData gaugeEmpty =
       FlutterIconData.materialCommunityIcons(63602);
   static const IconData gaugeFull =
       FlutterIconData.materialCommunityIcons(63603);
   static const IconData gaugeLow =
       FlutterIconData.materialCommunityIcons(63604);
-  static const IconData gavel =
-      FlutterIconData.materialCommunityIcons(62107);
+  static const IconData gavel = FlutterIconData.materialCommunityIcons(62107);
   static const IconData genderFemale =
       FlutterIconData.materialCommunityIcons(62108);
   static const IconData genderMale =
@@ -3944,10 +3651,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62110);
   static const IconData genderTransgender =
       FlutterIconData.materialCommunityIcons(62111);
-  static const IconData gentoo =
-      FlutterIconData.materialCommunityIcons(63719);
-  static const IconData gesture =
-      FlutterIconData.materialCommunityIcons(63434);
+  static const IconData gentoo = FlutterIconData.materialCommunityIcons(63719);
+  static const IconData gesture = FlutterIconData.materialCommunityIcons(63434);
   static const IconData gestureDoubleTap =
       FlutterIconData.materialCommunityIcons(63291);
   static const IconData gesturePinch =
@@ -3976,26 +3681,21 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63297);
   static const IconData gestureTwoTap =
       FlutterIconData.materialCommunityIcons(63298);
-  static const IconData ghost =
-      FlutterIconData.materialCommunityIcons(62112);
+  static const IconData ghost = FlutterIconData.materialCommunityIcons(62112);
   static const IconData ghostOff =
       FlutterIconData.materialCommunityIcons(63988);
-  static const IconData gif =
-      FlutterIconData.materialCommunityIcons(64852);
-  static const IconData gift =
-      FlutterIconData.materialCommunityIcons(65157);
+  static const IconData gif = FlutterIconData.materialCommunityIcons(64852);
+  static const IconData gift = FlutterIconData.materialCommunityIcons(65157);
   static const IconData giftOutline =
       FlutterIconData.materialCommunityIcons(62113);
-  static const IconData git =
-      FlutterIconData.materialCommunityIcons(62114);
+  static const IconData git = FlutterIconData.materialCommunityIcons(62114);
   static const IconData githubBox =
       FlutterIconData.materialCommunityIcons(62115);
   static const IconData githubCircle =
       FlutterIconData.materialCommunityIcons(62116);
   static const IconData githubFace =
       FlutterIconData.materialCommunityIcons(63194);
-  static const IconData gitlab =
-      FlutterIconData.materialCommunityIcons(64380);
+  static const IconData gitlab = FlutterIconData.materialCommunityIcons(64380);
   static const IconData glassCocktail =
       FlutterIconData.materialCommunityIcons(62294);
   static const IconData glassFlute =
@@ -4010,28 +3710,20 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63605);
   static const IconData glassDoor =
       FlutterIconData.materialCommunityIcons(62121);
-  static const IconData glasses =
-      FlutterIconData.materialCommunityIcons(62122);
+  static const IconData glasses = FlutterIconData.materialCommunityIcons(62122);
   static const IconData globeModel =
       FlutterIconData.materialCommunityIcons(63720);
-  static const IconData gmail =
-      FlutterIconData.materialCommunityIcons(62123);
-  static const IconData gnome =
-      FlutterIconData.materialCommunityIcons(62124);
-  static const IconData goKart =
-      FlutterIconData.materialCommunityIcons(64853);
+  static const IconData gmail = FlutterIconData.materialCommunityIcons(62123);
+  static const IconData gnome = FlutterIconData.materialCommunityIcons(62124);
+  static const IconData goKart = FlutterIconData.materialCommunityIcons(64853);
   static const IconData goKartTrack =
       FlutterIconData.materialCommunityIcons(64854);
-  static const IconData gog =
-      FlutterIconData.materialCommunityIcons(64381);
-  static const IconData golf =
-      FlutterIconData.materialCommunityIcons(63522);
-  static const IconData gondola =
-      FlutterIconData.materialCommunityIcons(63109);
+  static const IconData gog = FlutterIconData.materialCommunityIcons(64381);
+  static const IconData golf = FlutterIconData.materialCommunityIcons(63522);
+  static const IconData gondola = FlutterIconData.materialCommunityIcons(63109);
   static const IconData goodReads =
       FlutterIconData.materialCommunityIcons(64855);
-  static const IconData google =
-      FlutterIconData.materialCommunityIcons(62125);
+  static const IconData google = FlutterIconData.materialCommunityIcons(62125);
   static const IconData googleAdwords =
       FlutterIconData.materialCommunityIcons(64611);
   static const IconData googleAnalytics =
@@ -4098,10 +3790,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62143);
   static const IconData gradient =
       FlutterIconData.materialCommunityIcons(63135);
-  static const IconData grain =
-      FlutterIconData.materialCommunityIcons(64856);
-  static const IconData graphql =
-      FlutterIconData.materialCommunityIcons(63606);
+  static const IconData grain = FlutterIconData.materialCommunityIcons(64856);
+  static const IconData graphql = FlutterIconData.materialCommunityIcons(63606);
   static const IconData graveStone =
       FlutterIconData.materialCommunityIcons(64382);
   static const IconData greasePencil =
@@ -4110,16 +3800,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63852);
   static const IconData greaterThanOrEqual =
       FlutterIconData.materialCommunityIcons(63853);
-  static const IconData grid =
-      FlutterIconData.materialCommunityIcons(62145);
+  static const IconData grid = FlutterIconData.materialCommunityIcons(62145);
   static const IconData gridLarge =
       FlutterIconData.materialCommunityIcons(63319);
-  static const IconData gridOff =
-      FlutterIconData.materialCommunityIcons(62146);
-  static const IconData grill =
-      FlutterIconData.materialCommunityIcons(65158);
-  static const IconData group =
-      FlutterIconData.materialCommunityIcons(62147);
+  static const IconData gridOff = FlutterIconData.materialCommunityIcons(62146);
+  static const IconData grill = FlutterIconData.materialCommunityIcons(65158);
+  static const IconData group = FlutterIconData.materialCommunityIcons(62147);
   static const IconData guitarAcoustic =
       FlutterIconData.materialCommunityIcons(63344);
   static const IconData guitarElectric =
@@ -4132,16 +3818,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63524);
   static const IconData hackerNews =
       FlutterIconData.materialCommunityIcons(63012);
-  static const IconData hail =
-      FlutterIconData.materialCommunityIcons(64192);
+  static const IconData hail = FlutterIconData.materialCommunityIcons(64192);
   static const IconData halloween =
       FlutterIconData.materialCommunityIcons(64383);
   static const IconData hamburger =
       FlutterIconData.materialCommunityIcons(63108);
-  static const IconData hammer =
-      FlutterIconData.materialCommunityIcons(63721);
-  static const IconData hand =
-      FlutterIconData.materialCommunityIcons(64078);
+  static const IconData hammer = FlutterIconData.materialCommunityIcons(63721);
+  static const IconData hand = FlutterIconData.materialCommunityIcons(64078);
   static const IconData handLeft =
       FlutterIconData.materialCommunityIcons(65159);
   static const IconData handOkay =
@@ -4160,24 +3843,19 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64084);
   static const IconData handRight =
       FlutterIconData.materialCommunityIcons(65160);
-  static const IconData handSaw =
-      FlutterIconData.materialCommunityIcons(65161);
+  static const IconData handSaw = FlutterIconData.materialCommunityIcons(65161);
   static const IconData handball =
       FlutterIconData.materialCommunityIcons(65392);
-  static const IconData hanger =
-      FlutterIconData.materialCommunityIcons(62152);
-  static const IconData hardHat =
-      FlutterIconData.materialCommunityIcons(63854);
+  static const IconData hanger = FlutterIconData.materialCommunityIcons(62152);
+  static const IconData hardHat = FlutterIconData.materialCommunityIcons(63854);
   static const IconData hardDisk =
       FlutterIconData.materialCommunityIcons(62154);
   static const IconData hatFedora =
       FlutterIconData.materialCommunityIcons(64384);
   static const IconData hazardLights =
       FlutterIconData.materialCommunityIcons(64613);
-  static const IconData hdr =
-      FlutterIconData.materialCommunityIcons(64857);
-  static const IconData hdrOff =
-      FlutterIconData.materialCommunityIcons(64858);
+  static const IconData hdr = FlutterIconData.materialCommunityIcons(64857);
+  static const IconData hdrOff = FlutterIconData.materialCommunityIcons(64858);
   static const IconData headphones =
       FlutterIconData.materialCommunityIcons(62155);
   static const IconData headphonesBluetooth =
@@ -4188,14 +3866,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63437);
   static const IconData headphonesSettings =
       FlutterIconData.materialCommunityIcons(62157);
-  static const IconData headset =
-      FlutterIconData.materialCommunityIcons(62158);
+  static const IconData headset = FlutterIconData.materialCommunityIcons(62158);
   static const IconData headsetDock =
       FlutterIconData.materialCommunityIcons(62159);
   static const IconData headsetOff =
       FlutterIconData.materialCommunityIcons(62160);
-  static const IconData heart =
-      FlutterIconData.materialCommunityIcons(62161);
+  static const IconData heart = FlutterIconData.materialCommunityIcons(62161);
   static const IconData heartBox =
       FlutterIconData.materialCommunityIcons(62162);
   static const IconData heartBoxOutline =
@@ -4228,10 +3904,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62966);
   static const IconData helicopter =
       FlutterIconData.materialCommunityIcons(64193);
-  static const IconData help =
-      FlutterIconData.materialCommunityIcons(62166);
-  static const IconData helpBox =
-      FlutterIconData.materialCommunityIcons(63370);
+  static const IconData help = FlutterIconData.materialCommunityIcons(62166);
+  static const IconData helpBox = FlutterIconData.materialCommunityIcons(63370);
   static const IconData helpCircle =
       FlutterIconData.materialCommunityIcons(62167);
   static const IconData helpCircleOutline =
@@ -4244,8 +3918,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64385);
   static const IconData helpRhombusOutline =
       FlutterIconData.materialCommunityIcons(64386);
-  static const IconData hexagon =
-      FlutterIconData.materialCommunityIcons(62168);
+  static const IconData hexagon = FlutterIconData.materialCommunityIcons(62168);
   static const IconData hexagonMultiple =
       FlutterIconData.materialCommunityIcons(63200);
   static const IconData hexagonOutline =
@@ -4270,22 +3943,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63438);
   static const IconData highDefinitionBox =
       FlutterIconData.materialCommunityIcons(63607);
-  static const IconData highway =
-      FlutterIconData.materialCommunityIcons(62967);
-  static const IconData hiking =
-      FlutterIconData.materialCommunityIcons(64859);
+  static const IconData highway = FlutterIconData.materialCommunityIcons(62967);
+  static const IconData hiking = FlutterIconData.materialCommunityIcons(64859);
   static const IconData hinduism =
       FlutterIconData.materialCommunityIcons(63858);
-  static const IconData history =
-      FlutterIconData.materialCommunityIcons(62170);
+  static const IconData history = FlutterIconData.materialCommunityIcons(62170);
   static const IconData hockeyPuck =
       FlutterIconData.materialCommunityIcons(63608);
   static const IconData hockeySticks =
       FlutterIconData.materialCommunityIcons(63609);
   static const IconData hololens =
       FlutterIconData.materialCommunityIcons(62171);
-  static const IconData home =
-      FlutterIconData.materialCommunityIcons(62172);
+  static const IconData home = FlutterIconData.materialCommunityIcons(62172);
   static const IconData homeAccount =
       FlutterIconData.materialCommunityIcons(63525);
   static const IconData homeAlert =
@@ -4354,12 +4023,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62174);
   static const IconData homeVariantOutline =
       FlutterIconData.materialCommunityIcons(64387);
-  static const IconData hook =
-      FlutterIconData.materialCommunityIcons(63201);
-  static const IconData hookOff =
-      FlutterIconData.materialCommunityIcons(63202);
-  static const IconData hops =
-      FlutterIconData.materialCommunityIcons(62175);
+  static const IconData hook = FlutterIconData.materialCommunityIcons(63201);
+  static const IconData hookOff = FlutterIconData.materialCommunityIcons(63202);
+  static const IconData hops = FlutterIconData.materialCommunityIcons(62175);
   static const IconData horseshoe =
       FlutterIconData.materialCommunityIcons(64087);
   static const IconData hospital =
@@ -4372,20 +4038,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62177);
   static const IconData hospitalMarker =
       FlutterIconData.materialCommunityIcons(62178);
-  static const IconData hotTub =
-      FlutterIconData.materialCommunityIcons(63527);
-  static const IconData hotel =
-      FlutterIconData.materialCommunityIcons(62179);
-  static const IconData houzz =
-      FlutterIconData.materialCommunityIcons(62180);
+  static const IconData hotTub = FlutterIconData.materialCommunityIcons(63527);
+  static const IconData hotel = FlutterIconData.materialCommunityIcons(62179);
+  static const IconData houzz = FlutterIconData.materialCommunityIcons(62180);
   static const IconData houzzBox =
       FlutterIconData.materialCommunityIcons(62181);
-  static const IconData hubspot =
-      FlutterIconData.materialCommunityIcons(64755);
-  static const IconData hulu =
-      FlutterIconData.materialCommunityIcons(63528);
-  static const IconData human =
-      FlutterIconData.materialCommunityIcons(62182);
+  static const IconData hubspot = FlutterIconData.materialCommunityIcons(64755);
+  static const IconData hulu = FlutterIconData.materialCommunityIcons(63528);
+  static const IconData human = FlutterIconData.materialCommunityIcons(62182);
   static const IconData humanChild =
       FlutterIconData.materialCommunityIcons(62183);
   static const IconData humanFemale =
@@ -4422,18 +4082,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63299);
   static const IconData iceCream =
       FlutterIconData.materialCommunityIcons(63529);
-  static const IconData icePop =
-      FlutterIconData.materialCommunityIcons(65306);
-  static const IconData idCard =
-      FlutterIconData.materialCommunityIcons(65504);
+  static const IconData icePop = FlutterIconData.materialCommunityIcons(65306);
+  static const IconData idCard = FlutterIconData.materialCommunityIcons(65504);
   static const IconData identifier =
       FlutterIconData.materialCommunityIcons(65307);
-  static const IconData iframe =
-      FlutterIconData.materialCommunityIcons(64615);
+  static const IconData iframe = FlutterIconData.materialCommunityIcons(64615);
   static const IconData iframeOutline =
       FlutterIconData.materialCommunityIcons(64616);
-  static const IconData image =
-      FlutterIconData.materialCommunityIcons(62185);
+  static const IconData image = FlutterIconData.materialCommunityIcons(62185);
   static const IconData imageAlbum =
       FlutterIconData.materialCommunityIcons(62186);
   static const IconData imageArea =
@@ -4492,10 +4148,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64618);
   static const IconData imageSizeSelectSmall =
       FlutterIconData.materialCommunityIcons(64619);
-  static const IconData import =
-      FlutterIconData.materialCommunityIcons(62202);
-  static const IconData inbox =
-      FlutterIconData.materialCommunityIcons(63110);
+  static const IconData import = FlutterIconData.materialCommunityIcons(62202);
+  static const IconData inbox = FlutterIconData.materialCommunityIcons(63110);
   static const IconData inboxArrowDown =
       FlutterIconData.materialCommunityIcons(62203);
   static const IconData inboxArrowUp =
@@ -4524,56 +4178,40 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62209);
   static const IconData invertColorsOff =
       FlutterIconData.materialCommunityIcons(65163);
-  static const IconData ip =
-      FlutterIconData.materialCommunityIcons(64094);
+  static const IconData ip = FlutterIconData.materialCommunityIcons(64094);
   static const IconData ipNetwork =
       FlutterIconData.materialCommunityIcons(64095);
   static const IconData ipNetworkOutline =
       FlutterIconData.materialCommunityIcons(64620);
-  static const IconData ipod =
-      FlutterIconData.materialCommunityIcons(64621);
-  static const IconData islam =
-      FlutterIconData.materialCommunityIcons(63864);
-  static const IconData itunes =
-      FlutterIconData.materialCommunityIcons(63094);
-  static const IconData jabber =
-      FlutterIconData.materialCommunityIcons(64945);
-  static const IconData jeepNey =
-      FlutterIconData.materialCommunityIcons(62210);
+  static const IconData ipod = FlutterIconData.materialCommunityIcons(64621);
+  static const IconData islam = FlutterIconData.materialCommunityIcons(63864);
+  static const IconData itunes = FlutterIconData.materialCommunityIcons(63094);
+  static const IconData jabber = FlutterIconData.materialCommunityIcons(64945);
+  static const IconData jeepNey = FlutterIconData.materialCommunityIcons(62210);
   static const IconData jellyfish =
       FlutterIconData.materialCommunityIcons(65310);
   static const IconData jellyfishOutline =
       FlutterIconData.materialCommunityIcons(65311);
-  static const IconData jira =
-      FlutterIconData.materialCommunityIcons(62211);
-  static const IconData jquery =
-      FlutterIconData.materialCommunityIcons(63612);
+  static const IconData jira = FlutterIconData.materialCommunityIcons(62211);
+  static const IconData jquery = FlutterIconData.materialCommunityIcons(63612);
   static const IconData jsfiddle =
       FlutterIconData.materialCommunityIcons(62212);
-  static const IconData json =
-      FlutterIconData.materialCommunityIcons(63014);
-  static const IconData judaism =
-      FlutterIconData.materialCommunityIcons(63865);
-  static const IconData kabaddi =
-      FlutterIconData.materialCommunityIcons(64867);
-  static const IconData karate =
-      FlutterIconData.materialCommunityIcons(63531);
-  static const IconData keg =
-      FlutterIconData.materialCommunityIcons(62213);
-  static const IconData kettle =
-      FlutterIconData.materialCommunityIcons(62970);
+  static const IconData json = FlutterIconData.materialCommunityIcons(63014);
+  static const IconData judaism = FlutterIconData.materialCommunityIcons(63865);
+  static const IconData kabaddi = FlutterIconData.materialCommunityIcons(64867);
+  static const IconData karate = FlutterIconData.materialCommunityIcons(63531);
+  static const IconData keg = FlutterIconData.materialCommunityIcons(62213);
+  static const IconData kettle = FlutterIconData.materialCommunityIcons(62970);
   static const IconData kettleOutline =
       FlutterIconData.materialCommunityIcons(65395);
-  static const IconData key =
-      FlutterIconData.materialCommunityIcons(62214);
+  static const IconData key = FlutterIconData.materialCommunityIcons(62214);
   static const IconData keyChange =
       FlutterIconData.materialCommunityIcons(62215);
   static const IconData keyMinus =
       FlutterIconData.materialCommunityIcons(62216);
   static const IconData keyOutline =
       FlutterIconData.materialCommunityIcons(64946);
-  static const IconData keyPlus =
-      FlutterIconData.materialCommunityIcons(62217);
+  static const IconData keyPlus = FlutterIconData.materialCommunityIcons(62217);
   static const IconData keyRemove =
       FlutterIconData.materialCommunityIcons(62218);
   static const IconData keyVariant =
@@ -4606,14 +4244,11 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62227);
   static const IconData kickstarter =
       FlutterIconData.materialCommunityIcons(63300);
-  static const IconData knife =
-      FlutterIconData.materialCommunityIcons(63994);
+  static const IconData knife = FlutterIconData.materialCommunityIcons(63994);
   static const IconData knifeMilitary =
       FlutterIconData.materialCommunityIcons(63995);
-  static const IconData kodi =
-      FlutterIconData.materialCommunityIcons(62228);
-  static const IconData label =
-      FlutterIconData.materialCommunityIcons(62229);
+  static const IconData kodi = FlutterIconData.materialCommunityIcons(62228);
+  static const IconData label = FlutterIconData.materialCommunityIcons(62229);
   static const IconData labelOff =
       FlutterIconData.materialCommunityIcons(64202);
   static const IconData labelOffOutline =
@@ -4624,14 +4259,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64204);
   static const IconData labelVariantOutline =
       FlutterIconData.materialCommunityIcons(64205);
-  static const IconData ladybug =
-      FlutterIconData.materialCommunityIcons(63532);
-  static const IconData lambda =
-      FlutterIconData.materialCommunityIcons(63015);
-  static const IconData lamp =
-      FlutterIconData.materialCommunityIcons(63156);
-  static const IconData lan =
-      FlutterIconData.materialCommunityIcons(62231);
+  static const IconData ladybug = FlutterIconData.materialCommunityIcons(63532);
+  static const IconData lambda = FlutterIconData.materialCommunityIcons(63015);
+  static const IconData lamp = FlutterIconData.materialCommunityIcons(63156);
+  static const IconData lan = FlutterIconData.materialCommunityIcons(62231);
   static const IconData lanConnect =
       FlutterIconData.materialCommunityIcons(62232);
   static const IconData lanDisconnect =
@@ -4672,8 +4303,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63204);
   static const IconData languageTypescript =
       FlutterIconData.materialCommunityIcons(63205);
-  static const IconData laptop =
-      FlutterIconData.materialCommunityIcons(62242);
+  static const IconData laptop = FlutterIconData.materialCommunityIcons(62242);
   static const IconData laptopChromebook =
       FlutterIconData.materialCommunityIcons(62243);
   static const IconData laptopMac =
@@ -4682,22 +4312,17 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63206);
   static const IconData laptopWindows =
       FlutterIconData.materialCommunityIcons(62245);
-  static const IconData laravel =
-      FlutterIconData.materialCommunityIcons(64207);
-  static const IconData lasso =
-      FlutterIconData.materialCommunityIcons(65312);
-  static const IconData lastfm =
-      FlutterIconData.materialCommunityIcons(62246);
+  static const IconData laravel = FlutterIconData.materialCommunityIcons(64207);
+  static const IconData lasso = FlutterIconData.materialCommunityIcons(65312);
+  static const IconData lastfm = FlutterIconData.materialCommunityIcons(62246);
   static const IconData lastpass =
       FlutterIconData.materialCommunityIcons(62534);
   static const IconData latitude =
       FlutterIconData.materialCommunityIcons(65396);
-  static const IconData launch =
-      FlutterIconData.materialCommunityIcons(62247);
+  static const IconData launch = FlutterIconData.materialCommunityIcons(62247);
   static const IconData lavaLamp =
       FlutterIconData.materialCommunityIcons(63444);
-  static const IconData layers =
-      FlutterIconData.materialCommunityIcons(62248);
+  static const IconData layers = FlutterIconData.materialCommunityIcons(62248);
   static const IconData layersMinus =
       FlutterIconData.materialCommunityIcons(65165);
   static const IconData layersOff =
@@ -4716,18 +4341,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65398);
   static const IconData leadPencil =
       FlutterIconData.materialCommunityIcons(63055);
-  static const IconData leaf =
-      FlutterIconData.materialCommunityIcons(62250);
+  static const IconData leaf = FlutterIconData.materialCommunityIcons(62250);
   static const IconData leafMaple =
       FlutterIconData.materialCommunityIcons(64623);
-  static const IconData leak =
-      FlutterIconData.materialCommunityIcons(64947);
-  static const IconData leakOff =
-      FlutterIconData.materialCommunityIcons(64948);
-  static const IconData ledOff =
-      FlutterIconData.materialCommunityIcons(62251);
-  static const IconData ledOn =
-      FlutterIconData.materialCommunityIcons(62252);
+  static const IconData leak = FlutterIconData.materialCommunityIcons(64947);
+  static const IconData leakOff = FlutterIconData.materialCommunityIcons(64948);
+  static const IconData ledOff = FlutterIconData.materialCommunityIcons(62251);
+  static const IconData ledOn = FlutterIconData.materialCommunityIcons(62252);
   static const IconData ledOutline =
       FlutterIconData.materialCommunityIcons(62253);
   static const IconData ledStrip =
@@ -4742,8 +4362,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63867);
   static const IconData lessThanOrEqual =
       FlutterIconData.materialCommunityIcons(63868);
-  static const IconData library =
-      FlutterIconData.materialCommunityIcons(62257);
+  static const IconData library = FlutterIconData.materialCommunityIcons(62257);
   static const IconData libraryBooks =
       FlutterIconData.materialCommunityIcons(62258);
   static const IconData libraryMovie =
@@ -4758,8 +4377,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64389);
   static const IconData libraryVideo =
       FlutterIconData.materialCommunityIcons(64757);
-  static const IconData license =
-      FlutterIconData.materialCommunityIcons(65507);
+  static const IconData license = FlutterIconData.materialCommunityIcons(65507);
   static const IconData lifebuoy =
       FlutterIconData.materialCommunityIcons(63613);
   static const IconData lightSwitch =
@@ -4780,18 +4398,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63998);
   static const IconData lighthouseOn =
       FlutterIconData.materialCommunityIcons(63999);
-  static const IconData link =
-      FlutterIconData.materialCommunityIcons(62263);
-  static const IconData linkBox =
-      FlutterIconData.materialCommunityIcons(64758);
+  static const IconData link = FlutterIconData.materialCommunityIcons(62263);
+  static const IconData linkBox = FlutterIconData.materialCommunityIcons(64758);
   static const IconData linkBoxOutline =
       FlutterIconData.materialCommunityIcons(64759);
   static const IconData linkBoxVariant =
       FlutterIconData.materialCommunityIcons(64760);
   static const IconData linkBoxVariantOutline =
       FlutterIconData.materialCommunityIcons(64761);
-  static const IconData linkOff =
-      FlutterIconData.materialCommunityIcons(62264);
+  static const IconData linkOff = FlutterIconData.materialCommunityIcons(62264);
   static const IconData linkPlus =
       FlutterIconData.materialCommunityIcons(64624);
   static const IconData linkVariant =
@@ -4802,20 +4417,17 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62267);
   static const IconData linkedinBox =
       FlutterIconData.materialCommunityIcons(62268);
-  static const IconData linux =
-      FlutterIconData.materialCommunityIcons(62269);
+  static const IconData linux = FlutterIconData.materialCommunityIcons(62269);
   static const IconData linuxMint =
       FlutterIconData.materialCommunityIcons(63724);
   static const IconData liteCoin =
       FlutterIconData.materialCommunityIcons(64096);
-  static const IconData loading =
-      FlutterIconData.materialCommunityIcons(63345);
+  static const IconData loading = FlutterIconData.materialCommunityIcons(63345);
   static const IconData locationEnter =
       FlutterIconData.materialCommunityIcons(65508);
   static const IconData locationExit =
       FlutterIconData.materialCommunityIcons(65509);
-  static const IconData lock =
-      FlutterIconData.materialCommunityIcons(62270);
+  static const IconData lock = FlutterIconData.materialCommunityIcons(62270);
   static const IconData lockAlert =
       FlutterIconData.materialCommunityIcons(63725);
   static const IconData lockClock =
@@ -4840,34 +4452,25 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63346);
   static const IconData lockSmart =
       FlutterIconData.materialCommunityIcons(63665);
-  static const IconData locker =
-      FlutterIconData.materialCommunityIcons(63446);
+  static const IconData locker = FlutterIconData.materialCommunityIcons(63446);
   static const IconData lockerMultiple =
       FlutterIconData.materialCommunityIcons(63447);
-  static const IconData login =
-      FlutterIconData.materialCommunityIcons(62274);
+  static const IconData login = FlutterIconData.materialCommunityIcons(62274);
   static const IconData loginVariant =
       FlutterIconData.materialCommunityIcons(62972);
-  static const IconData logout =
-      FlutterIconData.materialCommunityIcons(62275);
+  static const IconData logout = FlutterIconData.materialCommunityIcons(62275);
   static const IconData logoutVariant =
       FlutterIconData.materialCommunityIcons(62973);
   static const IconData longitude =
       FlutterIconData.materialCommunityIcons(65399);
-  static const IconData looks =
-      FlutterIconData.materialCommunityIcons(62276);
-  static const IconData loupe =
-      FlutterIconData.materialCommunityIcons(62277);
-  static const IconData lumx =
-      FlutterIconData.materialCommunityIcons(62278);
-  static const IconData lyft =
-      FlutterIconData.materialCommunityIcons(64285);
-  static const IconData magnet =
-      FlutterIconData.materialCommunityIcons(62279);
+  static const IconData looks = FlutterIconData.materialCommunityIcons(62276);
+  static const IconData loupe = FlutterIconData.materialCommunityIcons(62277);
+  static const IconData lumx = FlutterIconData.materialCommunityIcons(62278);
+  static const IconData lyft = FlutterIconData.materialCommunityIcons(64285);
+  static const IconData magnet = FlutterIconData.materialCommunityIcons(62279);
   static const IconData magnetOn =
       FlutterIconData.materialCommunityIcons(62280);
-  static const IconData magnify =
-      FlutterIconData.materialCommunityIcons(62281);
+  static const IconData magnify = FlutterIconData.materialCommunityIcons(62281);
   static const IconData magnifyClose =
       FlutterIconData.materialCommunityIcons(63871);
   static const IconData magnifyMinus =
@@ -4882,12 +4485,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64098);
   static const IconData magnifyPlusOutline =
       FlutterIconData.materialCommunityIcons(63212);
-  static const IconData mail =
-      FlutterIconData.materialCommunityIcons(65240);
-  static const IconData mailRu =
-      FlutterIconData.materialCommunityIcons(62284);
-  static const IconData mailbox =
-      FlutterIconData.materialCommunityIcons(63213);
+  static const IconData mail = FlutterIconData.materialCommunityIcons(65240);
+  static const IconData mailRu = FlutterIconData.materialCommunityIcons(62284);
+  static const IconData mailbox = FlutterIconData.materialCommunityIcons(63213);
   static const IconData mailboxOpen =
       FlutterIconData.materialCommunityIcons(64868);
   static const IconData mailboxOpenOutline =
@@ -4902,8 +4502,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64873);
   static const IconData mailboxUpOutline =
       FlutterIconData.materialCommunityIcons(64874);
-  static const IconData map =
-      FlutterIconData.materialCommunityIcons(62285);
+  static const IconData map = FlutterIconData.materialCommunityIcons(62285);
   static const IconData mapCheck =
       FlutterIconData.materialCommunityIcons(65241);
   static const IconData mapCheckOutline =
@@ -4952,22 +4551,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63872);
   static const IconData mapOutline =
       FlutterIconData.materialCommunityIcons(63873);
-  static const IconData mapPlus =
-      FlutterIconData.materialCommunityIcons(63874);
+  static const IconData mapPlus = FlutterIconData.materialCommunityIcons(63874);
   static const IconData mapSearch =
       FlutterIconData.materialCommunityIcons(63875);
   static const IconData mapSearchOutline =
       FlutterIconData.materialCommunityIcons(63876);
-  static const IconData mapbox =
-      FlutterIconData.materialCommunityIcons(64390);
-  static const IconData margin =
-      FlutterIconData.materialCommunityIcons(62291);
+  static const IconData mapbox = FlutterIconData.materialCommunityIcons(64390);
+  static const IconData margin = FlutterIconData.materialCommunityIcons(62291);
   static const IconData markdown =
       FlutterIconData.materialCommunityIcons(62292);
   static const IconData markdownOutline =
       FlutterIconData.materialCommunityIcons(65400);
-  static const IconData marker =
-      FlutterIconData.materialCommunityIcons(63058);
+  static const IconData marker = FlutterIconData.materialCommunityIcons(63058);
   static const IconData markerCancel =
       FlutterIconData.materialCommunityIcons(64949);
   static const IconData markerCheck =
@@ -4982,8 +4577,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62295);
   static const IconData mathCompass =
       FlutterIconData.materialCommunityIcons(62296);
-  static const IconData mathCos =
-      FlutterIconData.materialCommunityIcons(64626);
+  static const IconData mathCos = FlutterIconData.materialCommunityIcons(64626);
   static const IconData mathIntegral =
       FlutterIconData.materialCommunityIcons(65512);
   static const IconData mathIntegralBox =
@@ -4992,26 +4586,17 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65514);
   static const IconData mathNormBox =
       FlutterIconData.materialCommunityIcons(65515);
-  static const IconData mathSin =
-      FlutterIconData.materialCommunityIcons(64627);
-  static const IconData mathTan =
-      FlutterIconData.materialCommunityIcons(64628);
-  static const IconData matrix =
-      FlutterIconData.materialCommunityIcons(63016);
-  static const IconData maxCdn =
-      FlutterIconData.materialCommunityIcons(62297);
-  static const IconData medal =
-      FlutterIconData.materialCommunityIcons(63878);
+  static const IconData mathSin = FlutterIconData.materialCommunityIcons(64627);
+  static const IconData mathTan = FlutterIconData.materialCommunityIcons(64628);
+  static const IconData matrix = FlutterIconData.materialCommunityIcons(63016);
+  static const IconData maxCdn = FlutterIconData.materialCommunityIcons(62297);
+  static const IconData medal = FlutterIconData.materialCommunityIcons(63878);
   static const IconData medicalBag =
       FlutterIconData.materialCommunityIcons(63214);
-  static const IconData medium =
-      FlutterIconData.materialCommunityIcons(62298);
-  static const IconData meetup =
-      FlutterIconData.materialCommunityIcons(64210);
-  static const IconData memory =
-      FlutterIconData.materialCommunityIcons(62299);
-  static const IconData menu =
-      FlutterIconData.materialCommunityIcons(62300);
+  static const IconData medium = FlutterIconData.materialCommunityIcons(62298);
+  static const IconData meetup = FlutterIconData.materialCommunityIcons(64210);
+  static const IconData memory = FlutterIconData.materialCommunityIcons(62299);
+  static const IconData menu = FlutterIconData.materialCommunityIcons(62300);
   static const IconData menuDown =
       FlutterIconData.materialCommunityIcons(62301);
   static const IconData menuDownOutline =
@@ -5030,14 +4615,11 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64099);
   static const IconData menuSwapOutline =
       FlutterIconData.materialCommunityIcons(64100);
-  static const IconData menuUp =
-      FlutterIconData.materialCommunityIcons(62304);
+  static const IconData menuUp = FlutterIconData.materialCommunityIcons(62304);
   static const IconData menuUpOutline =
       FlutterIconData.materialCommunityIcons(63158);
-  static const IconData merge =
-      FlutterIconData.materialCommunityIcons(65401);
-  static const IconData message =
-      FlutterIconData.materialCommunityIcons(62305);
+  static const IconData merge = FlutterIconData.materialCommunityIcons(65401);
+  static const IconData message = FlutterIconData.materialCommunityIcons(62305);
   static const IconData messageAlert =
       FlutterIconData.materialCommunityIcons(62306);
   static const IconData messageAlertOutline =
@@ -5074,14 +4656,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62314);
   static const IconData messageVideo =
       FlutterIconData.materialCommunityIcons(62315);
-  static const IconData meteor =
-      FlutterIconData.materialCommunityIcons(63017);
+  static const IconData meteor = FlutterIconData.materialCommunityIcons(63017);
   static const IconData metronome =
       FlutterIconData.materialCommunityIcons(63449);
   static const IconData metronomeTick =
       FlutterIconData.materialCommunityIcons(63450);
-  static const IconData microSd =
-      FlutterIconData.materialCommunityIcons(63451);
+  static const IconData microSd = FlutterIconData.materialCommunityIcons(63451);
   static const IconData microphone =
       FlutterIconData.materialCommunityIcons(62316);
   static const IconData microphoneMinus =
@@ -5110,20 +4690,16 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65402);
   static const IconData middlewareOutline =
       FlutterIconData.materialCommunityIcons(65403);
-  static const IconData midi =
-      FlutterIconData.materialCommunityIcons(63728);
+  static const IconData midi = FlutterIconData.materialCommunityIcons(63728);
   static const IconData midiPort =
       FlutterIconData.materialCommunityIcons(63729);
-  static const IconData mine =
-      FlutterIconData.materialCommunityIcons(64950);
+  static const IconData mine = FlutterIconData.materialCommunityIcons(64950);
   static const IconData minecraft =
       FlutterIconData.materialCommunityIcons(62323);
-  static const IconData miniSd =
-      FlutterIconData.materialCommunityIcons(64004);
+  static const IconData miniSd = FlutterIconData.materialCommunityIcons(64004);
   static const IconData miniDisc =
       FlutterIconData.materialCommunityIcons(64005);
-  static const IconData minus =
-      FlutterIconData.materialCommunityIcons(62324);
+  static const IconData minus = FlutterIconData.materialCommunityIcons(62324);
   static const IconData minusBox =
       FlutterIconData.materialCommunityIcons(62325);
   static const IconData minusBoxOutline =
@@ -5142,12 +4718,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64875);
   static const IconData mixedReality =
       FlutterIconData.materialCommunityIcons(63614);
-  static const IconData mixer =
-      FlutterIconData.materialCommunityIcons(63452);
+  static const IconData mixer = FlutterIconData.materialCommunityIcons(63452);
   static const IconData molecule =
       FlutterIconData.materialCommunityIcons(64392);
-  static const IconData monitor =
-      FlutterIconData.materialCommunityIcons(62329);
+  static const IconData monitor = FlutterIconData.materialCommunityIcons(62329);
   static const IconData monitorCellphone =
       FlutterIconData.materialCommunityIcons(63880);
   static const IconData monitorCellphoneStar =
@@ -5174,8 +4748,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65407);
   static const IconData moonLastQuarter =
       FlutterIconData.materialCommunityIcons(65408);
-  static const IconData moonNew =
-      FlutterIconData.materialCommunityIcons(65409);
+  static const IconData moonNew = FlutterIconData.materialCommunityIcons(65409);
   static const IconData moonWaningCrescent =
       FlutterIconData.materialCommunityIcons(65410);
   static const IconData moonWaningGibbous =
@@ -5184,16 +4757,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65412);
   static const IconData moonWaxingGibbous =
       FlutterIconData.materialCommunityIcons(65413);
-  static const IconData more =
-      FlutterIconData.materialCommunityIcons(62331);
+  static const IconData more = FlutterIconData.materialCommunityIcons(62331);
   static const IconData motherNurse =
       FlutterIconData.materialCommunityIcons(64765);
   static const IconData motionSensor =
       FlutterIconData.materialCommunityIcons(64877);
   static const IconData motorbike =
       FlutterIconData.materialCommunityIcons(62332);
-  static const IconData mouse =
-      FlutterIconData.materialCommunityIcons(62333);
+  static const IconData mouse = FlutterIconData.materialCommunityIcons(62333);
   static const IconData mouseBluetooth =
       FlutterIconData.materialCommunityIcons(63882);
   static const IconData mouseOff =
@@ -5206,8 +4777,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63061);
   static const IconData moveResizeVariant =
       FlutterIconData.materialCommunityIcons(63062);
-  static const IconData movie =
-      FlutterIconData.materialCommunityIcons(62337);
+  static const IconData movie = FlutterIconData.materialCommunityIcons(62337);
   static const IconData movieOpen =
       FlutterIconData.materialCommunityIcons(65518);
   static const IconData movieOpenOutline =
@@ -5216,8 +4786,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64953);
   static const IconData movieRoll =
       FlutterIconData.materialCommunityIcons(63453);
-  static const IconData muffin =
-      FlutterIconData.materialCommunityIcons(63883);
+  static const IconData muffin = FlutterIconData.materialCommunityIcons(63883);
   static const IconData multiplication =
       FlutterIconData.materialCommunityIcons(62338);
   static const IconData multiplicationBox =
@@ -5226,8 +4795,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63454);
   static const IconData mushroomOutline =
       FlutterIconData.materialCommunityIcons(63455);
-  static const IconData music =
-      FlutterIconData.materialCommunityIcons(63321);
+  static const IconData music = FlutterIconData.materialCommunityIcons(63321);
   static const IconData musicAccidentalDoubleFlat =
       FlutterIconData.materialCommunityIcons(65414);
   static const IconData musicAccidentalDoubleSharp =
@@ -5298,28 +4866,21 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65432);
   static const IconData musicRestWhole =
       FlutterIconData.materialCommunityIcons(65433);
-  static const IconData nail =
-      FlutterIconData.materialCommunityIcons(64955);
-  static const IconData nas =
-      FlutterIconData.materialCommunityIcons(63730);
+  static const IconData nail = FlutterIconData.materialCommunityIcons(64955);
+  static const IconData nas = FlutterIconData.materialCommunityIcons(63730);
   static const IconData nativescript =
       FlutterIconData.materialCommunityIcons(63615);
-  static const IconData nature =
-      FlutterIconData.materialCommunityIcons(62350);
+  static const IconData nature = FlutterIconData.materialCommunityIcons(62350);
   static const IconData naturePeople =
       FlutterIconData.materialCommunityIcons(62351);
   static const IconData navigation =
       FlutterIconData.materialCommunityIcons(62352);
-  static const IconData nearMe =
-      FlutterIconData.materialCommunityIcons(62925);
+  static const IconData nearMe = FlutterIconData.materialCommunityIcons(62925);
   static const IconData necklace =
       FlutterIconData.materialCommunityIcons(65320);
-  static const IconData needle =
-      FlutterIconData.materialCommunityIcons(62353);
-  static const IconData netflix =
-      FlutterIconData.materialCommunityIcons(63301);
-  static const IconData network =
-      FlutterIconData.materialCommunityIcons(63218);
+  static const IconData needle = FlutterIconData.materialCommunityIcons(62353);
+  static const IconData netflix = FlutterIconData.materialCommunityIcons(63301);
+  static const IconData network = FlutterIconData.materialCommunityIcons(63218);
   static const IconData networkOff =
       FlutterIconData.materialCommunityIcons(64631);
   static const IconData networkOffOutline =
@@ -5348,8 +4909,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63740);
   static const IconData networkStrengthOutline =
       FlutterIconData.materialCommunityIcons(63741);
-  static const IconData newBox =
-      FlutterIconData.materialCommunityIcons(62356);
+  static const IconData newBox = FlutterIconData.materialCommunityIcons(62356);
   static const IconData newspaper =
       FlutterIconData.materialCommunityIcons(62357);
   static const IconData newspaperMinus =
@@ -5364,30 +4924,24 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(983077);
   static const IconData newspaperVariantOutline =
       FlutterIconData.materialCommunityIcons(983078);
-  static const IconData nfc =
-      FlutterIconData.materialCommunityIcons(62358);
-  static const IconData nfcOff =
-      FlutterIconData.materialCommunityIcons(65077);
+  static const IconData nfc = FlutterIconData.materialCommunityIcons(62358);
+  static const IconData nfcOff = FlutterIconData.materialCommunityIcons(65077);
   static const IconData nfcSearchVariant =
       FlutterIconData.materialCommunityIcons(65078);
-  static const IconData nfcTap =
-      FlutterIconData.materialCommunityIcons(62359);
+  static const IconData nfcTap = FlutterIconData.materialCommunityIcons(62359);
   static const IconData nfcVariant =
       FlutterIconData.materialCommunityIcons(62360);
   static const IconData nfcVariantOff =
       FlutterIconData.materialCommunityIcons(65079);
-  static const IconData ninja =
-      FlutterIconData.materialCommunityIcons(63347);
+  static const IconData ninja = FlutterIconData.materialCommunityIcons(63347);
   static const IconData nintendoSwitch =
       FlutterIconData.materialCommunityIcons(63456);
-  static const IconData nodejs =
-      FlutterIconData.materialCommunityIcons(62361);
+  static const IconData nodejs = FlutterIconData.materialCommunityIcons(62361);
   static const IconData notEqual =
       FlutterIconData.materialCommunityIcons(63884);
   static const IconData notEqualVariant =
       FlutterIconData.materialCommunityIcons(63885);
-  static const IconData note =
-      FlutterIconData.materialCommunityIcons(62362);
+  static const IconData note = FlutterIconData.materialCommunityIcons(62362);
   static const IconData noteMultiple =
       FlutterIconData.materialCommunityIcons(63159);
   static const IconData noteMultipleOutline =
@@ -5408,20 +4962,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65244);
   static const IconData notificationClearAll =
       FlutterIconData.materialCommunityIcons(62367);
-  static const IconData npm =
-      FlutterIconData.materialCommunityIcons(63222);
+  static const IconData npm = FlutterIconData.materialCommunityIcons(63222);
   static const IconData npmVariant =
       FlutterIconData.materialCommunityIcons(63886);
   static const IconData npmVariantOutline =
       FlutterIconData.materialCommunityIcons(63887);
-  static const IconData nuke =
-      FlutterIconData.materialCommunityIcons(63139);
-  static const IconData null_ =
-      FlutterIconData.materialCommunityIcons(63457);
-  static const IconData numeric =
-      FlutterIconData.materialCommunityIcons(62368);
-  static const IconData numeric_0 =
-      FlutterIconData.materialCommunityIcons(48);
+  static const IconData nuke = FlutterIconData.materialCommunityIcons(63139);
+  static const IconData null_ = FlutterIconData.materialCommunityIcons(63457);
+  static const IconData numeric = FlutterIconData.materialCommunityIcons(62368);
+  static const IconData numeric_0 = FlutterIconData.materialCommunityIcons(48);
   static const IconData numeric_0Box =
       FlutterIconData.materialCommunityIcons(62369);
   static const IconData numeric_0BoxMultiple =
@@ -5434,8 +4983,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64634);
   static const IconData numeric_0CircleOutline =
       FlutterIconData.materialCommunityIcons(64635);
-  static const IconData numeric_1 =
-      FlutterIconData.materialCommunityIcons(49);
+  static const IconData numeric_1 = FlutterIconData.materialCommunityIcons(49);
   static const IconData numeric_1Box =
       FlutterIconData.materialCommunityIcons(62372);
   static const IconData numeric_1BoxMultiple =
@@ -5462,8 +5010,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(983053);
   static const IconData numeric_10CircleOutline =
       FlutterIconData.materialCommunityIcons(983054);
-  static const IconData numeric_2 =
-      FlutterIconData.materialCommunityIcons(50);
+  static const IconData numeric_2 = FlutterIconData.materialCommunityIcons(50);
   static const IconData numeric_2Box =
       FlutterIconData.materialCommunityIcons(62375);
   static const IconData numeric_2BoxMultiple =
@@ -5476,8 +5023,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64638);
   static const IconData numeric_2CircleOutline =
       FlutterIconData.materialCommunityIcons(64639);
-  static const IconData numeric_3 =
-      FlutterIconData.materialCommunityIcons(51);
+  static const IconData numeric_3 = FlutterIconData.materialCommunityIcons(51);
   static const IconData numeric_3Box =
       FlutterIconData.materialCommunityIcons(62378);
   static const IconData numeric_3BoxMultiple =
@@ -5490,8 +5036,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64640);
   static const IconData numeric_3CircleOutline =
       FlutterIconData.materialCommunityIcons(64641);
-  static const IconData numeric_4 =
-      FlutterIconData.materialCommunityIcons(52);
+  static const IconData numeric_4 = FlutterIconData.materialCommunityIcons(52);
   static const IconData numeric_4Box =
       FlutterIconData.materialCommunityIcons(62381);
   static const IconData numeric_4BoxMultiple =
@@ -5504,8 +5049,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64642);
   static const IconData numeric_4CircleOutline =
       FlutterIconData.materialCommunityIcons(64643);
-  static const IconData numeric_5 =
-      FlutterIconData.materialCommunityIcons(53);
+  static const IconData numeric_5 = FlutterIconData.materialCommunityIcons(53);
   static const IconData numeric_5Box =
       FlutterIconData.materialCommunityIcons(62384);
   static const IconData numeric_5BoxMultiple =
@@ -5518,8 +5062,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64644);
   static const IconData numeric_5CircleOutline =
       FlutterIconData.materialCommunityIcons(64645);
-  static const IconData numeric_6 =
-      FlutterIconData.materialCommunityIcons(54);
+  static const IconData numeric_6 = FlutterIconData.materialCommunityIcons(54);
   static const IconData numeric_6Box =
       FlutterIconData.materialCommunityIcons(62387);
   static const IconData numeric_6BoxMultiple =
@@ -5532,8 +5075,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64646);
   static const IconData numeric_6CircleOutline =
       FlutterIconData.materialCommunityIcons(64647);
-  static const IconData numeric_7 =
-      FlutterIconData.materialCommunityIcons(55);
+  static const IconData numeric_7 = FlutterIconData.materialCommunityIcons(55);
   static const IconData numeric_7Box =
       FlutterIconData.materialCommunityIcons(62390);
   static const IconData numeric_7BoxMultiple =
@@ -5546,8 +5088,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64648);
   static const IconData numeric_7CircleOutline =
       FlutterIconData.materialCommunityIcons(64649);
-  static const IconData numeric_8 =
-      FlutterIconData.materialCommunityIcons(56);
+  static const IconData numeric_8 = FlutterIconData.materialCommunityIcons(56);
   static const IconData numeric_8Box =
       FlutterIconData.materialCommunityIcons(62393);
   static const IconData numeric_8BoxMultiple =
@@ -5560,8 +5101,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64650);
   static const IconData numeric_8CircleOutline =
       FlutterIconData.materialCommunityIcons(64651);
-  static const IconData numeric_9 =
-      FlutterIconData.materialCommunityIcons(57);
+  static const IconData numeric_9 = FlutterIconData.materialCommunityIcons(57);
   static const IconData numeric_9Box =
       FlutterIconData.materialCommunityIcons(62396);
   static const IconData numeric_9BoxMultiple =
@@ -5588,16 +5128,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64654);
   static const IconData numeric_9PlusCircleOutline =
       FlutterIconData.materialCommunityIcons(64655);
-  static const IconData nut =
-      FlutterIconData.materialCommunityIcons(63223);
+  static const IconData nut = FlutterIconData.materialCommunityIcons(63223);
   static const IconData nutrition =
       FlutterIconData.materialCommunityIcons(62402);
-  static const IconData oar =
-      FlutterIconData.materialCommunityIcons(63099);
-  static const IconData ocarina =
-      FlutterIconData.materialCommunityIcons(64956);
-  static const IconData octagon =
-      FlutterIconData.materialCommunityIcons(62403);
+  static const IconData oar = FlutterIconData.materialCommunityIcons(63099);
+  static const IconData ocarina = FlutterIconData.materialCommunityIcons(64956);
+  static const IconData octagon = FlutterIconData.materialCommunityIcons(62403);
   static const IconData octagonOutline =
       FlutterIconData.materialCommunityIcons(62404);
   static const IconData octaGram =
@@ -5606,56 +5142,41 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63348);
   static const IconData odnoklassniki =
       FlutterIconData.materialCommunityIcons(62405);
-  static const IconData office =
-      FlutterIconData.materialCommunityIcons(62406);
+  static const IconData office = FlutterIconData.materialCommunityIcons(62406);
   static const IconData officeBuilding =
       FlutterIconData.materialCommunityIcons(63888);
-  static const IconData oil =
-      FlutterIconData.materialCommunityIcons(62407);
-  static const IconData oilLamp =
-      FlutterIconData.materialCommunityIcons(65334);
+  static const IconData oil = FlutterIconData.materialCommunityIcons(62407);
+  static const IconData oilLamp = FlutterIconData.materialCommunityIcons(65334);
   static const IconData oilTemperature =
       FlutterIconData.materialCommunityIcons(983065);
-  static const IconData omega =
-      FlutterIconData.materialCommunityIcons(62409);
-  static const IconData oneUp =
-      FlutterIconData.materialCommunityIcons(64393);
+  static const IconData omega = FlutterIconData.materialCommunityIcons(62409);
+  static const IconData oneUp = FlutterIconData.materialCommunityIcons(64393);
   static const IconData onedrive =
       FlutterIconData.materialCommunityIcons(62410);
-  static const IconData onenote =
-      FlutterIconData.materialCommunityIcons(63302);
+  static const IconData onenote = FlutterIconData.materialCommunityIcons(63302);
   static const IconData onePassword =
       FlutterIconData.materialCommunityIcons(63616);
-  static const IconData opacity =
-      FlutterIconData.materialCommunityIcons(62924);
+  static const IconData opacity = FlutterIconData.materialCommunityIcons(62924);
   static const IconData openInApp =
       FlutterIconData.materialCommunityIcons(62411);
   static const IconData openInNew =
       FlutterIconData.materialCommunityIcons(62412);
   static const IconData openSourceInitiative =
       FlutterIconData.materialCommunityIcons(64394);
-  static const IconData openid =
-      FlutterIconData.materialCommunityIcons(62413);
-  static const IconData opera =
-      FlutterIconData.materialCommunityIcons(62414);
-  static const IconData orbit =
-      FlutterIconData.materialCommunityIcons(61464);
-  static const IconData origin =
-      FlutterIconData.materialCommunityIcons(64299);
+  static const IconData openid = FlutterIconData.materialCommunityIcons(62413);
+  static const IconData opera = FlutterIconData.materialCommunityIcons(62414);
+  static const IconData orbit = FlutterIconData.materialCommunityIcons(61464);
+  static const IconData origin = FlutterIconData.materialCommunityIcons(64299);
   static const IconData ornament =
       FlutterIconData.materialCommunityIcons(62415);
   static const IconData ornamentVariant =
       FlutterIconData.materialCommunityIcons(62416);
-  static const IconData outlook =
-      FlutterIconData.materialCommunityIcons(64766);
+  static const IconData outlook = FlutterIconData.materialCommunityIcons(64766);
   static const IconData overscan =
       FlutterIconData.materialCommunityIcons(983079);
-  static const IconData owl =
-      FlutterIconData.materialCommunityIcons(62418);
-  static const IconData pacMan =
-      FlutterIconData.materialCommunityIcons(64395);
-  static const IconData package =
-      FlutterIconData.materialCommunityIcons(62419);
+  static const IconData owl = FlutterIconData.materialCommunityIcons(62418);
+  static const IconData pacMan = FlutterIconData.materialCommunityIcons(64395);
+  static const IconData package = FlutterIconData.materialCommunityIcons(62419);
   static const IconData packageDown =
       FlutterIconData.materialCommunityIcons(62420);
   static const IconData packageUp =
@@ -5688,40 +5209,33 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64398);
   static const IconData pagePreviousOutline =
       FlutterIconData.materialCommunityIcons(64399);
-  static const IconData palette =
-      FlutterIconData.materialCommunityIcons(62424);
+  static const IconData palette = FlutterIconData.materialCommunityIcons(62424);
   static const IconData paletteAdvanced =
       FlutterIconData.materialCommunityIcons(62425);
   static const IconData paletteOutline =
       FlutterIconData.materialCommunityIcons(65132);
   static const IconData paletteSwatch =
       FlutterIconData.materialCommunityIcons(63668);
-  static const IconData pan =
-      FlutterIconData.materialCommunityIcons(64400);
+  static const IconData pan = FlutterIconData.materialCommunityIcons(64400);
   static const IconData panBottomLeft =
       FlutterIconData.materialCommunityIcons(64401);
   static const IconData panBottomRight =
       FlutterIconData.materialCommunityIcons(64402);
-  static const IconData panDown =
-      FlutterIconData.materialCommunityIcons(64403);
+  static const IconData panDown = FlutterIconData.materialCommunityIcons(64403);
   static const IconData panHorizontal =
       FlutterIconData.materialCommunityIcons(64404);
-  static const IconData panLeft =
-      FlutterIconData.materialCommunityIcons(64405);
+  static const IconData panLeft = FlutterIconData.materialCommunityIcons(64405);
   static const IconData panRight =
       FlutterIconData.materialCommunityIcons(64406);
   static const IconData panTopLeft =
       FlutterIconData.materialCommunityIcons(64407);
   static const IconData panTopRight =
       FlutterIconData.materialCommunityIcons(64408);
-  static const IconData panUp =
-      FlutterIconData.materialCommunityIcons(64409);
+  static const IconData panUp = FlutterIconData.materialCommunityIcons(64409);
   static const IconData panVertical =
       FlutterIconData.materialCommunityIcons(64410);
-  static const IconData panda =
-      FlutterIconData.materialCommunityIcons(62426);
-  static const IconData pandora =
-      FlutterIconData.materialCommunityIcons(62427);
+  static const IconData panda = FlutterIconData.materialCommunityIcons(62426);
+  static const IconData pandora = FlutterIconData.materialCommunityIcons(62427);
   static const IconData panorama =
       FlutterIconData.materialCommunityIcons(62428);
   static const IconData panoramaFisheye =
@@ -5740,18 +5254,15 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64656);
   static const IconData parachuteOutline =
       FlutterIconData.materialCommunityIcons(64657);
-  static const IconData parking =
-      FlutterIconData.materialCommunityIcons(62435);
+  static const IconData parking = FlutterIconData.materialCommunityIcons(62435);
   static const IconData passport =
       FlutterIconData.materialCommunityIcons(63458);
   static const IconData passportBiometric =
       FlutterIconData.materialCommunityIcons(64957);
   static const IconData patioHeater =
       FlutterIconData.materialCommunityIcons(65437);
-  static const IconData patreon =
-      FlutterIconData.materialCommunityIcons(63617);
-  static const IconData pause =
-      FlutterIconData.materialCommunityIcons(62436);
+  static const IconData patreon = FlutterIconData.materialCommunityIcons(63617);
+  static const IconData pause = FlutterIconData.materialCommunityIcons(62436);
   static const IconData pauseCircle =
       FlutterIconData.materialCommunityIcons(62437);
   static const IconData pauseCircleOutline =
@@ -5760,38 +5271,27 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62439);
   static const IconData pauseOctagonOutline =
       FlutterIconData.materialCommunityIcons(62440);
-  static const IconData paw =
-      FlutterIconData.materialCommunityIcons(62441);
-  static const IconData pawOff =
-      FlutterIconData.materialCommunityIcons(63063);
-  static const IconData paypal =
-      FlutterIconData.materialCommunityIcons(63618);
-  static const IconData pdfBox =
-      FlutterIconData.materialCommunityIcons(65081);
-  static const IconData peace =
-      FlutterIconData.materialCommunityIcons(63619);
-  static const IconData peanut =
-      FlutterIconData.materialCommunityIcons(983070);
+  static const IconData paw = FlutterIconData.materialCommunityIcons(62441);
+  static const IconData pawOff = FlutterIconData.materialCommunityIcons(63063);
+  static const IconData paypal = FlutterIconData.materialCommunityIcons(63618);
+  static const IconData pdfBox = FlutterIconData.materialCommunityIcons(65081);
+  static const IconData peace = FlutterIconData.materialCommunityIcons(63619);
+  static const IconData peanut = FlutterIconData.materialCommunityIcons(983070);
   static const IconData peanutOff =
       FlutterIconData.materialCommunityIcons(983071);
   static const IconData peanutOffOutline =
       FlutterIconData.materialCommunityIcons(983073);
   static const IconData peanutOutline =
       FlutterIconData.materialCommunityIcons(983072);
-  static const IconData pen =
-      FlutterIconData.materialCommunityIcons(62442);
-  static const IconData penLock =
-      FlutterIconData.materialCommunityIcons(64958);
+  static const IconData pen = FlutterIconData.materialCommunityIcons(62442);
+  static const IconData penLock = FlutterIconData.materialCommunityIcons(64958);
   static const IconData penMinus =
       FlutterIconData.materialCommunityIcons(64959);
-  static const IconData penOff =
-      FlutterIconData.materialCommunityIcons(64960);
-  static const IconData penPlus =
-      FlutterIconData.materialCommunityIcons(64961);
+  static const IconData penOff = FlutterIconData.materialCommunityIcons(64960);
+  static const IconData penPlus = FlutterIconData.materialCommunityIcons(64961);
   static const IconData penRemove =
       FlutterIconData.materialCommunityIcons(64962);
-  static const IconData pencil =
-      FlutterIconData.materialCommunityIcons(62443);
+  static const IconData pencil = FlutterIconData.materialCommunityIcons(62443);
   static const IconData pencilBox =
       FlutterIconData.materialCommunityIcons(62444);
   static const IconData pencilBoxOutline =
@@ -5822,14 +5322,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64969);
   static const IconData pencilRemoveOutline =
       FlutterIconData.materialCommunityIcons(64970);
-  static const IconData penguin =
-      FlutterIconData.materialCommunityIcons(65245);
+  static const IconData penguin = FlutterIconData.materialCommunityIcons(65245);
   static const IconData pentagon =
       FlutterIconData.materialCommunityIcons(63231);
   static const IconData pentagonOutline =
       FlutterIconData.materialCommunityIcons(63232);
-  static const IconData percent =
-      FlutterIconData.materialCommunityIcons(62448);
+  static const IconData percent = FlutterIconData.materialCommunityIcons(62448);
   static const IconData periodicTable =
       FlutterIconData.materialCommunityIcons(63669);
   static const IconData periodicTableCo2 =
@@ -5842,8 +5340,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64768);
   static const IconData pharmacy =
       FlutterIconData.materialCommunityIcons(62449);
-  static const IconData phone =
-      FlutterIconData.materialCommunityIcons(62450);
+  static const IconData phone = FlutterIconData.materialCommunityIcons(62450);
   static const IconData phoneAlert =
       FlutterIconData.materialCommunityIcons(65335);
   static const IconData phoneBluetooth =
@@ -5886,16 +5383,11 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62461);
   static const IconData phoneVoip =
       FlutterIconData.materialCommunityIcons(62462);
-  static const IconData pi =
-      FlutterIconData.materialCommunityIcons(62463);
-  static const IconData piBox =
-      FlutterIconData.materialCommunityIcons(62464);
-  static const IconData piHole =
-      FlutterIconData.materialCommunityIcons(64973);
-  static const IconData piano =
-      FlutterIconData.materialCommunityIcons(63100);
-  static const IconData pickaxe =
-      FlutterIconData.materialCommunityIcons(63670);
+  static const IconData pi = FlutterIconData.materialCommunityIcons(62463);
+  static const IconData piBox = FlutterIconData.materialCommunityIcons(62464);
+  static const IconData piHole = FlutterIconData.materialCommunityIcons(64973);
+  static const IconData piano = FlutterIconData.materialCommunityIcons(63100);
+  static const IconData pickaxe = FlutterIconData.materialCommunityIcons(63670);
   static const IconData pictureInPictureBottomRight =
       FlutterIconData.materialCommunityIcons(65082);
   static const IconData pictureInPictureBottomRightOutline =
@@ -5904,24 +5396,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65084);
   static const IconData pictureInPictureTopRightOutline =
       FlutterIconData.materialCommunityIcons(65085);
-  static const IconData pier =
-      FlutterIconData.materialCommunityIcons(63622);
+  static const IconData pier = FlutterIconData.materialCommunityIcons(63622);
   static const IconData pierCrane =
       FlutterIconData.materialCommunityIcons(63623);
-  static const IconData pig =
-      FlutterIconData.materialCommunityIcons(62465);
+  static const IconData pig = FlutterIconData.materialCommunityIcons(62465);
   static const IconData pigVariant =
       FlutterIconData.materialCommunityIcons(983080);
   static const IconData piggyBank =
       FlutterIconData.materialCommunityIcons(983081);
-  static const IconData pill =
-      FlutterIconData.materialCommunityIcons(62466);
-  static const IconData pillar =
-      FlutterIconData.materialCommunityIcons(63233);
-  static const IconData pin =
-      FlutterIconData.materialCommunityIcons(62467);
-  static const IconData pinOff =
-      FlutterIconData.materialCommunityIcons(62468);
+  static const IconData pill = FlutterIconData.materialCommunityIcons(62466);
+  static const IconData pillar = FlutterIconData.materialCommunityIcons(63233);
+  static const IconData pin = FlutterIconData.materialCommunityIcons(62467);
+  static const IconData pinOff = FlutterIconData.materialCommunityIcons(62468);
   static const IconData pinOffOutline =
       FlutterIconData.materialCommunityIcons(63791);
   static const IconData pinOutline =
@@ -5938,22 +5424,16 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64212);
   static const IconData pinwheelOutline =
       FlutterIconData.materialCommunityIcons(64213);
-  static const IconData pipe =
-      FlutterIconData.materialCommunityIcons(63460);
+  static const IconData pipe = FlutterIconData.materialCommunityIcons(63460);
   static const IconData pipeDisconnected =
       FlutterIconData.materialCommunityIcons(63461);
   static const IconData pipeLeak =
       FlutterIconData.materialCommunityIcons(63624);
-  static const IconData pirate =
-      FlutterIconData.materialCommunityIcons(64007);
-  static const IconData pistol =
-      FlutterIconData.materialCommunityIcons(63234);
-  static const IconData piston =
-      FlutterIconData.materialCommunityIcons(63625);
-  static const IconData pizza =
-      FlutterIconData.materialCommunityIcons(62473);
-  static const IconData play =
-      FlutterIconData.materialCommunityIcons(62474);
+  static const IconData pirate = FlutterIconData.materialCommunityIcons(64007);
+  static const IconData pistol = FlutterIconData.materialCommunityIcons(63234);
+  static const IconData piston = FlutterIconData.materialCommunityIcons(63625);
+  static const IconData pizza = FlutterIconData.materialCommunityIcons(62473);
+  static const IconData play = FlutterIconData.materialCommunityIcons(62474);
   static const IconData playBoxOutline =
       FlutterIconData.materialCommunityIcons(62475);
   static const IconData playCircle =
@@ -5992,12 +5472,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64974);
   static const IconData playstation =
       FlutterIconData.materialCommunityIcons(62484);
-  static const IconData plex =
-      FlutterIconData.materialCommunityIcons(63161);
-  static const IconData plus =
-      FlutterIconData.materialCommunityIcons(62485);
-  static const IconData plusBox =
-      FlutterIconData.materialCommunityIcons(62486);
+  static const IconData plex = FlutterIconData.materialCommunityIcons(63161);
+  static const IconData plus = FlutterIconData.materialCommunityIcons(62485);
+  static const IconData plusBox = FlutterIconData.materialCommunityIcons(62486);
   static const IconData plusBoxOutline =
       FlutterIconData.materialCommunityIcons(63235);
   static const IconData plusCircle =
@@ -6014,16 +5491,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62490);
   static const IconData plusNetworkOutline =
       FlutterIconData.materialCommunityIcons(64662);
-  static const IconData plusOne =
-      FlutterIconData.materialCommunityIcons(62491);
+  static const IconData plusOne = FlutterIconData.materialCommunityIcons(62491);
   static const IconData plusOutline =
       FlutterIconData.materialCommunityIcons(63236);
-  static const IconData pocket =
-      FlutterIconData.materialCommunityIcons(62492);
-  static const IconData podcast =
-      FlutterIconData.materialCommunityIcons(63891);
-  static const IconData podium =
-      FlutterIconData.materialCommunityIcons(64769);
+  static const IconData pocket = FlutterIconData.materialCommunityIcons(62492);
+  static const IconData podcast = FlutterIconData.materialCommunityIcons(63891);
+  static const IconData podium = FlutterIconData.materialCommunityIcons(64769);
   static const IconData podiumBronze =
       FlutterIconData.materialCommunityIcons(64770);
   static const IconData podiumGold =
@@ -6040,38 +5513,27 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63535);
   static const IconData polaroid =
       FlutterIconData.materialCommunityIcons(62494);
-  static const IconData poll =
-      FlutterIconData.materialCommunityIcons(62495);
-  static const IconData pollBox =
-      FlutterIconData.materialCommunityIcons(62496);
-  static const IconData polymer =
-      FlutterIconData.materialCommunityIcons(62497);
-  static const IconData pool =
-      FlutterIconData.materialCommunityIcons(62982);
-  static const IconData popcorn =
-      FlutterIconData.materialCommunityIcons(62498);
-  static const IconData post =
-      FlutterIconData.materialCommunityIcons(983082);
+  static const IconData poll = FlutterIconData.materialCommunityIcons(62495);
+  static const IconData pollBox = FlutterIconData.materialCommunityIcons(62496);
+  static const IconData polymer = FlutterIconData.materialCommunityIcons(62497);
+  static const IconData pool = FlutterIconData.materialCommunityIcons(62982);
+  static const IconData popcorn = FlutterIconData.materialCommunityIcons(62498);
+  static const IconData post = FlutterIconData.materialCommunityIcons(983082);
   static const IconData postOutline =
       FlutterIconData.materialCommunityIcons(983083);
   static const IconData postageStamp =
       FlutterIconData.materialCommunityIcons(64663);
-  static const IconData pot =
-      FlutterIconData.materialCommunityIcons(63066);
-  static const IconData potMix =
-      FlutterIconData.materialCommunityIcons(63067);
-  static const IconData pound =
-      FlutterIconData.materialCommunityIcons(62499);
+  static const IconData pot = FlutterIconData.materialCommunityIcons(63066);
+  static const IconData potMix = FlutterIconData.materialCommunityIcons(63067);
+  static const IconData pound = FlutterIconData.materialCommunityIcons(62499);
   static const IconData poundBox =
       FlutterIconData.materialCommunityIcons(62500);
-  static const IconData power =
-      FlutterIconData.materialCommunityIcons(62501);
+  static const IconData power = FlutterIconData.materialCommunityIcons(62501);
   static const IconData powerCycle =
       FlutterIconData.materialCommunityIcons(63744);
   static const IconData powerOff =
       FlutterIconData.materialCommunityIcons(63745);
-  static const IconData powerOn =
-      FlutterIconData.materialCommunityIcons(63746);
+  static const IconData powerOn = FlutterIconData.materialCommunityIcons(63746);
   static const IconData powerPlug =
       FlutterIconData.materialCommunityIcons(63140);
   static const IconData powerPlugOff =
@@ -6100,8 +5562,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62504);
   static const IconData presentationPlay =
       FlutterIconData.materialCommunityIcons(62505);
-  static const IconData printer =
-      FlutterIconData.materialCommunityIcons(62506);
+  static const IconData printer = FlutterIconData.materialCommunityIcons(62506);
   static const IconData printer_3d =
       FlutterIconData.materialCommunityIcons(62507);
   static const IconData printer_3dNozzle =
@@ -6140,26 +5601,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62511);
   static const IconData protocol =
       FlutterIconData.materialCommunityIcons(65529);
-  static const IconData publish =
-      FlutterIconData.materialCommunityIcons(63142);
-  static const IconData pulse =
-      FlutterIconData.materialCommunityIcons(62512);
-  static const IconData pumpkin =
-      FlutterIconData.materialCommunityIcons(64411);
-  static const IconData purse =
-      FlutterIconData.materialCommunityIcons(65337);
+  static const IconData publish = FlutterIconData.materialCommunityIcons(63142);
+  static const IconData pulse = FlutterIconData.materialCommunityIcons(62512);
+  static const IconData pumpkin = FlutterIconData.materialCommunityIcons(64411);
+  static const IconData purse = FlutterIconData.materialCommunityIcons(65337);
   static const IconData purseOutline =
       FlutterIconData.materialCommunityIcons(65338);
-  static const IconData puzzle =
-      FlutterIconData.materialCommunityIcons(62513);
+  static const IconData puzzle = FlutterIconData.materialCommunityIcons(62513);
   static const IconData puzzleOutline =
       FlutterIconData.materialCommunityIcons(64101);
-  static const IconData qi =
-      FlutterIconData.materialCommunityIcons(63896);
-  static const IconData qqChat =
-      FlutterIconData.materialCommunityIcons(62981);
-  static const IconData qrcode =
-      FlutterIconData.materialCommunityIcons(62514);
+  static const IconData qi = FlutterIconData.materialCommunityIcons(63896);
+  static const IconData qqChat = FlutterIconData.materialCommunityIcons(62981);
+  static const IconData qrcode = FlutterIconData.materialCommunityIcons(62514);
   static const IconData qrcodeEdit =
       FlutterIconData.materialCommunityIcons(63671);
   static const IconData qrcodeScan =
@@ -6174,28 +5627,22 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64012);
   static const IconData quicktime =
       FlutterIconData.materialCommunityIcons(62518);
-  static const IconData quora =
-      FlutterIconData.materialCommunityIcons(64773);
-  static const IconData rabbit =
-      FlutterIconData.materialCommunityIcons(63750);
+  static const IconData quora = FlutterIconData.materialCommunityIcons(64773);
+  static const IconData rabbit = FlutterIconData.materialCommunityIcons(63750);
   static const IconData racingHelmet =
       FlutterIconData.materialCommunityIcons(64879);
   static const IconData racquetball =
       FlutterIconData.materialCommunityIcons(64880);
-  static const IconData radar =
-      FlutterIconData.materialCommunityIcons(62519);
+  static const IconData radar = FlutterIconData.materialCommunityIcons(62519);
   static const IconData radiator =
       FlutterIconData.materialCommunityIcons(62520);
   static const IconData radiatorDisabled =
       FlutterIconData.materialCommunityIcons(64214);
   static const IconData radiatorOff =
       FlutterIconData.materialCommunityIcons(64215);
-  static const IconData radio =
-      FlutterIconData.materialCommunityIcons(62521);
-  static const IconData radioAm =
-      FlutterIconData.materialCommunityIcons(64666);
-  static const IconData radioFm =
-      FlutterIconData.materialCommunityIcons(64667);
+  static const IconData radio = FlutterIconData.materialCommunityIcons(62521);
+  static const IconData radioAm = FlutterIconData.materialCommunityIcons(64666);
+  static const IconData radioFm = FlutterIconData.materialCommunityIcons(64667);
   static const IconData radioHandheld =
       FlutterIconData.materialCommunityIcons(62522);
   static const IconData radioTower =
@@ -6208,16 +5655,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62525);
   static const IconData radioBoxMarked =
       FlutterIconData.materialCommunityIcons(62526);
-  static const IconData radius =
-      FlutterIconData.materialCommunityIcons(64668);
+  static const IconData radius = FlutterIconData.materialCommunityIcons(64668);
   static const IconData radiusOutline =
       FlutterIconData.materialCommunityIcons(64669);
   static const IconData railroadLight =
       FlutterIconData.materialCommunityIcons(65339);
   static const IconData raspberryPi =
       FlutterIconData.materialCommunityIcons(62527);
-  static const IconData rayEnd =
-      FlutterIconData.materialCommunityIcons(62528);
+  static const IconData rayEnd = FlutterIconData.materialCommunityIcons(62528);
   static const IconData rayEndArrow =
       FlutterIconData.materialCommunityIcons(62529);
   static const IconData rayStart =
@@ -6228,14 +5673,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62532);
   static const IconData rayVertex =
       FlutterIconData.materialCommunityIcons(62533);
-  static const IconData react =
-      FlutterIconData.materialCommunityIcons(63239);
-  static const IconData read =
-      FlutterIconData.materialCommunityIcons(62535);
-  static const IconData receipt =
-      FlutterIconData.materialCommunityIcons(62537);
-  static const IconData record =
-      FlutterIconData.materialCommunityIcons(62538);
+  static const IconData react = FlutterIconData.materialCommunityIcons(63239);
+  static const IconData read = FlutterIconData.materialCommunityIcons(62535);
+  static const IconData receipt = FlutterIconData.materialCommunityIcons(62537);
+  static const IconData record = FlutterIconData.materialCommunityIcons(62538);
   static const IconData recordCircle =
       FlutterIconData.materialCommunityIcons(65247);
   static const IconData recordCircleOutline =
@@ -6248,32 +5689,25 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65089);
   static const IconData rectangleOutline =
       FlutterIconData.materialCommunityIcons(65090);
-  static const IconData recycle =
-      FlutterIconData.materialCommunityIcons(62540);
-  static const IconData reddit =
-      FlutterIconData.materialCommunityIcons(62541);
-  static const IconData redo =
-      FlutterIconData.materialCommunityIcons(62542);
+  static const IconData recycle = FlutterIconData.materialCommunityIcons(62540);
+  static const IconData reddit = FlutterIconData.materialCommunityIcons(62541);
+  static const IconData redo = FlutterIconData.materialCommunityIcons(62542);
   static const IconData redoVariant =
       FlutterIconData.materialCommunityIcons(62543);
   static const IconData reflectHorizontal =
       FlutterIconData.materialCommunityIcons(64013);
   static const IconData reflectVertical =
       FlutterIconData.materialCommunityIcons(64014);
-  static const IconData refresh =
-      FlutterIconData.materialCommunityIcons(62544);
-  static const IconData regex =
-      FlutterIconData.materialCommunityIcons(62545);
+  static const IconData refresh = FlutterIconData.materialCommunityIcons(62544);
+  static const IconData regex = FlutterIconData.materialCommunityIcons(62545);
   static const IconData registeredTrademark =
       FlutterIconData.materialCommunityIcons(64102);
   static const IconData relativeScale =
       FlutterIconData.materialCommunityIcons(62546);
-  static const IconData reload =
-      FlutterIconData.materialCommunityIcons(62547);
+  static const IconData reload = FlutterIconData.materialCommunityIcons(62547);
   static const IconData reminder =
       FlutterIconData.materialCommunityIcons(63627);
-  static const IconData remote =
-      FlutterIconData.materialCommunityIcons(62548);
+  static const IconData remote = FlutterIconData.materialCommunityIcons(62548);
   static const IconData remoteDesktop =
       FlutterIconData.materialCommunityIcons(63672);
   static const IconData remoteOff =
@@ -6288,16 +5722,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63111);
   static const IconData reorderVertical =
       FlutterIconData.materialCommunityIcons(63112);
-  static const IconData repeat =
-      FlutterIconData.materialCommunityIcons(62550);
+  static const IconData repeat = FlutterIconData.materialCommunityIcons(62550);
   static const IconData repeatOff =
       FlutterIconData.materialCommunityIcons(62551);
   static const IconData repeatOnce =
       FlutterIconData.materialCommunityIcons(62552);
-  static const IconData replay =
-      FlutterIconData.materialCommunityIcons(62553);
-  static const IconData reply =
-      FlutterIconData.materialCommunityIcons(62554);
+  static const IconData replay = FlutterIconData.materialCommunityIcons(62553);
+  static const IconData reply = FlutterIconData.materialCommunityIcons(62554);
   static const IconData replyAll =
       FlutterIconData.materialCommunityIcons(62555);
   static const IconData replyAllOutline =
@@ -6310,56 +5741,44 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64287);
   static const IconData resistorNodes =
       FlutterIconData.materialCommunityIcons(64288);
-  static const IconData resize =
-      FlutterIconData.materialCommunityIcons(64103);
+  static const IconData resize = FlutterIconData.materialCommunityIcons(64103);
   static const IconData resizeBottomRight =
       FlutterIconData.materialCommunityIcons(62557);
   static const IconData responsive =
       FlutterIconData.materialCommunityIcons(62558);
-  static const IconData restart =
-      FlutterIconData.materialCommunityIcons(63240);
+  static const IconData restart = FlutterIconData.materialCommunityIcons(63240);
   static const IconData restartOff =
       FlutterIconData.materialCommunityIcons(64881);
-  static const IconData restore =
-      FlutterIconData.materialCommunityIcons(63898);
-  static const IconData rewind =
-      FlutterIconData.materialCommunityIcons(62559);
+  static const IconData restore = FlutterIconData.materialCommunityIcons(63898);
+  static const IconData rewind = FlutterIconData.materialCommunityIcons(62559);
   static const IconData rewind_10 =
       FlutterIconData.materialCommunityIcons(64774);
   static const IconData rewind_30 =
       FlutterIconData.materialCommunityIcons(64882);
   static const IconData rewindOutline =
       FlutterIconData.materialCommunityIcons(63241);
-  static const IconData rhombus =
-      FlutterIconData.materialCommunityIcons(63242);
+  static const IconData rhombus = FlutterIconData.materialCommunityIcons(63242);
   static const IconData rhombusMedium =
       FlutterIconData.materialCommunityIcons(64015);
   static const IconData rhombusOutline =
       FlutterIconData.materialCommunityIcons(63243);
   static const IconData rhombusSplit =
       FlutterIconData.materialCommunityIcons(64016);
-  static const IconData ribbon =
-      FlutterIconData.materialCommunityIcons(62560);
-  static const IconData rice =
-      FlutterIconData.materialCommunityIcons(63465);
-  static const IconData ring =
-      FlutterIconData.materialCommunityIcons(63466);
-  static const IconData rivet =
-      FlutterIconData.materialCommunityIcons(65091);
-  static const IconData road =
-      FlutterIconData.materialCommunityIcons(62561);
+  static const IconData ribbon = FlutterIconData.materialCommunityIcons(62560);
+  static const IconData rice = FlutterIconData.materialCommunityIcons(63465);
+  static const IconData ring = FlutterIconData.materialCommunityIcons(63466);
+  static const IconData rivet = FlutterIconData.materialCommunityIcons(65091);
+  static const IconData road = FlutterIconData.materialCommunityIcons(62561);
   static const IconData roadVariant =
       FlutterIconData.materialCommunityIcons(62562);
-  static const IconData robot =
-      FlutterIconData.materialCommunityIcons(63144);
+  static const IconData robot = FlutterIconData.materialCommunityIcons(63144);
   static const IconData robotIndustrial =
       FlutterIconData.materialCommunityIcons(64289);
   static const IconData robotVacuum =
       FlutterIconData.materialCommunityIcons(63244);
   static const IconData robotVacuumVariant =
       FlutterIconData.materialCommunityIcons(63751);
-  static const IconData rocket =
-      FlutterIconData.materialCommunityIcons(62563);
+  static const IconData rocket = FlutterIconData.materialCommunityIcons(62563);
   static const IconData rollerSkate =
       FlutterIconData.materialCommunityIcons(64775);
   static const IconData rollerblade =
@@ -6390,74 +5809,55 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62569);
   static const IconData routerWirelessSettings =
       FlutterIconData.materialCommunityIcons(64104);
-  static const IconData routes =
-      FlutterIconData.materialCommunityIcons(62570);
-  static const IconData rowing =
-      FlutterIconData.materialCommunityIcons(62984);
-  static const IconData rss =
-      FlutterIconData.materialCommunityIcons(62571);
-  static const IconData rssBox =
-      FlutterIconData.materialCommunityIcons(62572);
-  static const IconData rssOff =
-      FlutterIconData.materialCommunityIcons(65342);
-  static const IconData ruby =
-      FlutterIconData.materialCommunityIcons(64777);
-  static const IconData rugby =
-      FlutterIconData.materialCommunityIcons(64885);
-  static const IconData ruler =
-      FlutterIconData.materialCommunityIcons(62573);
+  static const IconData routes = FlutterIconData.materialCommunityIcons(62570);
+  static const IconData rowing = FlutterIconData.materialCommunityIcons(62984);
+  static const IconData rss = FlutterIconData.materialCommunityIcons(62571);
+  static const IconData rssBox = FlutterIconData.materialCommunityIcons(62572);
+  static const IconData rssOff = FlutterIconData.materialCommunityIcons(65342);
+  static const IconData ruby = FlutterIconData.materialCommunityIcons(64777);
+  static const IconData rugby = FlutterIconData.materialCommunityIcons(64885);
+  static const IconData ruler = FlutterIconData.materialCommunityIcons(62573);
   static const IconData rulerSquare =
       FlutterIconData.materialCommunityIcons(64670);
   static const IconData rulerSquareCompass =
       FlutterIconData.materialCommunityIcons(65243);
-  static const IconData run =
-      FlutterIconData.materialCommunityIcons(63245);
-  static const IconData runFast =
-      FlutterIconData.materialCommunityIcons(62574);
-  static const IconData sack =
-      FlutterIconData.materialCommunityIcons(64778);
+  static const IconData run = FlutterIconData.materialCommunityIcons(63245);
+  static const IconData runFast = FlutterIconData.materialCommunityIcons(62574);
+  static const IconData sack = FlutterIconData.materialCommunityIcons(64778);
   static const IconData sackPercent =
       FlutterIconData.materialCommunityIcons(64779);
-  static const IconData safe =
-      FlutterIconData.materialCommunityIcons(64105);
+  static const IconData safe = FlutterIconData.materialCommunityIcons(64105);
   static const IconData safetyGoggles =
       FlutterIconData.materialCommunityIcons(64780);
-  static const IconData sailing =
-      FlutterIconData.materialCommunityIcons(65253);
-  static const IconData sale =
-      FlutterIconData.materialCommunityIcons(62575);
+  static const IconData sailing = FlutterIconData.materialCommunityIcons(65253);
+  static const IconData sale = FlutterIconData.materialCommunityIcons(62575);
   static const IconData salesforce =
       FlutterIconData.materialCommunityIcons(63629);
-  static const IconData sass =
-      FlutterIconData.materialCommunityIcons(63467);
+  static const IconData sass = FlutterIconData.materialCommunityIcons(63467);
   static const IconData satellite =
       FlutterIconData.materialCommunityIcons(62576);
   static const IconData satelliteUplink =
       FlutterIconData.materialCommunityIcons(63752);
   static const IconData satelliteVariant =
       FlutterIconData.materialCommunityIcons(62577);
-  static const IconData sausage =
-      FlutterIconData.materialCommunityIcons(63673);
+  static const IconData sausage = FlutterIconData.materialCommunityIcons(63673);
   static const IconData sawBlade =
       FlutterIconData.materialCommunityIcons(65092);
   static const IconData saxophone =
       FlutterIconData.materialCommunityIcons(62985);
-  static const IconData scale =
-      FlutterIconData.materialCommunityIcons(62578);
+  static const IconData scale = FlutterIconData.materialCommunityIcons(62578);
   static const IconData scaleBalance =
       FlutterIconData.materialCommunityIcons(62929);
   static const IconData scaleBathroom =
       FlutterIconData.materialCommunityIcons(62579);
-  static const IconData scanner =
-      FlutterIconData.materialCommunityIcons(63146);
+  static const IconData scanner = FlutterIconData.materialCommunityIcons(63146);
   static const IconData scannerOff =
       FlutterIconData.materialCommunityIcons(63753);
   static const IconData scatterPlot =
       FlutterIconData.materialCommunityIcons(65254);
   static const IconData scatterPlotOutline =
       FlutterIconData.materialCommunityIcons(65255);
-  static const IconData school =
-      FlutterIconData.materialCommunityIcons(62580);
+  static const IconData school = FlutterIconData.materialCommunityIcons(62580);
   static const IconData scissorsCutting =
       FlutterIconData.materialCommunityIcons(64106);
   static const IconData screenRotation =
@@ -6476,24 +5876,20 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65111);
   static const IconData screwdriver =
       FlutterIconData.materialCommunityIcons(62583);
-  static const IconData script =
-      FlutterIconData.materialCommunityIcons(64413);
+  static const IconData script = FlutterIconData.materialCommunityIcons(64413);
   static const IconData scriptOutline =
       FlutterIconData.materialCommunityIcons(62584);
   static const IconData scriptText =
       FlutterIconData.materialCommunityIcons(64414);
   static const IconData scriptTextOutline =
       FlutterIconData.materialCommunityIcons(64415);
-  static const IconData sd =
-      FlutterIconData.materialCommunityIcons(62585);
-  static const IconData seal =
-      FlutterIconData.materialCommunityIcons(62586);
+  static const IconData sd = FlutterIconData.materialCommunityIcons(62585);
+  static const IconData seal = FlutterIconData.materialCommunityIcons(62586);
   static const IconData sealVariant =
       FlutterIconData.materialCommunityIcons(65530);
   static const IconData searchWeb =
       FlutterIconData.materialCommunityIcons(63246);
-  static const IconData seat =
-      FlutterIconData.materialCommunityIcons(64671);
+  static const IconData seat = FlutterIconData.materialCommunityIcons(64671);
   static const IconData seatFlat =
       FlutterIconData.materialCommunityIcons(62587);
   static const IconData seatFlatAngled =
@@ -6518,14 +5914,11 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62595);
   static const IconData securityNetwork =
       FlutterIconData.materialCommunityIcons(62596);
-  static const IconData seed =
-      FlutterIconData.materialCommunityIcons(65093);
+  static const IconData seed = FlutterIconData.materialCommunityIcons(65093);
   static const IconData seedOutline =
       FlutterIconData.materialCommunityIcons(65094);
-  static const IconData segment =
-      FlutterIconData.materialCommunityIcons(65256);
-  static const IconData select =
-      FlutterIconData.materialCommunityIcons(62597);
+  static const IconData segment = FlutterIconData.materialCommunityIcons(65256);
+  static const IconData select = FlutterIconData.materialCommunityIcons(62597);
   static const IconData selectAll =
       FlutterIconData.materialCommunityIcons(62598);
   static const IconData selectColor =
@@ -6552,8 +5945,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65343);
   static const IconData selectionOff =
       FlutterIconData.materialCommunityIcons(63350);
-  static const IconData send =
-      FlutterIconData.materialCommunityIcons(62602);
+  static const IconData send = FlutterIconData.materialCommunityIcons(62602);
   static const IconData sendCircle =
       FlutterIconData.materialCommunityIcons(65112);
   static const IconData sendCircleOutline =
@@ -6562,8 +5954,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63468);
   static const IconData serialPort =
       FlutterIconData.materialCommunityIcons(63068);
-  static const IconData server =
-      FlutterIconData.materialCommunityIcons(62603);
+  static const IconData server = FlutterIconData.materialCommunityIcons(62603);
   static const IconData serverMinus =
       FlutterIconData.materialCommunityIcons(62604);
   static const IconData serverNetwork =
@@ -6578,20 +5969,17 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62609);
   static const IconData serverSecurity =
       FlutterIconData.materialCommunityIcons(62610);
-  static const IconData setAll =
-      FlutterIconData.materialCommunityIcons(63351);
+  static const IconData setAll = FlutterIconData.materialCommunityIcons(63351);
   static const IconData setCenter =
       FlutterIconData.materialCommunityIcons(63352);
   static const IconData setCenterRight =
       FlutterIconData.materialCommunityIcons(63353);
-  static const IconData setLeft =
-      FlutterIconData.materialCommunityIcons(63354);
+  static const IconData setLeft = FlutterIconData.materialCommunityIcons(63354);
   static const IconData setLeftCenter =
       FlutterIconData.materialCommunityIcons(63355);
   static const IconData setLeftRight =
       FlutterIconData.materialCommunityIcons(63356);
-  static const IconData setNone =
-      FlutterIconData.materialCommunityIcons(63357);
+  static const IconData setNone = FlutterIconData.materialCommunityIcons(63357);
   static const IconData setRight =
       FlutterIconData.materialCommunityIcons(63358);
   static const IconData setTopBox =
@@ -6604,8 +5992,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64109);
   static const IconData settingsOutline =
       FlutterIconData.materialCommunityIcons(63674);
-  static const IconData shape =
-      FlutterIconData.materialCommunityIcons(63536);
+  static const IconData shape = FlutterIconData.materialCommunityIcons(63536);
   static const IconData shapeCirclePlus =
       FlutterIconData.materialCommunityIcons(63069);
   static const IconData shapeOutline =
@@ -6618,8 +6005,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63071);
   static const IconData shapeSquarePlus =
       FlutterIconData.materialCommunityIcons(63072);
-  static const IconData share =
-      FlutterIconData.materialCommunityIcons(62614);
+  static const IconData share = FlutterIconData.materialCommunityIcons(62614);
   static const IconData shareOff =
       FlutterIconData.materialCommunityIcons(65344);
   static const IconData shareOffOutline =
@@ -6628,10 +6014,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63793);
   static const IconData shareVariant =
       FlutterIconData.materialCommunityIcons(62615);
-  static const IconData sheep =
-      FlutterIconData.materialCommunityIcons(64674);
-  static const IconData shield =
-      FlutterIconData.materialCommunityIcons(62616);
+  static const IconData sheep = FlutterIconData.materialCommunityIcons(64674);
+  static const IconData shield = FlutterIconData.materialCommunityIcons(62616);
   static const IconData shieldAccount =
       FlutterIconData.materialCommunityIcons(63630);
   static const IconData shieldAccountOutline =
@@ -6696,32 +6080,27 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64291);
   static const IconData shoePrint =
       FlutterIconData.materialCommunityIcons(65114);
-  static const IconData shopify =
-      FlutterIconData.materialCommunityIcons(64221);
+  static const IconData shopify = FlutterIconData.materialCommunityIcons(64221);
   static const IconData shopping =
       FlutterIconData.materialCommunityIcons(62618);
   static const IconData shoppingMusic =
       FlutterIconData.materialCommunityIcons(62619);
   static const IconData shoppingSearch =
       FlutterIconData.materialCommunityIcons(65441);
-  static const IconData shovel =
-      FlutterIconData.materialCommunityIcons(63247);
+  static const IconData shovel = FlutterIconData.materialCommunityIcons(63247);
   static const IconData shovelOff =
       FlutterIconData.materialCommunityIcons(63248);
-  static const IconData shower =
-      FlutterIconData.materialCommunityIcons(63903);
+  static const IconData shower = FlutterIconData.materialCommunityIcons(63903);
   static const IconData showerHead =
       FlutterIconData.materialCommunityIcons(63904);
   static const IconData shredder =
       FlutterIconData.materialCommunityIcons(62620);
-  static const IconData shuffle =
-      FlutterIconData.materialCommunityIcons(62621);
+  static const IconData shuffle = FlutterIconData.materialCommunityIcons(62621);
   static const IconData shuffleDisabled =
       FlutterIconData.materialCommunityIcons(62622);
   static const IconData shuffleVariant =
       FlutterIconData.materialCommunityIcons(62623);
-  static const IconData sigma =
-      FlutterIconData.materialCommunityIcons(62624);
+  static const IconData sigma = FlutterIconData.materialCommunityIcons(62624);
   static const IconData sigmaLower =
       FlutterIconData.materialCommunityIcons(63019);
   static const IconData signCaution =
@@ -6736,8 +6115,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65534);
   static const IconData signText =
       FlutterIconData.materialCommunityIcons(63361);
-  static const IconData signal =
-      FlutterIconData.materialCommunityIcons(62626);
+  static const IconData signal = FlutterIconData.materialCommunityIcons(62626);
   static const IconData signal_2g =
       FlutterIconData.materialCommunityIcons(63249);
   static const IconData signal_3g =
@@ -6772,8 +6150,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65117);
   static const IconData signatureText =
       FlutterIconData.materialCommunityIcons(65118);
-  static const IconData silo =
-      FlutterIconData.materialCommunityIcons(64292);
+  static const IconData silo = FlutterIconData.materialCommunityIcons(64292);
   static const IconData silverware =
       FlutterIconData.materialCommunityIcons(62627);
   static const IconData silverwareClean =
@@ -6786,18 +6163,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62629);
   static const IconData silverwareVariant =
       FlutterIconData.materialCommunityIcons(62630);
-  static const IconData sim =
-      FlutterIconData.materialCommunityIcons(62631);
+  static const IconData sim = FlutterIconData.materialCommunityIcons(62631);
   static const IconData simAlert =
       FlutterIconData.materialCommunityIcons(62632);
-  static const IconData simOff =
-      FlutterIconData.materialCommunityIcons(62633);
+  static const IconData simOff = FlutterIconData.materialCommunityIcons(62633);
   static const IconData sinaWeibo =
       FlutterIconData.materialCommunityIcons(64222);
-  static const IconData sitemap =
-      FlutterIconData.materialCommunityIcons(62634);
-  static const IconData skate =
-      FlutterIconData.materialCommunityIcons(64785);
+  static const IconData sitemap = FlutterIconData.materialCommunityIcons(62634);
+  static const IconData skate = FlutterIconData.materialCommunityIcons(64785);
   static const IconData skewLess =
       FlutterIconData.materialCommunityIcons(64786);
   static const IconData skewMore =
@@ -6826,40 +6199,34 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63076);
   static const IconData skipPreviousOutline =
       FlutterIconData.materialCommunityIcons(65349);
-  static const IconData skull =
-      FlutterIconData.materialCommunityIcons(63115);
+  static const IconData skull = FlutterIconData.materialCommunityIcons(63115);
   static const IconData skullCrossbones =
       FlutterIconData.materialCommunityIcons(64418);
   static const IconData skullCrossbonesOutline =
       FlutterIconData.materialCommunityIcons(64419);
   static const IconData skullOutline =
       FlutterIconData.materialCommunityIcons(64420);
-  static const IconData skype =
-      FlutterIconData.materialCommunityIcons(62639);
+  static const IconData skype = FlutterIconData.materialCommunityIcons(62639);
   static const IconData skypeBusiness =
       FlutterIconData.materialCommunityIcons(62640);
-  static const IconData slack =
-      FlutterIconData.materialCommunityIcons(62641);
+  static const IconData slack = FlutterIconData.materialCommunityIcons(62641);
   static const IconData slackware =
       FlutterIconData.materialCommunityIcons(63754);
   static const IconData slashForward =
       FlutterIconData.materialCommunityIcons(983040);
   static const IconData slashForwardBox =
       FlutterIconData.materialCommunityIcons(983041);
-  static const IconData sleep =
-      FlutterIconData.materialCommunityIcons(62642);
+  static const IconData sleep = FlutterIconData.materialCommunityIcons(62642);
   static const IconData sleepOff =
       FlutterIconData.materialCommunityIcons(62643);
   static const IconData slopeDownhill =
       FlutterIconData.materialCommunityIcons(65119);
   static const IconData slopeUphill =
       FlutterIconData.materialCommunityIcons(65120);
-  static const IconData smog =
-      FlutterIconData.materialCommunityIcons(64112);
+  static const IconData smog = FlutterIconData.materialCommunityIcons(64112);
   static const IconData smokeDetector =
       FlutterIconData.materialCommunityIcons(62354);
-  static const IconData smoking =
-      FlutterIconData.materialCommunityIcons(62644);
+  static const IconData smoking = FlutterIconData.materialCommunityIcons(62644);
   static const IconData smokingOff =
       FlutterIconData.materialCommunityIcons(62645);
   static const IconData snapchat =
@@ -6870,24 +6237,19 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65350);
   static const IconData snowflakeVariant =
       FlutterIconData.materialCommunityIcons(65351);
-  static const IconData snowman =
-      FlutterIconData.materialCommunityIcons(62647);
-  static const IconData soccer =
-      FlutterIconData.materialCommunityIcons(62648);
+  static const IconData snowman = FlutterIconData.materialCommunityIcons(62647);
+  static const IconData soccer = FlutterIconData.materialCommunityIcons(62648);
   static const IconData soccerField =
       FlutterIconData.materialCommunityIcons(63539);
-  static const IconData sofa =
-      FlutterIconData.materialCommunityIcons(62649);
+  static const IconData sofa = FlutterIconData.materialCommunityIcons(62649);
   static const IconData solarPanel =
       FlutterIconData.materialCommunityIcons(64887);
   static const IconData solarPanelLarge =
       FlutterIconData.materialCommunityIcons(64888);
   static const IconData solarPower =
       FlutterIconData.materialCommunityIcons(64113);
-  static const IconData solid =
-      FlutterIconData.materialCommunityIcons(63116);
-  static const IconData sort =
-      FlutterIconData.materialCommunityIcons(62650);
+  static const IconData solid = FlutterIconData.materialCommunityIcons(63116);
+  static const IconData sort = FlutterIconData.materialCommunityIcons(62650);
   static const IconData sortAlphabetical =
       FlutterIconData.materialCommunityIcons(62651);
   static const IconData sortAscending =
@@ -6932,16 +6294,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64684);
   static const IconData soySauce =
       FlutterIconData.materialCommunityIcons(63469);
-  static const IconData spa =
-      FlutterIconData.materialCommunityIcons(64685);
+  static const IconData spa = FlutterIconData.materialCommunityIcons(64685);
   static const IconData spaOutline =
       FlutterIconData.materialCommunityIcons(64686);
   static const IconData spaceInvaders =
       FlutterIconData.materialCommunityIcons(64421);
-  static const IconData spade =
-      FlutterIconData.materialCommunityIcons(65096);
-  static const IconData speaker =
-      FlutterIconData.materialCommunityIcons(62659);
+  static const IconData spade = FlutterIconData.materialCommunityIcons(65096);
+  static const IconData speaker = FlutterIconData.materialCommunityIcons(62659);
   static const IconData speakerBluetooth =
       FlutterIconData.materialCommunityIcons(63905);
   static const IconData speakerMultiple =
@@ -6960,22 +6319,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62662);
   static const IconData spiderWeb =
       FlutterIconData.materialCommunityIcons(64422);
-  static const IconData spotify =
-      FlutterIconData.materialCommunityIcons(62663);
+  static const IconData spotify = FlutterIconData.materialCommunityIcons(62663);
   static const IconData spotlight =
       FlutterIconData.materialCommunityIcons(62664);
   static const IconData spotlightBeam =
       FlutterIconData.materialCommunityIcons(62665);
-  static const IconData spray =
-      FlutterIconData.materialCommunityIcons(63077);
+  static const IconData spray = FlutterIconData.materialCommunityIcons(63077);
   static const IconData sprayBottle =
       FlutterIconData.materialCommunityIcons(64223);
-  static const IconData sprout =
-      FlutterIconData.materialCommunityIcons(65097);
+  static const IconData sprout = FlutterIconData.materialCommunityIcons(65097);
   static const IconData sproutOutline =
       FlutterIconData.materialCommunityIcons(65098);
-  static const IconData square =
-      FlutterIconData.materialCommunityIcons(63331);
+  static const IconData square = FlutterIconData.materialCommunityIcons(63331);
   static const IconData squareEditOutline =
       FlutterIconData.materialCommunityIcons(63755);
   static const IconData squareInc =
@@ -6996,8 +6351,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64020);
   static const IconData squeegee =
       FlutterIconData.materialCommunityIcons(64224);
-  static const IconData ssh =
-      FlutterIconData.materialCommunityIcons(63679);
+  static const IconData ssh = FlutterIconData.materialCommunityIcons(63679);
   static const IconData stackExchange =
       FlutterIconData.materialCommunityIcons(62987);
   static const IconData stackOverflow =
@@ -7006,16 +6360,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(983066);
   static const IconData stadiumVariant =
       FlutterIconData.materialCommunityIcons(63263);
-  static const IconData stairs =
-      FlutterIconData.materialCommunityIcons(62669);
-  static const IconData stamper =
-      FlutterIconData.materialCommunityIcons(64789);
+  static const IconData stairs = FlutterIconData.materialCommunityIcons(62669);
+  static const IconData stamper = FlutterIconData.materialCommunityIcons(64789);
   static const IconData standardDefinition =
       FlutterIconData.materialCommunityIcons(63470);
-  static const IconData star =
-      FlutterIconData.materialCommunityIcons(62670);
-  static const IconData starBox =
-      FlutterIconData.materialCommunityIcons(64114);
+  static const IconData star = FlutterIconData.materialCommunityIcons(62670);
+  static const IconData starBox = FlutterIconData.materialCommunityIcons(64114);
   static const IconData starBoxOutline =
       FlutterIconData.materialCommunityIcons(64115);
   static const IconData starCircle =
@@ -7030,16 +6380,14 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64226);
   static const IconData starHalf =
       FlutterIconData.materialCommunityIcons(62672);
-  static const IconData starOff =
-      FlutterIconData.materialCommunityIcons(62673);
+  static const IconData starOff = FlutterIconData.materialCommunityIcons(62673);
   static const IconData starOutline =
       FlutterIconData.materialCommunityIcons(62674);
   static const IconData starThreePoints =
       FlutterIconData.materialCommunityIcons(64227);
   static const IconData starThreePointsOutline =
       FlutterIconData.materialCommunityIcons(64228);
-  static const IconData steam =
-      FlutterIconData.materialCommunityIcons(62675);
+  static const IconData steam = FlutterIconData.materialCommunityIcons(62675);
   static const IconData steamBox =
       FlutterIconData.materialCommunityIcons(63756);
   static const IconData steering =
@@ -7056,26 +6404,21 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62680);
   static const IconData stethoscope =
       FlutterIconData.materialCommunityIcons(62681);
-  static const IconData sticker =
-      FlutterIconData.materialCommunityIcons(62928);
+  static const IconData sticker = FlutterIconData.materialCommunityIcons(62928);
   static const IconData stickerEmoji =
       FlutterIconData.materialCommunityIcons(63364);
   static const IconData stocking =
       FlutterIconData.materialCommunityIcons(62682);
-  static const IconData stop =
-      FlutterIconData.materialCommunityIcons(62683);
+  static const IconData stop = FlutterIconData.materialCommunityIcons(62683);
   static const IconData stopCircle =
       FlutterIconData.materialCommunityIcons(63078);
   static const IconData stopCircleOutline =
       FlutterIconData.materialCommunityIcons(63079);
-  static const IconData store =
-      FlutterIconData.materialCommunityIcons(62684);
+  static const IconData store = FlutterIconData.materialCommunityIcons(62684);
   static const IconData store_24Hour =
       FlutterIconData.materialCommunityIcons(62685);
-  static const IconData stove =
-      FlutterIconData.materialCommunityIcons(62686);
-  static const IconData strava =
-      FlutterIconData.materialCommunityIcons(64293);
+  static const IconData stove = FlutterIconData.materialCommunityIcons(62686);
+  static const IconData strava = FlutterIconData.materialCommunityIcons(64293);
   static const IconData stretchToPage =
       FlutterIconData.materialCommunityIcons(65352);
   static const IconData stretchToPageOutline =
@@ -7088,14 +6431,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64021);
   static const IconData subtitlesOutline =
       FlutterIconData.materialCommunityIcons(64022);
-  static const IconData subway =
-      FlutterIconData.materialCommunityIcons(63147);
+  static const IconData subway = FlutterIconData.materialCommunityIcons(63147);
   static const IconData subwayAlertVariant =
       FlutterIconData.materialCommunityIcons(64889);
   static const IconData subwayVariant =
       FlutterIconData.materialCommunityIcons(62687);
-  static const IconData summit =
-      FlutterIconData.materialCommunityIcons(63365);
+  static const IconData summit = FlutterIconData.materialCommunityIcons(63365);
   static const IconData sunglasses =
       FlutterIconData.materialCommunityIcons(62688);
   static const IconData surroundSound =
@@ -7108,8 +6449,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63473);
   static const IconData surroundSound_7_1 =
       FlutterIconData.materialCommunityIcons(63474);
-  static const IconData svg =
-      FlutterIconData.materialCommunityIcons(63264);
+  static const IconData svg = FlutterIconData.materialCommunityIcons(63264);
   static const IconData swapHorizontal =
       FlutterIconData.materialCommunityIcons(62689);
   static const IconData swapHorizontalBold =
@@ -7130,34 +6470,25 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(983045);
   static const IconData swapVerticalVariant =
       FlutterIconData.materialCommunityIcons(63681);
-  static const IconData swim =
-      FlutterIconData.materialCommunityIcons(62691);
-  static const IconData switch_ =
-      FlutterIconData.materialCommunityIcons(62692);
-  static const IconData sword =
-      FlutterIconData.materialCommunityIcons(62693);
+  static const IconData swim = FlutterIconData.materialCommunityIcons(62691);
+  static const IconData switch_ = FlutterIconData.materialCommunityIcons(62692);
+  static const IconData sword = FlutterIconData.materialCommunityIcons(62693);
   static const IconData swordCross =
       FlutterIconData.materialCommunityIcons(63366);
-  static const IconData symfony =
-      FlutterIconData.materialCommunityIcons(64229);
-  static const IconData sync =
-      FlutterIconData.materialCommunityIcons(62694);
+  static const IconData symfony = FlutterIconData.materialCommunityIcons(64229);
+  static const IconData sync = FlutterIconData.materialCommunityIcons(62694);
   static const IconData syncAlert =
       FlutterIconData.materialCommunityIcons(62695);
-  static const IconData syncOff =
-      FlutterIconData.materialCommunityIcons(62696);
-  static const IconData tab =
-      FlutterIconData.materialCommunityIcons(62697);
+  static const IconData syncOff = FlutterIconData.materialCommunityIcons(62696);
+  static const IconData tab = FlutterIconData.materialCommunityIcons(62697);
   static const IconData tabMinus =
       FlutterIconData.materialCommunityIcons(64294);
-  static const IconData tabPlus =
-      FlutterIconData.materialCommunityIcons(63323);
+  static const IconData tabPlus = FlutterIconData.materialCommunityIcons(63323);
   static const IconData tabRemove =
       FlutterIconData.materialCommunityIcons(64295);
   static const IconData tabUnselected =
       FlutterIconData.materialCommunityIcons(62698);
-  static const IconData table =
-      FlutterIconData.materialCommunityIcons(62699);
+  static const IconData table = FlutterIconData.materialCommunityIcons(62699);
   static const IconData tableBorder =
       FlutterIconData.materialCommunityIcons(64023);
   static const IconData tableColumn =
@@ -7202,8 +6533,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63543);
   static const IconData tableTennis =
       FlutterIconData.materialCommunityIcons(65099);
-  static const IconData tablet =
-      FlutterIconData.materialCommunityIcons(62710);
+  static const IconData tablet = FlutterIconData.materialCommunityIcons(62710);
   static const IconData tabletAndroid =
       FlutterIconData.materialCommunityIcons(62711);
   static const IconData tabletCellphone =
@@ -7212,10 +6542,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65259);
   static const IconData tabletIpad =
       FlutterIconData.materialCommunityIcons(62712);
-  static const IconData taco =
-      FlutterIconData.materialCommunityIcons(63329);
-  static const IconData tag =
-      FlutterIconData.materialCommunityIcons(62713);
+  static const IconData taco = FlutterIconData.materialCommunityIcons(63329);
+  static const IconData tag = FlutterIconData.materialCommunityIcons(62713);
   static const IconData tagFaces =
       FlutterIconData.materialCommunityIcons(62714);
   static const IconData tagHeart =
@@ -7228,32 +6556,26 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62715);
   static const IconData tagOutline =
       FlutterIconData.materialCommunityIcons(62716);
-  static const IconData tagPlus =
-      FlutterIconData.materialCommunityIcons(63265);
+  static const IconData tagPlus = FlutterIconData.materialCommunityIcons(63265);
   static const IconData tagRemove =
       FlutterIconData.materialCommunityIcons(63266);
   static const IconData tagTextOutline =
       FlutterIconData.materialCommunityIcons(62717);
-  static const IconData tank =
-      FlutterIconData.materialCommunityIcons(64790);
+  static const IconData tank = FlutterIconData.materialCommunityIcons(64790);
   static const IconData tankerTruck =
       FlutterIconData.materialCommunityIcons(983046);
   static const IconData tapeMeasure =
       FlutterIconData.materialCommunityIcons(64296);
-  static const IconData target =
-      FlutterIconData.materialCommunityIcons(62718);
+  static const IconData target = FlutterIconData.materialCommunityIcons(62718);
   static const IconData targetAccount =
       FlutterIconData.materialCommunityIcons(64428);
   static const IconData targetVariant =
       FlutterIconData.materialCommunityIcons(64118);
-  static const IconData taxi =
-      FlutterIconData.materialCommunityIcons(62719);
-  static const IconData tea =
-      FlutterIconData.materialCommunityIcons(64890);
+  static const IconData taxi = FlutterIconData.materialCommunityIcons(62719);
+  static const IconData tea = FlutterIconData.materialCommunityIcons(64890);
   static const IconData teaOutline =
       FlutterIconData.materialCommunityIcons(64891);
-  static const IconData teach =
-      FlutterIconData.materialCommunityIcons(63631);
+  static const IconData teach = FlutterIconData.materialCommunityIcons(63631);
   static const IconData teamviewer =
       FlutterIconData.materialCommunityIcons(62720);
   static const IconData telegram =
@@ -7284,22 +6606,18 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62725);
   static const IconData temperatureKelvin =
       FlutterIconData.materialCommunityIcons(62726);
-  static const IconData tennis =
-      FlutterIconData.materialCommunityIcons(64892);
+  static const IconData tennis = FlutterIconData.materialCommunityIcons(64892);
   static const IconData tennisBall =
       FlutterIconData.materialCommunityIcons(62727);
-  static const IconData tent =
-      FlutterIconData.materialCommunityIcons(62728);
-  static const IconData terrain =
-      FlutterIconData.materialCommunityIcons(62729);
+  static const IconData tent = FlutterIconData.materialCommunityIcons(62728);
+  static const IconData terrain = FlutterIconData.materialCommunityIcons(62729);
   static const IconData testTube =
       FlutterIconData.materialCommunityIcons(63080);
   static const IconData testTubeEmpty =
       FlutterIconData.materialCommunityIcons(63760);
   static const IconData testTubeOff =
       FlutterIconData.materialCommunityIcons(63761);
-  static const IconData text =
-      FlutterIconData.materialCommunityIcons(63911);
+  static const IconData text = FlutterIconData.materialCommunityIcons(63911);
   static const IconData textShadow =
       FlutterIconData.materialCommunityIcons(63081);
   static const IconData textShort =
@@ -7310,16 +6628,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62730);
   static const IconData textToSpeechOff =
       FlutterIconData.materialCommunityIcons(62731);
-  static const IconData textBox =
-      FlutterIconData.materialCommunityIcons(62990);
+  static const IconData textBox = FlutterIconData.materialCommunityIcons(62990);
   static const IconData textBoxPassword =
       FlutterIconData.materialCommunityIcons(63476);
-  static const IconData texture =
-      FlutterIconData.materialCommunityIcons(62732);
+  static const IconData texture = FlutterIconData.materialCommunityIcons(62732);
   static const IconData textureBox =
       FlutterIconData.materialCommunityIcons(983047);
-  static const IconData theater =
-      FlutterIconData.materialCommunityIcons(62733);
+  static const IconData theater = FlutterIconData.materialCommunityIcons(62733);
   static const IconData themeLightDark =
       FlutterIconData.materialCommunityIcons(62734);
   static const IconData thermometer =
@@ -7348,14 +6663,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62737);
   static const IconData thumbDownOutline =
       FlutterIconData.materialCommunityIcons(62738);
-  static const IconData thumbUp =
-      FlutterIconData.materialCommunityIcons(62739);
+  static const IconData thumbUp = FlutterIconData.materialCommunityIcons(62739);
   static const IconData thumbUpOutline =
       FlutterIconData.materialCommunityIcons(62740);
   static const IconData thumbsUpDown =
       FlutterIconData.materialCommunityIcons(62741);
-  static const IconData ticket =
-      FlutterIconData.materialCommunityIcons(62742);
+  static const IconData ticket = FlutterIconData.materialCommunityIcons(62742);
   static const IconData ticketAccount =
       FlutterIconData.materialCommunityIcons(62743);
   static const IconData ticketConfirmation =
@@ -7364,10 +6677,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63762);
   static const IconData ticketPercent =
       FlutterIconData.materialCommunityIcons(63267);
-  static const IconData tie =
-      FlutterIconData.materialCommunityIcons(62745);
-  static const IconData tilde =
-      FlutterIconData.materialCommunityIcons(63268);
+  static const IconData tie = FlutterIconData.materialCommunityIcons(62745);
+  static const IconData tilde = FlutterIconData.materialCommunityIcons(63268);
   static const IconData timelapse =
       FlutterIconData.materialCommunityIcons(62746);
   static const IconData timeline =
@@ -7390,12 +6701,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64431);
   static const IconData timelineTextOutline =
       FlutterIconData.materialCommunityIcons(64432);
-  static const IconData timer =
-      FlutterIconData.materialCommunityIcons(62747);
+  static const IconData timer = FlutterIconData.materialCommunityIcons(62747);
   static const IconData timer_10 =
       FlutterIconData.materialCommunityIcons(62748);
-  static const IconData timer_3 =
-      FlutterIconData.materialCommunityIcons(62749);
+  static const IconData timer_3 = FlutterIconData.materialCommunityIcons(62749);
   static const IconData timerOff =
       FlutterIconData.materialCommunityIcons(62750);
   static const IconData timerSand =
@@ -7416,14 +6725,11 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64024);
   static const IconData toggleSwitchOutline =
       FlutterIconData.materialCommunityIcons(64025);
-  static const IconData toilet =
-      FlutterIconData.materialCommunityIcons(63914);
-  static const IconData toolbox =
-      FlutterIconData.materialCommunityIcons(63915);
+  static const IconData toilet = FlutterIconData.materialCommunityIcons(63914);
+  static const IconData toolbox = FlutterIconData.materialCommunityIcons(63915);
   static const IconData toolboxOutline =
       FlutterIconData.materialCommunityIcons(63916);
-  static const IconData tooltip =
-      FlutterIconData.materialCommunityIcons(62755);
+  static const IconData tooltip = FlutterIconData.materialCommunityIcons(62755);
   static const IconData tooltipAccount =
       FlutterIconData.materialCommunityIcons(61452);
   static const IconData tooltipEdit =
@@ -7442,12 +6748,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62760);
   static const IconData tooltipTextOutline =
       FlutterIconData.materialCommunityIcons(64435);
-  static const IconData tooth =
-      FlutterIconData.materialCommunityIcons(63682);
+  static const IconData tooth = FlutterIconData.materialCommunityIcons(63682);
   static const IconData toothOutline =
       FlutterIconData.materialCommunityIcons(62761);
-  static const IconData tor =
-      FlutterIconData.materialCommunityIcons(62762);
+  static const IconData tor = FlutterIconData.materialCommunityIcons(62762);
   static const IconData tortoise =
       FlutterIconData.materialCommunityIcons(64791);
   static const IconData tournament =
@@ -7456,28 +6760,24 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63104);
   static const IconData towerFire =
       FlutterIconData.materialCommunityIcons(63105);
-  static const IconData towing =
-      FlutterIconData.materialCommunityIcons(63547);
+  static const IconData towing = FlutterIconData.materialCommunityIcons(63547);
   static const IconData trackLight =
       FlutterIconData.materialCommunityIcons(63763);
   static const IconData trackpad =
       FlutterIconData.materialCommunityIcons(63479);
   static const IconData trackpadLock =
       FlutterIconData.materialCommunityIcons(63794);
-  static const IconData tractor =
-      FlutterIconData.materialCommunityIcons(63633);
+  static const IconData tractor = FlutterIconData.materialCommunityIcons(63633);
   static const IconData trademark =
       FlutterIconData.materialCommunityIcons(64119);
   static const IconData trafficLight =
       FlutterIconData.materialCommunityIcons(62763);
-  static const IconData train =
-      FlutterIconData.materialCommunityIcons(62764);
+  static const IconData train = FlutterIconData.materialCommunityIcons(62764);
   static const IconData trainCar =
       FlutterIconData.materialCommunityIcons(64436);
   static const IconData trainVariant =
       FlutterIconData.materialCommunityIcons(63683);
-  static const IconData tram =
-      FlutterIconData.materialCommunityIcons(62765);
+  static const IconData tram = FlutterIconData.materialCommunityIcons(62765);
   static const IconData tramSide =
       FlutterIconData.materialCommunityIcons(983048);
   static const IconData transcribe =
@@ -7516,12 +6816,10 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64121);
   static const IconData treasureChest =
       FlutterIconData.materialCommunityIcons(63269);
-  static const IconData tree =
-      FlutterIconData.materialCommunityIcons(62769);
+  static const IconData tree = FlutterIconData.materialCommunityIcons(62769);
   static const IconData treeOutline =
       FlutterIconData.materialCommunityIcons(65100);
-  static const IconData trello =
-      FlutterIconData.materialCommunityIcons(62770);
+  static const IconData trello = FlutterIconData.materialCommunityIcons(62770);
   static const IconData trendingDown =
       FlutterIconData.materialCommunityIcons(62771);
   static const IconData trendingNeutral =
@@ -7534,8 +6832,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62775);
   static const IconData triForce =
       FlutterIconData.materialCommunityIcons(64437);
-  static const IconData trophy =
-      FlutterIconData.materialCommunityIcons(62776);
+  static const IconData trophy = FlutterIconData.materialCommunityIcons(62776);
   static const IconData trophyAward =
       FlutterIconData.materialCommunityIcons(62777);
   static const IconData trophyBroken =
@@ -7546,8 +6843,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62779);
   static const IconData trophyVariantOutline =
       FlutterIconData.materialCommunityIcons(62780);
-  static const IconData truck =
-      FlutterIconData.materialCommunityIcons(62781);
+  static const IconData truck = FlutterIconData.materialCommunityIcons(62781);
   static const IconData truckCheck =
       FlutterIconData.materialCommunityIcons(64688);
   static const IconData truckDelivery =
@@ -7560,32 +6856,26 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64122);
   static const IconData tShirtCrewOutline =
       FlutterIconData.materialCommunityIcons(62783);
-  static const IconData tShirtV =
-      FlutterIconData.materialCommunityIcons(64123);
+  static const IconData tShirtV = FlutterIconData.materialCommunityIcons(64123);
   static const IconData tShirtVOutline =
       FlutterIconData.materialCommunityIcons(62784);
   static const IconData tumbleDryer =
       FlutterIconData.materialCommunityIcons(63766);
-  static const IconData tumblr =
-      FlutterIconData.materialCommunityIcons(62785);
+  static const IconData tumblr = FlutterIconData.materialCommunityIcons(62785);
   static const IconData tumblrBox =
       FlutterIconData.materialCommunityIcons(63767);
   static const IconData tumblrReBlog =
       FlutterIconData.materialCommunityIcons(62786);
-  static const IconData tune =
-      FlutterIconData.materialCommunityIcons(63022);
+  static const IconData tune = FlutterIconData.materialCommunityIcons(63022);
   static const IconData tuneVertical =
       FlutterIconData.materialCommunityIcons(63082);
   static const IconData turnstile =
       FlutterIconData.materialCommunityIcons(64689);
   static const IconData turnstileOutline =
       FlutterIconData.materialCommunityIcons(64690);
-  static const IconData turtle =
-      FlutterIconData.materialCommunityIcons(64691);
-  static const IconData twitch =
-      FlutterIconData.materialCommunityIcons(62787);
-  static const IconData twitter =
-      FlutterIconData.materialCommunityIcons(62788);
+  static const IconData turtle = FlutterIconData.materialCommunityIcons(64691);
+  static const IconData twitch = FlutterIconData.materialCommunityIcons(62787);
+  static const IconData twitter = FlutterIconData.materialCommunityIcons(62788);
   static const IconData twitterBox =
       FlutterIconData.materialCommunityIcons(62789);
   static const IconData twitterCircle =
@@ -7596,24 +6886,19 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63918);
   static const IconData typewriter =
       FlutterIconData.materialCommunityIcons(65354);
-  static const IconData uber =
-      FlutterIconData.materialCommunityIcons(63304);
-  static const IconData ubisoft =
-      FlutterIconData.materialCommunityIcons(64438);
-  static const IconData ubuntu =
-      FlutterIconData.materialCommunityIcons(62792);
+  static const IconData uber = FlutterIconData.materialCommunityIcons(63304);
+  static const IconData ubisoft = FlutterIconData.materialCommunityIcons(64438);
+  static const IconData ubuntu = FlutterIconData.materialCommunityIcons(62792);
   static const IconData ultraHighDefinition =
       FlutterIconData.materialCommunityIcons(63480);
-  static const IconData umbraco =
-      FlutterIconData.materialCommunityIcons(62793);
+  static const IconData umbraco = FlutterIconData.materialCommunityIcons(62793);
   static const IconData umbrella =
       FlutterIconData.materialCommunityIcons(62794);
   static const IconData umbrellaClosed =
       FlutterIconData.materialCommunityIcons(63919);
   static const IconData umbrellaOutline =
       FlutterIconData.materialCommunityIcons(62795);
-  static const IconData undo =
-      FlutterIconData.materialCommunityIcons(62796);
+  static const IconData undo = FlutterIconData.materialCommunityIcons(62796);
   static const IconData undoVariant =
       FlutterIconData.materialCommunityIcons(62797);
   static const IconData unfoldLessHorizontal =
@@ -7624,20 +6909,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62799);
   static const IconData unfoldMoreVertical =
       FlutterIconData.materialCommunityIcons(63328);
-  static const IconData ungroup =
-      FlutterIconData.materialCommunityIcons(62800);
-  static const IconData unicode =
-      FlutterIconData.materialCommunityIcons(65261);
-  static const IconData unity =
-      FlutterIconData.materialCommunityIcons(63150);
-  static const IconData unreal =
-      FlutterIconData.materialCommunityIcons(63920);
-  static const IconData unTappd =
-      FlutterIconData.materialCommunityIcons(62801);
-  static const IconData update =
-      FlutterIconData.materialCommunityIcons(63151);
-  static const IconData upload =
-      FlutterIconData.materialCommunityIcons(62802);
+  static const IconData ungroup = FlutterIconData.materialCommunityIcons(62800);
+  static const IconData unicode = FlutterIconData.materialCommunityIcons(65261);
+  static const IconData unity = FlutterIconData.materialCommunityIcons(63150);
+  static const IconData unreal = FlutterIconData.materialCommunityIcons(63920);
+  static const IconData unTappd = FlutterIconData.materialCommunityIcons(62801);
+  static const IconData update = FlutterIconData.materialCommunityIcons(63151);
+  static const IconData upload = FlutterIconData.materialCommunityIcons(62802);
   static const IconData uploadMultiple =
       FlutterIconData.materialCommunityIcons(63548);
   static const IconData uploadNetwork =
@@ -7646,14 +6924,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64692);
   static const IconData uploadOutline =
       FlutterIconData.materialCommunityIcons(65127);
-  static const IconData usb =
-      FlutterIconData.materialCommunityIcons(62803);
+  static const IconData usb = FlutterIconData.materialCommunityIcons(62803);
   static const IconData vanPassenger =
       FlutterIconData.materialCommunityIcons(63481);
   static const IconData vanUtility =
       FlutterIconData.materialCommunityIcons(63482);
-  static const IconData vanish =
-      FlutterIconData.materialCommunityIcons(63483);
+  static const IconData vanish = FlutterIconData.materialCommunityIcons(63483);
   static const IconData variable =
       FlutterIconData.materialCommunityIcons(64230);
   static const IconData vectorArrangeAbove =
@@ -7702,16 +6978,12 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62819);
   static const IconData vectorUnion =
       FlutterIconData.materialCommunityIcons(62820);
-  static const IconData venmo =
-      FlutterIconData.materialCommunityIcons(62840);
-  static const IconData vhs =
-      FlutterIconData.materialCommunityIcons(64026);
-  static const IconData vibrate =
-      FlutterIconData.materialCommunityIcons(62822);
+  static const IconData venmo = FlutterIconData.materialCommunityIcons(62840);
+  static const IconData vhs = FlutterIconData.materialCommunityIcons(64026);
+  static const IconData vibrate = FlutterIconData.materialCommunityIcons(62822);
   static const IconData vibrateOff =
       FlutterIconData.materialCommunityIcons(64693);
-  static const IconData video =
-      FlutterIconData.materialCommunityIcons(62823);
+  static const IconData video = FlutterIconData.materialCommunityIcons(62823);
   static const IconData video_3d =
       FlutterIconData.materialCommunityIcons(63484);
   static const IconData video_3dVariant =
@@ -7772,8 +7044,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64028);
   static const IconData viewDashboardVariant =
       FlutterIconData.materialCommunityIcons(63554);
-  static const IconData viewDay =
-      FlutterIconData.materialCommunityIcons(62831);
+  static const IconData viewDay = FlutterIconData.materialCommunityIcons(62831);
   static const IconData viewGrid =
       FlutterIconData.materialCommunityIcons(62832);
   static const IconData viewGridPlus =
@@ -7798,26 +7069,20 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62837);
   static const IconData viewWeek =
       FlutterIconData.materialCommunityIcons(62838);
-  static const IconData vimeo =
-      FlutterIconData.materialCommunityIcons(62839);
-  static const IconData violin =
-      FlutterIconData.materialCommunityIcons(62991);
+  static const IconData vimeo = FlutterIconData.materialCommunityIcons(62839);
+  static const IconData violin = FlutterIconData.materialCommunityIcons(62991);
   static const IconData virtualReality =
       FlutterIconData.materialCommunityIcons(63635);
   static const IconData visualStudio =
       FlutterIconData.materialCommunityIcons(62992);
   static const IconData visualStudioCode =
       FlutterIconData.materialCommunityIcons(64029);
-  static const IconData vk =
-      FlutterIconData.materialCommunityIcons(62841);
-  static const IconData vkBox =
-      FlutterIconData.materialCommunityIcons(62842);
+  static const IconData vk = FlutterIconData.materialCommunityIcons(62841);
+  static const IconData vkBox = FlutterIconData.materialCommunityIcons(62842);
   static const IconData vkCircle =
       FlutterIconData.materialCommunityIcons(62843);
-  static const IconData vlc =
-      FlutterIconData.materialCommunityIcons(62844);
-  static const IconData voice =
-      FlutterIconData.materialCommunityIcons(62923);
+  static const IconData vlc = FlutterIconData.materialCommunityIcons(62844);
+  static const IconData voice = FlutterIconData.materialCommunityIcons(62923);
   static const IconData voiceOff =
       FlutterIconData.materialCommunityIcons(65265);
   static const IconData voicemail =
@@ -7840,28 +7105,21 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63324);
   static const IconData volumeVariantOff =
       FlutterIconData.materialCommunityIcons(65128);
-  static const IconData vote =
-      FlutterIconData.materialCommunityIcons(64030);
+  static const IconData vote = FlutterIconData.materialCommunityIcons(64030);
   static const IconData voteOutline =
       FlutterIconData.materialCommunityIcons(64031);
-  static const IconData vpn =
-      FlutterIconData.materialCommunityIcons(62850);
-  static const IconData vueJs =
-      FlutterIconData.materialCommunityIcons(63555);
-  static const IconData vuetify =
-      FlutterIconData.materialCommunityIcons(65104);
-  static const IconData walk =
-      FlutterIconData.materialCommunityIcons(62851);
-  static const IconData wall =
-      FlutterIconData.materialCommunityIcons(63485);
+  static const IconData vpn = FlutterIconData.materialCommunityIcons(62850);
+  static const IconData vueJs = FlutterIconData.materialCommunityIcons(63555);
+  static const IconData vuetify = FlutterIconData.materialCommunityIcons(65104);
+  static const IconData walk = FlutterIconData.materialCommunityIcons(62851);
+  static const IconData wall = FlutterIconData.materialCommunityIcons(63485);
   static const IconData wallSconce =
       FlutterIconData.materialCommunityIcons(63771);
   static const IconData wallSconceFlat =
       FlutterIconData.materialCommunityIcons(63772);
   static const IconData wallSconceVariant =
       FlutterIconData.materialCommunityIcons(63773);
-  static const IconData wallet =
-      FlutterIconData.materialCommunityIcons(62852);
+  static const IconData wallet = FlutterIconData.materialCommunityIcons(62852);
   static const IconData walletGiftCard =
       FlutterIconData.materialCommunityIcons(62853);
   static const IconData walletMembership =
@@ -7876,8 +7134,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62855);
   static const IconData wallpaper =
       FlutterIconData.materialCommunityIcons(65129);
-  static const IconData wan =
-      FlutterIconData.materialCommunityIcons(62856);
+  static const IconData wan = FlutterIconData.materialCommunityIcons(62856);
   static const IconData wardrobe =
       FlutterIconData.materialCommunityIcons(65453);
   static const IconData wardrobeOutline =
@@ -7886,8 +7143,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65467);
   static const IconData washingMachine =
       FlutterIconData.materialCommunityIcons(63273);
-  static const IconData watch =
-      FlutterIconData.materialCommunityIcons(62857);
+  static const IconData watch = FlutterIconData.materialCommunityIcons(62857);
   static const IconData watchExport =
       FlutterIconData.materialCommunityIcons(62858);
   static const IconData watchExportVariant =
@@ -7902,8 +7158,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63152);
   static const IconData watchVibrateOff =
       FlutterIconData.materialCommunityIcons(64694);
-  static const IconData water =
-      FlutterIconData.materialCommunityIcons(62860);
+  static const IconData water = FlutterIconData.materialCommunityIcons(62860);
   static const IconData waterBoiler =
       FlutterIconData.materialCommunityIcons(65455);
   static const IconData waterOff =
@@ -7918,12 +7173,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(65456);
   static const IconData watermark =
       FlutterIconData.materialCommunityIcons(62994);
-  static const IconData wave =
-      FlutterIconData.materialCommunityIcons(65355);
-  static const IconData waves =
-      FlutterIconData.materialCommunityIcons(63372);
-  static const IconData waze =
-      FlutterIconData.materialCommunityIcons(64442);
+  static const IconData wave = FlutterIconData.materialCommunityIcons(65355);
+  static const IconData waves = FlutterIconData.materialCommunityIcons(63372);
+  static const IconData waze = FlutterIconData.materialCommunityIcons(64442);
   static const IconData weatherCloudy =
       FlutterIconData.materialCommunityIcons(62864);
   static const IconData weatherCloudyAlert =
@@ -7982,20 +7234,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62877);
   static const IconData weatherWindyVariant =
       FlutterIconData.materialCommunityIcons(62878);
-  static const IconData web =
-      FlutterIconData.materialCommunityIcons(62879);
-  static const IconData webBox =
-      FlutterIconData.materialCommunityIcons(65457);
-  static const IconData webcam =
-      FlutterIconData.materialCommunityIcons(62880);
-  static const IconData webhook =
-      FlutterIconData.materialCommunityIcons(63023);
-  static const IconData webpack =
-      FlutterIconData.materialCommunityIcons(63274);
-  static const IconData wechat =
-      FlutterIconData.materialCommunityIcons(62993);
-  static const IconData weight =
-      FlutterIconData.materialCommunityIcons(62881);
+  static const IconData web = FlutterIconData.materialCommunityIcons(62879);
+  static const IconData webBox = FlutterIconData.materialCommunityIcons(65457);
+  static const IconData webcam = FlutterIconData.materialCommunityIcons(62880);
+  static const IconData webhook = FlutterIconData.materialCommunityIcons(63023);
+  static const IconData webpack = FlutterIconData.materialCommunityIcons(63274);
+  static const IconData wechat = FlutterIconData.materialCommunityIcons(62993);
+  static const IconData weight = FlutterIconData.materialCommunityIcons(62881);
   static const IconData weightGram =
       FlutterIconData.materialCommunityIcons(64795);
   static const IconData weightKilogram =
@@ -8006,8 +7251,7 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62883);
   static const IconData wheelchairAccessibility =
       FlutterIconData.materialCommunityIcons(62884);
-  static const IconData whistle =
-      FlutterIconData.materialCommunityIcons(63925);
+  static const IconData whistle = FlutterIconData.materialCommunityIcons(63925);
   static const IconData whiteBalanceAuto =
       FlutterIconData.materialCommunityIcons(62885);
   static const IconData whiteBalanceIncandescent =
@@ -8016,12 +7260,9 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62887);
   static const IconData whiteBalanceSunny =
       FlutterIconData.materialCommunityIcons(62888);
-  static const IconData widgets =
-      FlutterIconData.materialCommunityIcons(63275);
-  static const IconData wifi =
-      FlutterIconData.materialCommunityIcons(62889);
-  static const IconData wifiOff =
-      FlutterIconData.materialCommunityIcons(62890);
+  static const IconData widgets = FlutterIconData.materialCommunityIcons(63275);
+  static const IconData wifi = FlutterIconData.materialCommunityIcons(62889);
+  static const IconData wifiOff = FlutterIconData.materialCommunityIcons(62890);
   static const IconData wifiStar =
       FlutterIconData.materialCommunityIcons(65131);
   static const IconData wifiStrength_1 =
@@ -8058,10 +7299,8 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(63789);
   static const IconData wifiStrengthOutline =
       FlutterIconData.materialCommunityIcons(63790);
-  static const IconData wii =
-      FlutterIconData.materialCommunityIcons(62891);
-  static const IconData wiiU =
-      FlutterIconData.materialCommunityIcons(63276);
+  static const IconData wii = FlutterIconData.materialCommunityIcons(62891);
+  static const IconData wiiU = FlutterIconData.materialCommunityIcons(63276);
   static const IconData wikipedia =
       FlutterIconData.materialCommunityIcons(62892);
   static const IconData windTurbine =
@@ -8078,36 +7317,28 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62897);
   static const IconData windowRestore =
       FlutterIconData.materialCommunityIcons(62898);
-  static const IconData windows =
-      FlutterIconData.materialCommunityIcons(62899);
+  static const IconData windows = FlutterIconData.materialCommunityIcons(62899);
   static const IconData windowsClassic =
       FlutterIconData.materialCommunityIcons(64032);
-  static const IconData wiper =
-      FlutterIconData.materialCommunityIcons(64232);
+  static const IconData wiper = FlutterIconData.materialCommunityIcons(64232);
   static const IconData wiperWash =
       FlutterIconData.materialCommunityIcons(64898);
   static const IconData wordpress =
       FlutterIconData.materialCommunityIcons(62900);
-  static const IconData worker =
-      FlutterIconData.materialCommunityIcons(62901);
-  static const IconData wrap =
-      FlutterIconData.materialCommunityIcons(62902);
+  static const IconData worker = FlutterIconData.materialCommunityIcons(62901);
+  static const IconData wrap = FlutterIconData.materialCommunityIcons(62902);
   static const IconData wrapDisabled =
       FlutterIconData.materialCommunityIcons(64443);
-  static const IconData wrench =
-      FlutterIconData.materialCommunityIcons(62903);
+  static const IconData wrench = FlutterIconData.materialCommunityIcons(62903);
   static const IconData wrenchOutline =
       FlutterIconData.materialCommunityIcons(64444);
   static const IconData wonderList =
       FlutterIconData.materialCommunityIcons(62904);
-  static const IconData xamarin =
-      FlutterIconData.materialCommunityIcons(63556);
+  static const IconData xamarin = FlutterIconData.materialCommunityIcons(63556);
   static const IconData xamarinOutline =
       FlutterIconData.materialCommunityIcons(63557);
-  static const IconData xaml =
-      FlutterIconData.materialCommunityIcons(63091);
-  static const IconData xbox =
-      FlutterIconData.materialCommunityIcons(62905);
+  static const IconData xaml = FlutterIconData.materialCommunityIcons(63091);
+  static const IconData xbox = FlutterIconData.materialCommunityIcons(62905);
   static const IconData xboxController =
       FlutterIconData.materialCommunityIcons(62906);
   static const IconData xboxControllerBatteryAlert =
@@ -8130,30 +7361,19 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(62907);
   static const IconData xboxControllerView =
       FlutterIconData.materialCommunityIcons(65107);
-  static const IconData xda =
-      FlutterIconData.materialCommunityIcons(62908);
-  static const IconData xing =
-      FlutterIconData.materialCommunityIcons(62909);
-  static const IconData xingBox =
-      FlutterIconData.materialCommunityIcons(62910);
+  static const IconData xda = FlutterIconData.materialCommunityIcons(62908);
+  static const IconData xing = FlutterIconData.materialCommunityIcons(62909);
+  static const IconData xingBox = FlutterIconData.materialCommunityIcons(62910);
   static const IconData xingCircle =
       FlutterIconData.materialCommunityIcons(62911);
-  static const IconData xml =
-      FlutterIconData.materialCommunityIcons(62912);
-  static const IconData xmpp =
-      FlutterIconData.materialCommunityIcons(63486);
-  static const IconData yahoo =
-      FlutterIconData.materialCommunityIcons(64298);
-  static const IconData yammer =
-      FlutterIconData.materialCommunityIcons(63368);
-  static const IconData yeast =
-      FlutterIconData.materialCommunityIcons(62913);
-  static const IconData yelp =
-      FlutterIconData.materialCommunityIcons(62914);
-  static const IconData yinYang =
-      FlutterIconData.materialCommunityIcons(63103);
-  static const IconData youtube =
-      FlutterIconData.materialCommunityIcons(62915);
+  static const IconData xml = FlutterIconData.materialCommunityIcons(62912);
+  static const IconData xmpp = FlutterIconData.materialCommunityIcons(63486);
+  static const IconData yahoo = FlutterIconData.materialCommunityIcons(64298);
+  static const IconData yammer = FlutterIconData.materialCommunityIcons(63368);
+  static const IconData yeast = FlutterIconData.materialCommunityIcons(62913);
+  static const IconData yelp = FlutterIconData.materialCommunityIcons(62914);
+  static const IconData yinYang = FlutterIconData.materialCommunityIcons(63103);
+  static const IconData youtube = FlutterIconData.materialCommunityIcons(62915);
   static const IconData youtubeCreatorStudio =
       FlutterIconData.materialCommunityIcons(63558);
   static const IconData youtubeGaming =
@@ -8162,18 +7382,13 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64796);
   static const IconData youtubeTv =
       FlutterIconData.materialCommunityIcons(62536);
-  static const IconData zWave =
-      FlutterIconData.materialCommunityIcons(64233);
-  static const IconData zend =
-      FlutterIconData.materialCommunityIcons(64234);
-  static const IconData zigbee =
-      FlutterIconData.materialCommunityIcons(64797);
-  static const IconData zipBox =
-      FlutterIconData.materialCommunityIcons(62916);
+  static const IconData zWave = FlutterIconData.materialCommunityIcons(64233);
+  static const IconData zend = FlutterIconData.materialCommunityIcons(64234);
+  static const IconData zigbee = FlutterIconData.materialCommunityIcons(64797);
+  static const IconData zipBox = FlutterIconData.materialCommunityIcons(62916);
   static const IconData zipBoxOutline =
       FlutterIconData.materialCommunityIcons(983067);
-  static const IconData zipDisk =
-      FlutterIconData.materialCommunityIcons(64034);
+  static const IconData zipDisk = FlutterIconData.materialCommunityIcons(64034);
   static const IconData zodiacAquarius =
       FlutterIconData.materialCommunityIcons(64124);
   static const IconData zodiacAries =
@@ -8198,6 +7413,5 @@ class MaterialCommunityIcons {
       FlutterIconData.materialCommunityIcons(64134);
   static const IconData zodiacVirgo =
       FlutterIconData.materialCommunityIcons(64135);
-  static const IconData blank =
-      FlutterIconData.materialCommunityIcons(63116);
+  static const IconData blank = FlutterIconData.materialCommunityIcons(63116);
 }

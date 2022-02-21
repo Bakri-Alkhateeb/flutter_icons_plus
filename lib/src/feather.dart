@@ -20,16 +20,13 @@ class Feather {
   static const IconData aperture = FlutterIconData.feather(59658);
   static const IconData archive = FlutterIconData.feather(59659);
   static const IconData arrowDown = FlutterIconData.feather(59660);
-  static const IconData arrowDownCircle =
-      FlutterIconData.feather(59661);
+  static const IconData arrowDownCircle = FlutterIconData.feather(59661);
   static const IconData arrowDownLeft = FlutterIconData.feather(59662);
   static const IconData arrowDownRight = FlutterIconData.feather(59663);
   static const IconData arrowLeft = FlutterIconData.feather(59664);
-  static const IconData arrowLeftCircle =
-      FlutterIconData.feather(59665);
+  static const IconData arrowLeftCircle = FlutterIconData.feather(59665);
   static const IconData arrowRight = FlutterIconData.feather(59666);
-  static const IconData arrowRightCircle =
-      FlutterIconData.feather(59667);
+  static const IconData arrowRightCircle = FlutterIconData.feather(59667);
   static const IconData arrowUp = FlutterIconData.feather(59668);
   static const IconData arrowUpCircle = FlutterIconData.feather(59669);
   static const IconData arrowUpLeft = FlutterIconData.feather(59670);
@@ -80,12 +77,10 @@ class Feather {
   static const IconData compass = FlutterIconData.feather(59715);
   static const IconData copy = FlutterIconData.feather(59716);
   static const IconData cornerDownLeft = FlutterIconData.feather(59717);
-  static const IconData cornerDownRight =
-      FlutterIconData.feather(59718);
+  static const IconData cornerDownRight = FlutterIconData.feather(59718);
   static const IconData cornerLeftDown = FlutterIconData.feather(59719);
   static const IconData cornerLeftUp = FlutterIconData.feather(59720);
-  static const IconData cornerRightDown =
-      FlutterIconData.feather(59721);
+  static const IconData cornerRightDown = FlutterIconData.feather(59721);
   static const IconData cornerRightUp = FlutterIconData.feather(59722);
   static const IconData cornerUpLeft = FlutterIconData.feather(59723);
   static const IconData cornerUpRight = FlutterIconData.feather(59724);
